@@ -1,0 +1,104 @@
+Sun May  8 19:52:30 2016: Starting...
+Sun May  8 19:52:30 2016: Creating vocabulary...
+Sun May  8 20:07:21 2016: 23769344 words inserted into the vocabulary
+Sun May  8 20:07:21 2016: Finding frequent words from the vocabulary...
+Sun May  8 20:07:24 2016: 1362 frequent words found
+Sun May  8 20:07:24 2016: 7886058 words in vocabulary occurring 1 time
+Sun May  8 20:07:24 2016: 11389328 words in vocabulary occurring 2 times or less
+Sun May  8 20:07:24 2016: 17391236 words in vocabulary occurring 5 times or less
+Sun May  8 20:07:24 2016: 20647946 words in vocabulary occurring 10 times or less
+Sun May  8 20:07:24 2016: 21940490 words in vocabulary occurring 20 times or less
+Sun May  8 20:07:24 2016: Finding cluster candidates...
+Sun May  8 20:19:42 2016: 913546 cluster candidates found
+Sun May  8 20:19:42 2016: Finding clusters from the set of candidates...
+Sun May  8 20:19:42 2016: 28 clusters found
+- * 2006.04.06 * Apr 6 * * kernel: 
+Support: 433145
+
+- * 2006.03.30 * Mar 30 * * kernel: 
+Support: 423688
+
+- * 2006.03.29 * Mar 29 * * kernel: 
+Support: 302055
+
+- * 2006.01.12 * Jan 12 * * kernel: 
+Support: 356196
+
+- * 2006.01.11 * Jan 11 * * kernel: 
+Support: 267428
+
+- * 2006.01.04 * Jan 4 * * kernel: 
+Support: 225560
+
+- * 2006.04.19 * Apr 19 * * kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed 
+Support: 1099863
+
+- * 2006.04.19 * Apr 19 * * kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN 
+Support: 1100208
+
+- * 2006.04.18 * Apr 18 * * kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed 
+Support: 492268
+
+- * 2006.04.18 * Apr 18 * * kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN 
+Support: 491802
+
+- * 2006.06.27 * Jun 27 * * kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state 
+Support: 242490
+
+- * 2006.05.08 * May 8 * * kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[412]: MOSAL_virt_to_phys_ex: cannot retrieve pgd_p: prot_ctx=USER, 
+Support: 320601
+
+- * 2006.05.08 * May 8 * * kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, 
+Support: 2506663
+
+- * 2006.05.07 * May 7 * * kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, 
+Support: 336774
+
+- * 2006.05.05 * May 5 * * kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, 
+Support: 309087
+
+- * 2006.05.04 * May 4 * * kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, 
+Support: 216993
+
+R_MTT * 2006.04.19 * Apr 19 * * kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries 
+Support: 1099689
+
+R_MTT * 2006.04.18 * Apr 18 * * kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries 
+Support: 491816
+
+- * 2006.05.25 #9# May 25 * #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support: 1192430
+
+- * 2006.05.24 #9# May 24 * #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support: 749231
+
+- * 2006.04.04 * Apr 4 * * kernel: pan_ips: error -- cmd_destroy: destroying timed out command 
+Support: 273421
+
+N_MAIL * 2006.02.22 an538 Feb 22 * an538/an538 * warning: mail_queue_enter: create file * Read-only file system 
+Support: 222987
+
+R_VAPI * 2006.06.27 * Jun 27 * * kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error)) 
+Support: 242478
+
+- * 2006.04.19 * Apr 19 * * kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments * dynamic MTT segments left) 
+Support: 828082
+
+- * 2006.04.04 * Apr 4 * * kernel: pan_ips: error -- cmd_destroy: destroying aborted (rc=0x1d78 (IPS: command timed out)) command 
+Support: 273481
+
+- * 20Sun May  8 20:19:42 2016: Analysis complete
+06.06.27 * Jun 27 * * kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011) 
+Support: 242475
+
+- * 2006.04.04 * Apr 4 * * kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 
+Support: 273488
+
+- * 2006.04.04 * Apr 4 * * kernel: pan_ips: error -- IPS command timeout command timed out * * * grace_timeouts=0 * * (connection info not avail 0x23a5 (pan_sock: socket not connected)) 
+Support: 267784
+
+Command line: ./SLCT -s 0.1% TDB
+Rumtime: 1632.99
+CPU system: 15.42
+CPU user: 1613.46
+Memory Consumption: 1975684

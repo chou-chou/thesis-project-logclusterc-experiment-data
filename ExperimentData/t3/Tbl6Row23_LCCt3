@@ -1,0 +1,42 @@
+Wed May 11 15:58:58 2016: File TDB is added
+Wed May 11 15:58:58 2016: Starting...
+Wed May 11 15:58:58 2016: Creating vocabulary...
+Wed May 11 16:15:09 2016: 23,330,821 words were inserted into the vocabulary.
+Wed May 11 16:15:09 2016: Finding frequent words from vocabulary...
+Wed May 11 16:15:12 2016: 404 frequent words were found.
+Wed May 11 16:15:12 2016: 32% - 7,561,438 words in vocabulary occur 1 time.
+Wed May 11 16:15:12 2016: 47% - 11,110,168 words in vocabulary occur 2 times or less.
+Wed May 11 16:15:12 2016: 72% - 17,011,865 words in vocabulary occur 5 times or less.
+Wed May 11 16:15:12 2016: 86% - 20,268,254 words in vocabulary occur 10 times or less.
+Wed May 11 16:15:12 2016: 92% - 21,536,130 words in vocabulary occur 20 times or less.
+Wed May 11 16:15:12 2016: 100.00% - 23,330,417 words in vocabulary occur less than 1056060(support) times.
+Wed May 11 16:15:12 2016: Finding cluster candidates...
+Wed May 11 16:28:25 2016: 197,847 cluster candidates were found.
+Wed May 11 16:28:25 2016: Finding clusters...
+Wed May 11 16:28:25 2016: 6 cluster were found.
+Wed May 11 16:28:25 2016: Joining clusters...
+Wed May 11 16:28:25 2016: 6 clusters contain frequent words under word weightthreshold.
+Wed May 11 16:28:25 2016: Those clusters were joined into 5 clusters.
+Wed May 11 16:28:25 2016: Total number of clusters: 5
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 2,520,874
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: (THH(1):|VIPKL(1):) *{0,1} (XHH_mrwm_register_mr:|[MM_create_mr]:MM_mr_get_keys) *{0,1} (rc=HH_EAGAIN|failed) 
+Support : 2,205,181
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support : 1,192,523
+
+R_MTT *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,2} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: *{0,1} alloc_reg_pages: Out of MTT entries 
+Support : 1,102,489
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: *{0,1} reserve_mtt_segs: Cannot reserve 255 MTT segments *{1,1} dynamic MTT segments left) 
+Support : 1,102,272
+
+
+Command line: ./LogClusterC --input=TDB --rsupport=0.5 --wweight=0.6
+Rumtime: 1767.51
+CPU system: 16.21
+CPU user: 1745.48
+Memory Consumption: 1927920

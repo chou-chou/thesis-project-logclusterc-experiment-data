@@ -1,0 +1,143 @@
+Tue May 10 10:07:02 2016: Starting the clustering process...
+Tue May 10 10:07:28 2016: Total 3170514 lines read from input sources, using absolute support 3170 (relative support 0.1 percent)
+Tue May 10 10:07:28 2016: Total number of frequent words: 928
+Tue May 10 10:08:03 2016: Total number of candidates: 1046947
+Tue May 10 10:08:07 2016: Total number of frequent candidates: 44
+Tue May 10 10:08:10 2016: Total number of clusters: 44
+[Mon Jun 23 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 11421
+
+[Mon Jun 23 *{2,2} PTL_EVENT_ACK 
+Support: 11404
+
+[Wed Jun 11 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 8556
+
+[Wed Jun 11 *{2,2} PTL_EVENT_ACK 
+Support: 8555
+
+[Mon Jun 16 *{2,2} PTL_EVENT_ACK 
+Support: 7831
+
+[Mon Jun 16 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 7826
+
+[Tue May 13 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 7337
+
+[Tue May 13 *{2,2} PTL_EVENT_ACK 
+Support: 7337
+
+[Sun Jun 22 *{2,2} PTL_EVENT_ACK 
+Support: 6959
+
+[Sun Jun 22 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 6958
+
+[Mon Jun 2 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 6757
+
+[Mon Jun 2 *{2,2} PTL_EVENT_ACK 
+Support: 6752
+
+[Thu Jun 12 *{2,2} PTL_EVENT_ACK 
+Support: 6479
+
+[Thu Jun 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 6477
+
+[Thu Jun 5 *{2,2} PTL_EVENT_ACK 
+Support: 5718
+
+[Thu Jun 5 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 5708
+
+[Wed Jun 18 *{2,2} PTL_EVENT_ACK 
+Support: 4700
+
+[Wed Jun 18 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4698
+
+[Mon Jun 30 *{2,2} PTL_EVENT_ACK 
+Support: 4689
+
+[Mon Jun 30 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4687
+
+[Tue Jun 10 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4561
+
+[Tue Jun 10 *{2,2} PTL_EVENT_ACK 
+Support: 4560
+
+[Fri May 16 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4522
+
+[Fri May 16 *{2,2} PTL_EVENT_ACK 
+Support: 4520
+
+[Sun Jun 8 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4470
+
+[Sun Jun 8 *{2,2} PTL_EVENT_ACK 
+Support: 4469
+
+[Sat May 10 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4457
+
+[Sat May 10 *{2,2} PTL_EVENT_ACK 
+Support: 4457
+
+[Mon Jun 9 *{2,2} PTL_EVENT_ACK 
+Support: 4279
+
+[Mon Jun 9 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4272
+
+[Tue Jun 24 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4080
+
+[Tue Jun 24 *{2,2} PTL_EVENT_ACK 
+Support: 4079
+
+[Tue May 20 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 3715
+
+[Tue May 20 *{2,2} PTL_EVENT_ACK 
+Support: 3711
+
+[Fri Jun 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 3517
+
+[Fri Jun 6 *{2,2} PTL_EVENT_ACK 
+Support: 3516
+
+[Tue Jul 1 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 3489
+
+[Tue Jul 1 *{2,2} PTL_EVENT_ACK 
+Support: 3489
+
+[Mon Jul 7 *{2,2} PTL_EVENT_ACK 
+Support: 3433
+
+[Mon Jul 7 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 3430
+
+[Tue May 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 3255
+
+[Tue May 6 *{2,2} PTL_EVENT_ACK 
+Support: 3254
+
+[Thu Jun 19 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 3203
+
+[Thu Jun 19 *{2,2} PTL_EVENT_ACK 
+Support: 3199
+
+Command line: perl logcluster.pl --input=Cray_C --rsupport=0.1
+Rumtime: 67.96
+CPU system: 0.87
+CPU user: 67.12
+Memory Consumption: 3942876

@@ -1,0 +1,497 @@
+Fri May 13 17:13:45 2016: Starting the clustering process...
+Fri May 13 17:14:45 2016: Total 4747963 lines read from input sources, using absolute support 4747 (relative support 0.1 percent)
+Fri May 13 17:14:49 2016: Total number of frequent words: 564
+Fri May 13 17:16:00 2016: Total number of candidates: 34844
+Fri May 13 17:16:00 2016: Total number of frequent candidates: 162
+- *{1,1} 2005.07.09 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 370155
+
+- *{1,1} 2005.07.13 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 174344
+
+KERNDTLB *{1,1} 2005.06.11 R30-M0-N9-C:J16-U01 *{1,1} R30-M0-N9-C:J16-U01 RAS KERNEL FATAL data TLB error interrupt 
+Support: 152182
+
+- *{1,1} 2005.12.01 *{3,3} RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr. 
+Support: 133522
+
+- *{1,1} 2005.12.01 *{3,3} RAS KERNEL INFO *{1,1} total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt. 
+Support: 128853
+
+- *{1,1} 2005.07.28 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 115730
+
+- *{1,1} 2005.06.05 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 96900
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 80390
+
+- *{1,1} 2005.07.23 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 80116
+
+- *{1,1} 2005.07.15 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 78714
+
+- *{1,1} 2005.07.01 *{3,3} RAS KERNEL INFO 1146800 double-hummer alignment exceptions 
+Support: 74085
+
+- *{1,1} 2005.06.30 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 70248
+
+- *{1,1} 2005.06.25 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 69631
+
+- *{1,1} 2005.07.17 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 65524
+
+- *{1,1} 2005.07.20 *{3,3} RAS KERNEL INFO 8 floating point alignment exceptions 
+Support: 65506
+
+- *{1,1} 2005.09.20 NULL *{1,1} NULL RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*) 
+Support: 64848
+
+- *{1,1} 2005.07.04 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 60579
+
+- *{1,1} 2005.07.26 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 54474
+
+- *{1,1} 2005.07.03 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 53000
+
+- *{1,1} 2005.07.23 *{3,3} RAS KERNEL INFO 5 floating point alignment exceptions 
+Support: 52985
+
+- *{1,1} 2005.08.28 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 49150
+
+- *{1,1} 2005.07.07 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 47215
+
+KERNSTOR *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL data storage interrupt 
+Support: 47096
+
+- *{1,1} 2005.07.01 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 45975
+
+- *{1,1} 2005.07.24 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 37532
+
+- *{1,1} 2005.07.23 *{3,3} RAS KERNEL INFO 15 floating point alignment exceptions 
+Support: 32766
+
+- *{1,1} 2005.07.10 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 32764
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL instruction address: 0x00004ed8 
+Support: 30716
+
+- *{1,1} 2005.11.09 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 28920
+
+- *{1,1} 2005.07.18 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 28061
+
+- *{1,1} 2005.06.07 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 26014
+
+- *{1,1} 2005.07.12 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 25619
+
+- *{1,1} 2005.06.29 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 25129
+
+- *{1,1} 2005.06.25 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 25084
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL *{1,4}
+Support: 24590
+
+- *{1,1} 2005.06.29 *{3,3} RAS KERNEL INFO 344040 double-hummer alignment exceptions 
+Support: 23431
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO 2354412 floating point alignment exceptions 
+Support: 22795
+
+- *{1,1} 2005.07.13 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 22282
+
+- *{1,1} 2005.08.28 *{3,3} RAS KERNEL INFO iar 0014a150 dear *{1,1}
+Support: 21699
+
+- *{1,1} 2005.12.26 R37-M1-NC-C:J02-U11 *{1,1} R37-M1-NC-C:J02-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 21450
+
+- *{1,1} 2005.08.12 *{3,3} RAS APP FATAL ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error 
+Support: 20460
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO iar 003a9260 dear *{1,1}
+Support: 20459
+
+- *{1,1} 2005.12.06 *{3,3} RAS KERNEL INFO Kernel detected *{1,1} integer alignment exceptions *{1,1} iar 0x00544ea8, dear *{2,2} iar 0x00544eb8, dear *{2,2} iar 0x00544ea8, dear *{2,2} iar 0x00544eb8, dear *{2,2} iar 0x00544ee0, dear *{2,2} iar 0x00544ef0, dear *{2,2} iar 0x00544ee0, dear *{2,2} iar 0x00544ef0, dear *{1,1}
+Support: 19726
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106568 dear *{1,1}
+Support: 19394
+
+- *{1,1} 2005.08.03 NULL *{1,1} NULL RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*) 
+Support: 19320
+
+- *{1,1} 2005.06.14 R02-M1-N0-C:J12-U11 *{1,1} R02-M1-N0-C:J12-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 19049
+
+- *{1,1} 2005.06.06 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 18366
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106580 dear *{1,1}
+Support: 17632
+
+- *{1,1} 2005.06.09 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 17628
+
+- *{1,1} 2005.06.20 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 17461
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 17411
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 16949
+
+- *{1,1} 2005.07.23 *{3,3} RAS KERNEL INFO 1005 floating point alignment exceptions 
+Support: 16382
+
+- *{1,1} 2005.07.23 *{3,3} RAS KERNEL INFO 685 floating point alignment exceptions 
+Support: 16382
+
+KERNSTOR *{1,1} 2005.06.13 *{3,3} RAS KERNEL FATAL data storage interrupt 
+Support: 16380
+
+- *{1,1} 2005.06.13 *{3,3} RAS KERNEL FATAL instruction address: 0x00004ed8 
+Support: 16380
+
+- *{1,1} 2005.06.06 R02-M1-N0-C:J12-U11 *{1,1} R02-M1-N0-C:J12-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 16071
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO 62500 floating point alignment exceptions 
+Support: 15207
+
+- *{5,5} RAS KERNEL INFO generating *{1,1}
+Support: 15044
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO *{1,1} floating point alignment exceptions 
+Support: 14912
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO 
+Support: 14912
+
+- *{1,1} 2005.11.21 R26-M0-N0-I:J18-U11 *{1,1} R26-M0-N0-I:J18-U11 RAS KERNEL INFO MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+Support: 14481
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL data address: 0x00000002 
+Support: 14336
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL machine check: i-fetch......................0 
+Support: 14336
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL exception syndrome register: 0x00800000 
+Support: 14336
+
+- *{1,1} 2005.10.17 R02-M0-N4-C:J04-U11 *{1,1} R02-M0-N4-C:J04-U11 RAS KERNEL INFO data cache search parity error detected. attempting to correct 
+Support: 13922
+
+- *{1,1} 2005.06.22 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 13903
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106534 dear *{1,1}
+Support: 12768
+
+- *{1,1} 2005.07.07 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 12716
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 12581
+
+- *{1,1} 2005.06.16 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 12548
+
+- *{1,1} 2005.12.27 R37-M1-NC-C:J02-U11 *{1,1} R37-M1-NC-C:J02-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 11853
+
+- *{1,1} 2005.09.20 *{3,3} RAS APP FATAL ciod: Error loading *{1,1} invalid or missing program image, No such file or directory 
+Support: 11620
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106210 dear 0244c20c 
+Support: 11462
+
+- *{1,1} 2005.07.01 *{3,3} RAS KERNEL INFO 458720 double-hummer alignment exceptions 
+Support: 11134
+
+- *{1,1} 2005.12.09 *{3,3} RAS APP FATAL ciod: Error loading *{1,1} invalid or missing program image, Permission denied 
+Support: 10870
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: illegal instruction......0 
+Support: 10240
+
+APPSEV *{5,5} RAS APP FATAL ciod: Error reading message prefix on CioStream socket to *{1,1} Link has been severed 
+Support: 10204
+
+KERNMNTF *{5,5} RAS KERNEL FATAL Lustre mount FAILED : *{1,1} : point /p/gb1 
+Support: 10026
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106228 dear 0244c21c 
+Support: 9947
+
+- *{1,1} 2005.11.08 *{3,3} RAS KERNEL INFO iar 00106200 dear *{1,1}
+Support: 9486
+
+- *{1,1} 2005.11.08 *{3,3} RAS KERNEL INFO iar 001061e8 dear *{1,1}
+Support: 9486
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO iar 003a929c dear *{1,1}
+Support: 9253
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO iar 003a92a0 dear *{1,1}
+Support: 9253
+
+- *{1,1} 2005.08.22 *{3,3} RAS KERNEL INFO ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+Support: 9203
+
+- *{1,1} 2005.06.16 R02-M1-N0-C:J12-U11 *{1,1} R02-M1-N0-C:J12-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 8470
+
+- *{1,1} 2005.06.08 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 8398
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 001061dc dear 0244c25c 
+Support: 8365
+
+- *{1,1} 2005.06.21 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 8273
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO *{1,1} floating point alignment exceptions 
+Support: 8268
+
+- *{1,1} 2005.07.02 *{3,3} RAS KERNEL INFO generating *{1,1}
+Support: 8192
+
+- *{1,1} 2005.07.09 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 8191
+
+- *{1,1} 2005.06.23 *{3,3} RAS KERNEL INFO 3091200 double-hummer alignment exceptions 
+Support: 8052
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO 773760 double-hummer alignment exceptions 
+Support: 7936
+
+- *{5,5} RAS KERNEL INFO ciod: generated 64 core files for program *{1,1}
+Support: 7809
+
+- *{1,1} 2005.06.15 R02-M1-N0-C:J12-U11 *{1,1} R02-M1-N0-C:J12-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 7741
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106210 dear 0244c23c 
+Support: 7622
+
+- *{5,5} RAS KERNEL INFO ciod: generated 128 core files for program *{1,1}
+Support: 7335
+
+APPSEV *{5,5} RAS APP FATAL ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to *{1,1} Link has been severed 
+Support: 7253
+
+- *{1,1} 2005.11.07 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 7180
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 6648
+
+- *{1,1} 2005.11.08 *{3,3} RAS KERNEL INFO iar 001061b4 dear *{1,1}
+Support: 6324
+
+- *{1,1} 2005.11.08 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 6288
+
+- *{5,5} RAS KERNEL INFO total of 1 ddr error(s) detected and corrected 
+Support: 6275
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL instruction address space.........0 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL disable store gathering..................0 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL wait state enable.................0 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL debug interrupt enable............0 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL debug wait enable.................0 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL data address space................0 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL floating point instr. enabled.....1 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL core configuration register: 0x00002000 
+Support: 6145
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL auxiliary processor.........................0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: fp cr field .............0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL critical input interrupt enable...0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL floating pt ex mode 0 enable......0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: trap instruction.........0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL problem state (0=sup,1=usr).......0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL store operation.............................1 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL data store interrupt caused by dcbf.........0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL external input interrupt enable...0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL machine check enable..............0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL floating point operation....................0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: imprecise exception......0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: fp compare...............0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: privileged instruction...0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL floating pt ex mode 1 enable......0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: fp cr update.............0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL byte ordering exception.....................0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL machine state register: 0x00002000 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL program interrupt: unimplemented operation..0 
+Support: 6144
+
+- *{1,1} 2005.06.14 *{3,3} RAS KERNEL FATAL data store interrupt caused by icbi.........0 
+Support: 6144
+
+- *{1,1} 2005.11.10 *{3,3} RAS KERNEL INFO iar *{1,1} dear *{1,1}
+Support: 6008
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106210 dear 0244c1dc 
+Support: 5760
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106228 dear 0244c1ec 
+Support: 5760
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 001061dc dear 0244c22c 
+Support: 5760
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO iar 00106228 dear 0244c24c 
+Support: 5727
+
+- *{1,1} 2005.09.20 *{3,3} RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory 
+Support: 5632
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO 640764 floating point alignment exceptions 
+Support: 5584
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO 640404 floating point alignment exceptions 
+Support: 5584
+
+- *{1,1} 2005.08.02 *{3,3} NULL DISCOVERY ERROR Found invalid node ecid in processor card slot *{1,1} ecid 0000000000000000000000000000 
+Support: 5558
+
+- *{1,1} 2005.07.01 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 5522
+
+- *{1,1} 2005.08.28 *{3,3} RAS KERNEL INFO iar 00149f88 dear *{1,1}
+Support: 5493
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar 00106bd8 dear *{1,1}
+Support: 5472
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar 00106bc0 dear *{1,1}
+Support: 5472
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar 00106588 dear *{1,1}
+Support: 5456
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar 00106570 dear *{1,1}
+Support: 5448
+
+- *{1,1} 2005.09.20 *{3,3} RAS APP FATAL ciod: LOGIN *{1,1} failed: No such file or directory 
+Support: 5446
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar 001066c4 dear *{1,1}
+Support: 5376
+
+- *{1,1} 2005.11.04 *{3,3} RAS KERNEL INFO iar 001066ac dear *{1,1}
+Support: 5376
+
+- *{1,1} 2005.06.23 *{3,3} RAS KERNEL INFO *{1,1} double-hummer alignment exceptions 
+Support: 5360
+
+- *{1,1} 2005.08.28 *{3,3} RAS KERNEL INFO iar 0014a1e4 dear *{1,1}
+Support: 5351
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO iar 003a9254 dear *{1,1}
+Support: 5243
+
+- *{1,1} 2005.08.26 *{3,3} RAS KERNEL INFO iar 003a926c dear *{1,1}
+Support: 5157
+
+- *{1,1} 2005.08.28 *{3,3} RAS KERNEL INFO iar 00149ee0 dear *{1,1}
+Support: 5150
+
+- *{1,1} 2005.10.05 *{3,3} RAS APP FATAL ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts: invalid or missing program image, Permission denied 
+Support: 5115
+
+- *{5,5} RAS KERNEL INFO ciod: pollControlDescriptors: Detected the debugger died. 
+Support: 5114
+
+- *{1,1} 2005.09.02 *{3,3} RAS APP FATAL ciod: LOGIN *{1,1} failed: No such file or directory 
+Support: 4992
+
+- *{5,5} RAS APP FATAL ciod: LOGIN *{1,1} failed: No such file or directory 
+Support: 4876
+
+- *{1,1} 2005.06.03 R02-M1-N0-C:J12-U11 *{1,1} R02-M1-N0-C:J12-U11 RAS KERNEL INFO instruction cache parity error corrected 
+Support: 4865
+
+- *{1,1} 2005.12.01 *{3,3} RAS KEFri May 13 17:16:00 2016: Total number of clusters: 162
+RNEL INFO 10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt. 
+Support: 4753
+
+- *{1,1} 2005.11.03 *{3,3} RAS KERNEL INFO 
+Support: 4749
+
+Command line: perl logcluster.pl --input=BGL --rsupport=0.1
+Rumtime: 135.55
+CPU system: 0.57
+CPU user: 135.05
+Memory Consumption: 1152720

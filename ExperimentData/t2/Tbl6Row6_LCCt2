@@ -1,0 +1,248 @@
+Sat May  7 04:33:29 2016: File Cray_B is added
+Sat May  7 04:33:29 2016: Starting...
+Sat May  7 04:33:29 2016: Creating vocabulary...
+Sat May  7 04:33:30 2016: 4,853 words were inserted into the vocabulary.
+Sat May  7 04:33:30 2016: Finding frequent words from vocabulary...
+Sat May  7 04:33:30 2016: 77 frequent words were found.
+Sat May  7 04:33:30 2016: 27% - 1,343 words in vocabulary occur 1 time.
+Sat May  7 04:33:30 2016: 33% - 1,626 words in vocabulary occur 2 times or less.
+Sat May  7 04:33:30 2016: 48% - 2,360 words in vocabulary occur 5 times or less.
+Sat May  7 04:33:30 2016: 49% - 2,408 words in vocabulary occur 10 times or less.
+Sat May  7 04:33:30 2016: 53% - 2,576 words in vocabulary occur 20 times or less.
+Sat May  7 04:33:30 2016: 98.41% - 4,776 words in vocabulary occur less than 4790(support) times.
+Sat May  7 04:33:30 2016: Finding cluster candidates...
+Sat May  7 04:33:32 2016: 5,700 cluster candidates were found.
+Sat May  7 04:33:32 2016: Aggregate cluster candidates...
+Sat May  7 04:33:32 2016: 12,832 nodes in the prefix tree.
+Sat May  7 04:33:32 2016: Finding clusters...
+Sat May  7 04:33:32 2016: 74 cluster were found.
+Sat May  7 04:33:32 2016: Total number of clusters: 74
+
+[Sat Sep 27 *{2,352}
+Support : 63,180
+
+[Fri Sep 12 *{2,352}
+Support : 62,849
+
+[Mon Aug 18 *{2,352}
+Support : 61,243
+
+[Fri Aug 15 *{2,352}
+Support : 57,749
+
+[Tue Sep 23 *{2,352}
+Support : 45,694
+
+[Mon Oct 6 *{2,352}
+Support : 44,562
+
+[Mon Sep 8 *{2,352}
+Support : 42,603
+
+[Mon Sep 15 *{2,352}
+Support : 42,120
+
+[Fri Oct 3 *{2,352}
+Support : 38,339
+
+[Tue Aug 12 *{2,352}
+Support : 35,165
+
+[Fri Sep 26 *{2,352}
+Support : 35,133
+
+[Mon Aug 11 *{2,352}
+Support : 34,662
+
+[Tue Oct 7 *{2,352}
+Support : 29,869
+
+[Thu Sep 4 *{2,352}
+Support : 28,126
+
+[Tue Sep 9 *{2,352}
+Support : 22,849
+
+[Tue Sep 30 *{2,352}
+Support : 22,849
+
+[Fri Sep 5 *{2,352}
+Support : 21,142
+
+[Thu Sep 25 *{2,352}
+Support : 21,060
+
+[Tue Aug 26 *{2,352}
+Support : 15,894
+
+[Tue Aug 19 *{2,352}
+Support : 15,829
+
+[Tue Sep 16 *{2,352}
+Support : 15,829
+
+[Thu Sep 11 *{2,352}
+Support : 14,151
+
+[Sun Sep 21 *{2,352}
+Support : 14,040
+
+[Mon Sep 22 *{2,352}
+Support : 14,040
+
+[Mon Sep 1 *{2,352}
+Support : 14,040
+
+[Mon Sep 29 *{2,352}
+Support : 14,040
+
+[Mon Aug 25 *{2,352}
+Support : 14,040
+
+[Thu Oct 2 *{2,352}
+Support : 14,040
+
+[Sat Sep 27 *{2,2} PTL_EVENT_ACK 
+Support : 13,140
+
+[Sat Sep 27 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 13,140
+
+[Fri Sep 12 *{2,2} PTL_EVENT_ACK 
+Support : 13,076
+
+[Fri Sep 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 13,076
+
+[Mon Aug 18 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 12,799
+
+[Mon Aug 18 *{2,2} PTL_EVENT_ACK 
+Support : 12,776
+
+[Fri Aug 15 *{2,2} PTL_EVENT_ACK 
+Support : 12,156
+
+[Fri Aug 15 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 12,156
+
+[Tue Sep 23 *{2,2} PTL_EVENT_ACK 
+Support : 9,592
+
+[Tue Sep 23 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 9,592
+
+[Mon Oct 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 9,529
+
+[Mon Oct 6 *{2,2} PTL_EVENT_ACK 
+Support : 9,204
+
+[Mon Sep 8 *{2,2} PTL_EVENT_ACK 
+Support : 8,837
+
+[Mon Sep 8 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 8,837
+
+[Sun Aug 17 *{2,352}
+Support : 8,767
+
+[Mon Sep 15 *{2,2} PTL_EVENT_ACK 
+Support : 8,760
+
+[Mon Sep 15 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 8,760
+
+[Fri Oct 3 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 7,824
+
+[Fri Oct 3 *{2,2} PTL_EVENT_ACK 
+Support : 7,824
+
+[Tue Aug 12 *{2,2} PTL_EVENT_ACK 
+Support : 7,308
+
+[Tue Aug 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 7,308
+
+[Fri Sep 26 *{2,2} PTL_EVENT_ACK 
+Support : 7,300
+
+[Fri Sep 26 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 7,300
+
+[Mon Aug 11 *{2,2} PTL_EVENT_ACK 
+Support : 7,220
+
+[Mon Aug 11 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 7,220
+
+[Sun Oct 5 *{2,352}
+Support : 7,158
+
+[Thu Aug 21 *{2,352}
+Support : 7,020
+
+[Sun Sep 14 *{2,352}
+Support : 7,020
+
+[Sun Sep 28 *{2,352}
+Support : 7,020
+
+[Thu Aug 14 *{2,352}
+Support : 7,020
+
+[Fri Sep 19 *{2,352}
+Support : 7,020
+
+[Tue Sep 2 *{2,352}
+Support : 7,020
+
+[Sat Oct 4 *{2,352}
+Support : 7,020
+
+[Thu Aug 28 *{2,352}
+Support : 7,020
+
+[Sun Aug 24 *{2,352}
+Support : 7,020
+
+[Fri Aug 22 *{2,352}
+Support : 7,020
+
+[Thu Sep 18 *{2,352}
+Support : 7,020
+
+[Sun Aug 10 *{2,351}
+Support : 7,001
+
+[Tue Oct 7 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 6,256
+
+[Tue Oct 7 *{2,2} PTL_EVENT_ACK 
+Support : 6,256
+
+[Thu Sep 4 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 5,844
+
+[Thu Sep 4 *{2,2} PTL_EVENT_ACK 
+Support : 5,844
+
+[Tue Sep 9 *{2,2} PTL_EVENT_ACK 
+Support : 4,796
+
+[Tue Sep 30 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 4,796
+
+[Tue Sep 9 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 4,796
+
+[Tue Sep 30 *{2,2} PTL_EVENT_ACK 
+Support : 4,796
+
+
+Command line: ./LogClusterC --input=Cray_B --rsupport=0.5 --aggrsup
+Rumtime: 2.78
+CPU system: 0.02
+CPU user: 2.76
+Memory Consumption: 32288

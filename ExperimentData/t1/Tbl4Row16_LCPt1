@@ -1,0 +1,29 @@
+Thu May  5 01:14:31 2016: Starting the clustering process...
+Thu May  5 02:01:30 2016: Total 211212192 lines read from input sources, using absolute support 1056060 (relative support 0.5 percent)
+Thu May  5 02:01:53 2016: Total number of frequent words: 404
+Thu May  5 02:54:38 2016: Total number of candidates: 197847
+Thu May  5 02:54:39 2016: Total number of frequent candidates: 6
+Thu May  5 02:54:40 2016: Total number of clusters: 6
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support: 2520874
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support: 1192523
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(1): XHH_mrwm_register_mr: *{0,1} rc=HH_EAGAIN 
+Support: 1102764
+
+R_MTT *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,2} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: *{0,1} alloc_reg_pages: Out of MTT entries 
+Support: 1102489
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: VIPKL(1): *{0,1} [MM_create_mr]:MM_mr_get_keys failed 
+Support: 1102417
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: *{0,1} reserve_mtt_segs: Cannot reserve 255 MTT segments *{1,1} dynamic MTT segments left) 
+Support: 1102272
+
+Command line: perl logcluster.pl --input=TDB --rsupport=0.5
+Rumtime: 6009.17
+CPU system: 20.78
+CPU user: 5990.44
+Memory Consumption: 4582048

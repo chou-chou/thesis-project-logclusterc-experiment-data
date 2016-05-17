@@ -1,0 +1,89 @@
+Fri May 13 16:47:54 2016: Starting the clustering process...
+Fri May 13 16:48:20 2016: Total 3170514 lines read from input sources, using absolute support 15852 (relative support 0.5 percent)
+Fri May 13 16:48:20 2016: Total number of frequent words: 70
+Fri May 13 16:48:48 2016: Total number of candidates: 8622
+Fri May 13 16:48:48 2016: Total number of frequent candidates: 26
+Fri May 13 16:48:48 2016: Total number of clusters: 26
+[Wed Jun 11 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 36283
+
+[Wed Jun 11 *{2,2} PTL_EVENT_ACK 
+Support: 36278
+
+[Mon Jun 23 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 33470
+
+[Mon Jun 23 *{2,2} PTL_EVENT_ACK 
+Support: 33445
+
+[Mon Jun 16 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 28694
+
+[Mon Jun 16 *{2,2} PTL_EVENT_ACK 
+Support: 28691
+
+[Mon Jun 2 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 26624
+
+[Mon Jun 2 *{2,2} PTL_EVENT_ACK 
+Support: 26624
+
+[Sun Jun 22 *{2,2} PTL_EVENT_ACK 
+Support: 23960
+
+[Sun Jun 22 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 23960
+
+[Thu Jun 12 *{2,2} PTL_EVENT_ACK 
+Support: 21464
+
+[Thu Jun 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 21464
+
+[Thu Jun 5 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 20240
+
+[Thu Jun 5 *{2,2} PTL_EVENT_ACK 
+Support: 20240
+
+[Tue May 13 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 18844
+
+[Tue May 13 *{2,2} PTL_EVENT_ACK 
+Support: 18844
+
+[Tue Jul 1 *{2,2} PTL_EVENT_ACK 
+Support: 18582
+
+[Tue Jul 1 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 18582
+
+[Sat May 10 *{2,2} PTL_EVENT_ACK 
+Support: 17456
+
+[Sat May 10 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 17456
+
+[Tue Jun 10 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 17093
+
+[Tue Jun 10 *{2,2} PTL_EVENT_ACK 
+Support: 17092
+
+[Tue May 20 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 17024
+
+[Tue May 20 *{2,2} PTL_EVENT_ACK 
+Support: 17024
+
+[Fri May 16 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 15929
+
+[Fri May 16 *{2,2} PTL_EVENT_ACK 
+Support: 15928
+
+Command line: perl logcluster.pl --input=Cray_C --rsupport=0.5
+Rumtime: 54.61
+CPU system: 0.04
+CPU user: 54.60
+Memory Consumption: 37300

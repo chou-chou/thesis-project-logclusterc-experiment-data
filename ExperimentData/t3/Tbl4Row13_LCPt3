@@ -1,0 +1,119 @@
+Tue May 10 10:58:35 2016: Starting the clustering process...
+Tue May 10 11:49:08 2016: Total 265569231 lines read from input sources, using absolute support 1327846 (relative support 0.5 percent)
+Tue May 10 11:49:18 2016: Total number of frequent words: 225
+Tue May 10 12:59:39 2016: Total number of candidates: 93010
+Tue May 10 12:59:39 2016: Total number of frequent candidates: 36
+Tue May 10 12:59:39 2016: Total number of clusters: 36
+N_PBS_BFD2 *{1,1} 2005.11.05 ln177 Nov 5 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 18616263
+
+- *{1,1} 2005.11.05 ln177 Nov 5 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 18142478
+
+N_PBS_BFD2 *{1,1} 2005.11.06 ln177 Nov 6 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 3402953
+
+- *{1,1} 2005.11.06 ln177 Nov 6 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 3226140
+
+- *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 2958846
+
+N_PBS_BFD2 *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2958845
+
+- *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 2160280
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2160280
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2146392
+
+- *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 2146390
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1923414
+
+- *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1923413
+
+- *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 1842292
+
+N_PBS_BFD2 *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1842290
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1811912
+
+- *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 1811910
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1802871
+
+- *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1802870
+
+- *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1800574
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1800573
+
+- *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1763719
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1763718
+
+- *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1731968
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1731967
+
+N_PBS_BFD2 *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1706561
+
+- *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1706560
+
+N_PBS_BFD2 *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1671658
+
+- *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1671656
+
+- *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1547009
+
+N_PBS_BFD2 *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1547007
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 1471002
+
+N_PBS_BFD2 *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1471002
+
+N_PBS_BFD2 *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1402828
+
+- *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1402827
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1385881
+
+- *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1385867
+
+Command line: perl logcluster.pl --input=LBR --rsupport=0.5
+Rumtime: 7264.59
+CPU system: 15.34
+CPU user: 7251.98
+Memory Consumption: 2802780

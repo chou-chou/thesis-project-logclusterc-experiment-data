@@ -1,0 +1,30 @@
+Mon May  9 09:00:53 2016: Starting the clustering process...
+Mon May  9 10:05:34 2016: Total 272298969 lines read from input sources, using absolute support 1361494 (relative support 0.5 percent)
+Mon May  9 10:05:44 2016: Total number of frequent words: 198
+Mon May  9 13:02:11 2016: Total number of frequent word dependencies: 25282
+Mon May  9 14:32:21 2016: Total number of candidates: 110722
+Mon May  9 14:32:21 2016: Total number of frequent candidates: 39
+Mon May  9 14:32:22 2016: Total number of clusters: 6
+R_EXT_CCISS *{1,1} (2005.04.19|2006.02.28|2005.05.21|2005.06.27|2005.06.25|2005.04.27|2005.06.23|2006.01.31|2005.06.26|2005.04.17|2005.06.22|2005.06.21|2005.04.26|2005.04.18|2006.02.24|2005.06.24) (sn225|sn408|sn373|sn441|sn105) (Jun|Jan|May|Apr|Feb) (26|27|25|17|24|19|18|23|31|28|22|21) *{1,1} (sn373/sn373|sn105/sn105|sn408/sn408|sn441/sn441|sn225/sn225) kernel: cciss: cmd *{0,1} 0000010000a60000 *{0,1} has CHECK *{0,1} CONDITION, sense key = 0x3 
+Support: 59411817
+
+R_EXT_CCISS *{1,1} (2006.03.05|2006.02.02|2006.03.04|2006.03.01|2006.03.02|2006.03.03|2006.02.01) sn373 (Mar|Feb) (5|4|1|2|3) *{1,1} sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 42267620
+
+R_EXT_FS_IO *{1,1} (2006.03.01|2006.03.04|2006.02.02|2006.03.02|2006.03.03|2006.02.01) sn373 (Feb|Mar) (4|2|3|1) *{1,1} sn373/sn373 kernel: EXT3-fs error (device (cciss0(104,3))|cciss0(104,2))) in ext3_reserve_inode_write: IO failure 
+Support: 12766494
+
+R_EXT_FS_IO *{1,1} (2005.06.27|2005.06.25|2006.02.24|2005.06.24|2005.04.17|2005.06.22|2005.06.23) (sn225|sn441|sn373) (Apr|Feb|Jun) (17|22|24|23|27|25) *{1,1} (sn225/sn225|sn441/sn441|sn373/sn373) kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 10775644
+
+R_EXT_INODE1 *{1,1} 2006.03.04 sn373 Mar 4 *{1,1} sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)): ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 2145710
+
+R_EXT_INODE1 *{1,1} 2006.02.24 sn373 Feb 24 *{1,1} sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 1417818
+
+Command line: perl logcluster.pl --input=SPT --rsupport=0.5 --wweight=0.6
+Rumtime: 19888.95
+CPU system: 30.54
+CPU user: 19868.51
+Memory Consumption: 2536264

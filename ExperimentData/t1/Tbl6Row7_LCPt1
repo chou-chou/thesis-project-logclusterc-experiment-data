@@ -1,0 +1,42 @@
+Wed May  4 00:38:35 2016: Starting the clustering process...
+Wed May  4 00:38:43 2016: Total 958075 lines read from input sources, using absolute support 4790 (relative support 0.5 percent)
+Wed May  4 00:38:43 2016: Total number of frequent words: 77
+Wed May  4 00:38:58 2016: Total number of frequent word dependencies: 3973
+Wed May  4 00:39:06 2016: Total number of candidates: 5700
+Wed May  4 00:39:06 2016: Total number of frequent candidates: 32
+Wed May  4 00:39:06 2016: Total number of clusters: 10
+([Fri|[Mon|[Tue) (Oct|Sep|Aug) (12|15|3|7|6|18|11) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 69420
+
+([Mon|[Tue|[Thu|[Sat|[Fri) Sep (26|23|8|4|30|27|12|9) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 67381
+
+([Sat|[Fri|[Thu|[Mon) Sep (4|26|12|15|27) *{2,2} PTL_EVENT_ACK 
+Support: 48120
+
+([Mon|[Tue|[Fri) Aug (15|12|11) *{2,2} PTL_EVENT_ACK 
+Support: 25993
+
+[Tue Sep (9|23|30) *{2,2} PTL_EVENT_ACK 
+Support: 19184
+
+[Mon Aug 18 *{2,2} PTL_EVENT_ACK 
+Support: 11709
+
+[Mon Oct 6 *{2,2} PTL_EVENT_ACK 
+Support: 9204
+
+[Mon Sep 8 *{2,2} PTL_EVENT_ACK 
+Support: 8837
+
+[Fri Oct 3 *{2,2} PTL_EVENT_ACK 
+Support: 7824
+
+[Tue Oct 7 *{2,2} PTL_EVENT_ACK 
+Support: 5588
+
+Command line: perl logcluster.pl --input=Cray_B --rsupport=0.5 --wweight=0.6
+Rumtime: 31.02
+CPU system: 0.02
+CPU user: 31.02
+Memory Consumption: 27784

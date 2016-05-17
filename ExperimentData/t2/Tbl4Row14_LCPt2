@@ -1,0 +1,833 @@
+Sat May  7 20:12:54 2016: Starting the clustering process...
+Sat May  7 21:03:23 2016: Total 265569231 lines read from input sources, using absolute support 265569 (relative support 0.1 percent)
+Sat May  7 21:03:35 2016: Total number of frequent words: 408
+Sat May  7 22:16:24 2016: Total number of candidates: 165197
+Sat May  7 22:16:25 2016: Total number of frequent candidates: 274
+N_PBS_BFD2 *{1,1} 2005.11.05 ln177 Nov 5 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 18616263
+
+- *{1,1} 2005.11.05 ln177 Nov 5 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 18142478
+
+N_PBS_BFD2 *{1,1} 2005.11.06 ln177 Nov 6 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 3402953
+
+- *{1,1} 2005.11.06 ln177 Nov 6 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 3226140
+
+- *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 2958846
+
+N_PBS_BFD2 *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2958845
+
+- *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 2160280
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2160280
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2146392
+
+- *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 2146390
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1923414
+
+- *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1923413
+
+- *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 1842292
+
+N_PBS_BFD2 *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1842290
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1811912
+
+- *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 1811910
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1802871
+
+- *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1802870
+
+- *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1800574
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1800573
+
+- *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1763719
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1763718
+
+- *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1731968
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1731967
+
+N_PBS_BFD2 *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1706561
+
+- *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1706560
+
+N_PBS_BFD2 *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1671658
+
+- *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1671656
+
+- *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1547009
+
+N_PBS_BFD2 *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1547007
+
+N_PBS_BFD2 *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1471002
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 1471002
+
+N_PBS_BFD2 *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1402828
+
+- *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1402827
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1385881
+
+- *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1385867
+
+- *{1,1} 2005.10.14 ln6 Oct 14 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1274654
+
+N_PBS_BFD2 *{1,1} 2005.10.14 ln6 Oct 14 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1274653
+
+N_PBS_BFD2 *{1,1} 2005.10.14 ln17 Oct 14 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1213775
+
+- *{1,1} 2005.10.14 ln17 Oct 14 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 1213773
+
+N_PBS_BFD2 *{1,1} 2005.10.15 ln177 Oct 15 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1154713
+
+- *{1,1} 2005.10.15 ln177 Oct 15 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 1154712
+
+N_PBS_BFD2 *{1,1} 2005.10.16 ln177 Oct 16 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1131720
+
+- *{1,1} 2005.10.16 ln177 Oct 16 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 1131720
+
+- *{1,1} 2006.02.28 ladmin1 Feb 28 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.79.111 *{0,1} from 00:60:dd:7f:97:c7 via eth1: unknown lease 172.31.79.111. 
+Support: 1102111
+
+- *{1,1} 2006.02.28 ladmin1 Feb 28 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth0: unknown lease 172.31.79.111. 
+Support: 1102095
+
+- *{1,1} 2005.10.10 ln6 Oct 10 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 992446
+
+N_PBS_BFD2 *{1,1} 2005.10.10 ln6 Oct 10 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 992446
+
+- *{1,1} 2005.11.26 ln147 Nov 26 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 943309
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln147 Nov 26 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 943308
+
+N_PBS_BFD2 *{1,1} 2005.10.20 ln81 Oct 20 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 911721
+
+- *{1,1} 2005.10.20 ln81 Oct 20 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 911721
+
+- *{1,1} 2005.10.31 ln177 Oct 31 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 910393
+
+N_PBS_BFD2 *{1,1} 2005.10.31 ln177 Oct 31 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 910392
+
+- *{1,1} 2005.10.22 ln81 Oct 22 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 880183
+
+N_PBS_BFD2 *{1,1} 2005.10.22 ln81 Oct 22 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 880183
+
+N_PBS_BFD2 *{1,1} 2005.10.30 ln177 Oct 30 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 876607
+
+- *{1,1} 2005.10.30 ln177 Oct 30 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 876605
+
+N_PBS_BFD2 *{1,1} 2005.10.15 ln81 Oct 15 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 854821
+
+- *{1,1} 2005.10.15 ln81 Oct 15 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 854808
+
+R_EXT_CCISS *{1,1} 2005.12.11 ln30 Dec 11 *{1,1} ln30/ln30 kernel: cciss: cmd c5300000 has CHECK CONDITION, sense key = 0x3 
+Support: 853676
+
+- *{1,1} 2005.10.22 ln177 Oct 22 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 848211
+
+N_PBS_BFD2 *{1,1} 2005.10.22 ln177 Oct 22 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 848210
+
+- *{1,1} 2005.10.14 ln177 Oct 14 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 833571
+
+N_PBS_BFD2 *{1,1} 2005.10.14 ln177 Oct 14 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 833570
+
+N_PBS_BFD2 *{1,1} 2005.11.22 ln205 Nov 22 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 829624
+
+- *{1,1} 2005.11.22 ln205 Nov 22 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 829624
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln181 Nov 28 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 795449
+
+- *{1,1} 2005.11.28 ln181 Nov 28 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 795444
+
+- *{1,1} 2005.11.03 ln81 Nov 3 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 788281
+
+N_PBS_BFD2 *{1,1} 2005.11.03 ln81 Nov 3 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 788280
+
+N_PBS_BFD2 *{1,1} 2005.10.21 ln177 Oct 21 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 759687
+
+- *{1,1} 2005.10.21 ln177 Oct 21 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 759682
+
+- *{1,1} 2005.11.18 ln205 Nov 18 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 748188
+
+N_PBS_BFD2 *{1,1} 2005.11.18 ln205 Nov 18 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 748187
+
+- *{1,1} 2005.10.26 ln81 Oct 26 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 747165
+
+N_PBS_BFD2 *{1,1} 2005.10.26 ln81 Oct 26 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 747164
+
+- *{1,1} 2005.11.11 ln81 Nov 11 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 686133
+
+N_PBS_BFD2 *{1,1} 2005.11.11 ln81 Nov 11 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 686130
+
+N_PBS_BFD2 *{1,1} 2005.10.07 ln177 Oct 7 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 683995
+
+- *{1,1} 2005.10.07 ln177 Oct 7 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 683994
+
+N_PBS_BFD2 *{1,1} 2005.10.17 ln177 Oct 17 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 623533
+
+- *{1,1} 2005.10.17 ln177 Oct 17 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 623507
+
+- *{1,1} 2005.11.29 ln9 Nov 29 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 609983
+
+N_PBS_BFD2 *{1,1} 2005.11.29 ln9 Nov 29 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 609982
+
+- *{1,1} 2005.10.29 ln177 Oct 29 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 594633
+
+N_PBS_BFD2 *{1,1} 2005.10.29 ln177 Oct 29 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 594631
+
+N_PBS_BFD2 *{1,1} 2005.10.28 ln177 Oct 28 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 592038
+
+- *{1,1} 2005.10.28 ln177 Oct 28 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 592037
+
+- *{1,1} 2005.10.27 ln177 Oct 27 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 588612
+
+N_PBS_BFD2 *{1,1} 2005.10.27 ln177 Oct 27 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 588611
+
+N_PBS_BFD2 *{1,1} 2005.10.21 ln81 Oct 21 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 567061
+
+- *{1,1} 2005.10.21 ln81 Oct 21 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 567060
+
+- *{1,1} 2006.02.27 ladmin1 Feb 27 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth1: unknown lease 172.31.79.111. 
+Support: 530093
+
+- *{1,1} 2006.02.27 ladmin1 Feb 27 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth0: unknown lease 172.31.79.111. 
+Support: 530075
+
+- *{1,1} 2005.11.29 ln94 Nov 29 *{1,1} ln94/ln94 pbs_mom: pbs_mom, wait_request failed 
+Support: 517319
+
+N_PBS_BFD2 *{1,1} 2005.11.29 ln94 Nov 29 *{1,1} ln94/ln94 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 517318
+
+N_PBS_BFD2 *{1,1} 2005.10.14 ln81 Oct 14 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 505108
+
+- *{1,1} 2005.10.14 ln81 Oct 14 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 505105
+
+- *{1,1} 2005.05.25 ladmin1 May 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth1 
+Support: 485219
+
+- *{1,1} 2005.05.25 ladmin1 May 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 *{0,1} from 00:60:dd:49:89:3d via eth1 
+Support: 485219
+
+- *{1,1} 2005.05.25 ladmin1 May 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth0 
+Support: 485209
+
+- *{1,1} 2005.05.25 ladmin1 May 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth0 
+Support: 485209
+
+- *{1,1} 2005.06.21 ladmin1 Jun 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 482694
+
+- *{1,1} 2005.06.21 ladmin1 Jun 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 482694
+
+- *{1,1} 2005.06.21 ladmin1 Jun 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 482669
+
+- *{1,1} 2005.06.21 ladmin1 Jun 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 482668
+
+- *{1,1} 2005.06.22 ladmin1 Jun 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 478657
+
+- *{1,1} 2005.06.22 ladmin1 Jun 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 478657
+
+- *{1,1} 2005.06.22 ladmin1 Jun 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 478642
+
+- *{1,1} 2005.06.22 ladmin1 Jun 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 478642
+
+- *{1,1} 2005.05.21 ladmin1 May 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 477574
+
+- *{1,1} 2005.05.21 ladmin1 May 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 477574
+
+- *{1,1} 2005.05.21 ladmin1 May 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 477524
+
+- *{1,1} 2005.05.21 ladmin1 May 21 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 477523
+
+- *{1,1} 2005.06.26 ladmin1 Jun 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 467760
+
+- *{1,1} 2005.06.26 ladmin1 Jun 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 467759
+
+- *{1,1} 2005.06.26 ladmin1 Jun 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 467747
+
+- *{1,1} 2005.06.26 ladmin1 Jun 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 467746
+
+- *{1,1} 2005.06.27 ladmin1 Jun 27 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 464370
+
+- *{1,1} 2005.06.27 ladmin1 Jun 27 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 464369
+
+- *{1,1} 2005.06.27 ladmin1 Jun 27 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 464366
+
+- *{1,1} 2005.06.27 ladmin1 Jun 27 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 464365
+
+- *{1,1} 2005.05.24 ladmin1 May 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 *{0,1} from 00:60:dd:49:89:3d via eth1 
+Support: 461740
+
+- *{1,1} 2005.05.24 ladmin1 May 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth1 
+Support: 461740
+
+- *{1,1} 2005.05.24 ladmin1 May 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth0 
+Support: 461734
+
+- *{1,1} 2005.05.24 ladmin1 May 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth0 
+Support: 461734
+
+- *{1,1} 2005.06.28 ladmin1 Jun 28 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 461018
+
+- *{1,1} 2005.06.28 ladmin1 Jun 28 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 461016
+
+- *{1,1} 2005.06.28 ladmin1 Jun 28 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 461002
+
+- *{1,1} 2005.06.28 ladmin1 Jun 28 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 461001
+
+- *{1,1} 2005.06.23 ladmin1 Jun 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 457194
+
+- *{1,1} 2005.06.23 ladmin1 Jun 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 457194
+
+- *{1,1} 2005.06.23 ladmin1 Jun 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 457190
+
+- *{1,1} 2005.06.23 ladmin1 Jun 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 457190
+
+- *{1,1} 2005.06.24 ladmin1 Jun 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 452702
+
+- *{1,1} 2005.06.24 ladmin1 Jun 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 452702
+
+- *{1,1} 2005.06.24 ladmin1 Jun 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 452681
+
+- *{1,1} 2005.06.24 ladmin1 Jun 24 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 452681
+
+- *{1,1} 2005.06.25 ladmin1 Jun 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 *{0,1} from 00:60:dd:49:73:c8 via eth1 
+Support: 451531
+
+- *{1,1} 2005.06.25 ladmin1 Jun 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth1 
+Support: 451531
+
+- *{1,1} 2005.06.25 ladmin1 Jun 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0 
+Support: 451516
+
+- *{1,1} 2005.06.25 ladmin1 Jun 25 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.31 to 00:60:dd:49:73:c8 via eth0 
+Support: 451515
+
+N_PBS_BFD2 *{1,1} 2005.11.02 ln81 Nov 2 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 451300
+
+- *{1,1} 2005.11.02 ln81 Nov 2 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 451299
+
+N_PBS_BFD2 *{1,1} 2005.11.10 ln81 Nov 10 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 440021
+
+- *{1,1} 2005.11.10 ln81 Nov 10 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 440021
+
+- *{1,1} 2005.11.01 ln81 Nov 1 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 436748
+
+N_PBS_BFD2 *{1,1} 2005.11.01 ln81 Nov 1 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 436748
+
+- *{1,1} 2005.10.26 ln177 Oct 26 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 427988
+
+N_PBS_BFD2 *{1,1} 2005.10.26 ln177 Oct 26 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 427985
+
+- *{1,1} 2005.05.23 ladmin1 May 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 *{0,1} from 00:60:dd:49:89:3d via eth1 
+Support: 426473
+
+- *{1,1} 2005.05.23 ladmin1 May 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth1 
+Support: 426473
+
+- *{1,1} 2005.05.23 ladmin1 May 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth0 
+Support: 426455
+
+- *{1,1} 2005.05.23 ladmin1 May 23 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth0 
+Support: 426454
+
+- *{1,1} 2005.11.24 ln147 Nov 24 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 399037
+
+N_PBS_BFD2 *{1,1} 2005.11.24 ln147 Nov 24 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 399037
+
+N_PBS_BFD2 *{1,1} 2005.10.31 ln81 Oct 31 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 395696
+
+- *{1,1} 2005.10.31 ln81 Oct 31 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 395695
+
+- *{1,1} 2005.05.22 ladmin1 May 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 *{0,1} from 00:60:dd:49:89:3d via eth1 
+Support: 376726
+
+- *{1,1} 2005.05.22 ladmin1 May 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth1 
+Support: 376726
+
+- *{1,1} 2005.05.22 ladmin1 May 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth0 
+Support: 376710
+
+- *{1,1} 2005.05.22 ladmin1 May 22 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth0 
+Support: 376709
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln94 Nov 28 *{1,1} ln94/ln94 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 367531
+
+- *{1,1} 2005.11.28 ln94 Nov 28 *{1,1} ln94/ln94 pbs_mom: pbs_mom, wait_request failed 
+Support: 367528
+
+N_PBS_BFD2 *{1,1} 2005.11.04 ln81 Nov 4 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 359260
+
+- *{1,1} 2005.11.04 ln81 Nov 4 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 359259
+
+N_PBS_BFD2 *{1,1} 2005.10.25 ln81 Oct 25 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 351533
+
+- *{1,1} 2005.10.25 ln81 Oct 25 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 351532
+
+N_PBS_BFD2 *{1,1} 2005.10.30 ln81 Oct 30 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 349720
+
+- *{1,1} 2005.10.30 ln81 Oct 30 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 349720
+
+N_PBS_BFD2 *{1,1} 2005.10.18 ln81 Oct 18 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 349100
+
+- *{1,1} 2005.10.18 ln81 Oct 18 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 349087
+
+- *{1,1} 2005.10.24 ln81 Oct 24 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 341759
+
+N_PBS_BFD2 *{1,1} 2005.10.24 ln81 Oct 24 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 341759
+
+N_PBS_BFD2 *{1,1} 2005.10.23 ln81 Oct 23 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 340200
+
+- *{1,1} 2005.10.23 ln81 Oct 23 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 340199
+
+N_PBS_U09 *{1,1} 2005.11.14 ln233 Nov 14 *{1,1} ln233/ln233 pbs_mom: Unknown error 15009 (15009) in job_start_error from node *{1,1} 81415.ladmin2 
+Support: 338476
+
+N_PBS_U09 *{1,1} 2005.11.14 ln233 Nov 14 *{1,1} ln233/ln233 pbs_mom: Unknown error 15009 (15009) in abort attempted 16 times. ignoring abort request from node *{1,1} 81415.ladmin2 
+Support: 338476
+
+N_PBS_BFD2 *{1,1} 2005.11.02 ln177 Nov 2 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 335123
+
+- *{1,1} 2005.11.02 ln177 Nov 2 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 335122
+
+N_PBS_BFD2 *{1,1} 2005.10.09 ln177 Oct 9 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 331314
+
+- *{1,1} 2005.10.09 ln177 Oct 9 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 331313
+
+- *{1,1} 2005.10.19 ln81 Oct 19 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 328942
+
+N_PBS_BFD2 *{1,1} 2005.10.19 ln81 Oct 19 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 328941
+
+N_PBS_BFD2 *{1,1} 2005.11.01 ln177 Nov 1 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 322547
+
+- *{1,1} 2005.11.01 ln177 Nov 1 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 322547
+
+- *{1,1} 2005.10.10 ln177 Oct 10 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 321210
+
+N_PBS_BFD2 *{1,1} 2005.10.10 ln177 Oct 10 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 321209
+
+- *{1,1} 2005.01.26 ladmin1 Jan 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth0 
+Support: 317727
+
+- *{1,1} 2005.01.26 ladmin1 Jan 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth0 
+Support: 317727
+
+- *{1,1} 2005.01.26 ladmin1 Jan 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.28 to 00:60:dd:49:89:3d via eth1 
+Support: 317704
+
+- *{1,1} 2005.01.26 ladmin1 Jan 26 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth1 
+Support: 317704
+
+- *{1,1} 2005.05.16 ladmin1 May 16 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.30 to 00:60:dd:49:89:3b via eth0 
+Support: 316046
+
+- *{1,1} 2005.05.16 ladmin1 May 16 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.30 from 00:60:dd:49:89:3b via eth1 
+Support: 316045
+
+- *{1,1} 2005.05.16 ladmin1 May 16 *{1,1} ladmin1/ladmin1 dhcpd: DHCPREQUEST for 172.31.2.30 from 00:60:dd:49:89:3b via eth0 
+Support: 316045
+
+- *{1,1} 2005.05.16 ladmin1 May 16 *{1,1} ladmin1/ladmin1 dhcpd: DHCPACK on 172.31.2.30 to 00:60:dd:49:89:3b via eth1 
+Support: 316044
+
+- *{1,1} 2005.10.20 ln177 Oct 20 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 314578
+
+N_PBS_BFD2 *{1,1} 2005.10.20 ln177 Oct 20 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 314578
+
+- *{1,1} 2005.11.07 ln81 Nov 7 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 312870
+
+N_PBS_BFD2 *{1,1} 2005.11.07 ln81 Nov 7 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 312869
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln123 Nov 26 *{1,1} ln123/ln123 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 310446
+
+- *{1,1} 2005.11.26 ln123 Nov 26 *{1,1} ln123/ln123 pbs_mom: pbs_mom, wait_request failed 
+Support: 310446
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln124 Nov 26 *{1,1} ln124/ln124 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 310050
+
+- *{1,1} 2005.11.26 ln124 Nov 26 *{1,1} ln124/ln124 pbs_mom: pbs_mom, wait_request failed 
+Support: 310049
+
+N_PBS_BFD2 *{1,1} 2005.11.03 ln177 Nov 3 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 301423
+
+- *{1,1} 2005.11.03 ln177 Nov 3 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 301423
+
+N_PBS_BFD2 *{1,1} 2005.10.08 ln81 Oct 8 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 300489
+
+- *{1,1} 2005.10.08 ln81 Oct 8 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 300489
+
+- *{1,1} 2005.09.01 ln229 Sep 1 *{1,1} ln229/ln229 pbs_mom: pbs_mom, wait_request failed 
+Support: 299745
+
+N_PBS_BFD2 *{1,1} 2005.09.01 ln229 Sep 1 *{1,1} ln229/ln229 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 299745
+
+N_PBS_BFD2 *{1,1} 2005.10.11 ln177 Oct 11 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 299597
+
+- *{1,1} 2005.10.11 ln177 Oct 11 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 299596
+
+- *{1,1} 2005.10.18 ln177 Oct 18 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 296241
+
+N_PBS_BFD2 *{1,1} 2005.10.18 ln177 Oct 18 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 296240
+
+- *{1,1} 2005.10.19 ln177 Oct 19 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 295845
+
+N_PBS_BFD2 *{1,1} 2005.10.19 ln177 Oct 19 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 295838
+
+N_PBS_BFD2 *{1,1} 2005.10.29 ln81 Oct 29 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 293638
+
+- *{1,1} 2005.10.29 ln81 Oct 29 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 293636
+
+- *{1,1} 2005.10.08 ln177 Oct 8 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 292996
+
+N_PBS_BFD2 *{1,1} 2005.10.08 ln177 Oct 8 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 292996
+
+- *{1,1} 2005.10.28 ln81 Oct 28 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 292223
+
+N_PBS_BFD2 *{1,1} 2005.10.28 ln81 Oct 28 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 292223
+
+N_PBS_BFD2 *{1,1} 2005.10.27 ln81 Oct 27 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 291545
+
+- *{1,1} 2005.10.27 ln81 Oct 27 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 291545
+
+- *{1,1} 2005.11.09 ln81 Nov 9 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 286686
+
+N_PBS_BFD2 *{1,1} 2005.11.09 ln81 Nov 9 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 286686
+
+N_PBS_BFD2 *{1,1} 2005.11.08 ln81 Nov 8 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 286670
+
+- *{1,1} 2005.11.08 ln81 Nov 8 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 286669
+
+N_PBS_BFD2 *{1,1} 2005.10.10 ln81 Oct 10 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 286594
+
+- *{1,1} 2005.10.10 ln81 Oct 10 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 286594
+
+N_PBS_BFD2 *{1,1} 2005.10.17 ln81 Oct 17 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 285780
+
+- *{1,1} 2005.10.17 ln81 Oct 17 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 285778
+
+N_PBS_BFD2 *{1,1} 2005.10.11 ln81 Oct 11 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 285414
+
+- *{1,1} 2005.10.11 ln81 Oct 11 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 285414
+
+R_EXT_INODE1 *{1,1} 2005.12.11 ln30 Dec 11 *{1,1} ln30/ln30 kernel: EXT3-fs error (device cciss0(104,5)): ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 285114
+
+R_EXT_FS_IO *{1,1} 2005.12.11 ln30 Dec 11 *{1,1} ln30/ln30 kernel: EXT3-fs error (device cciss0(104,5)) in ext3_reserve_inode_write: IO failure 
+Support: 285104
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln81 Oct 12 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 284902
+
+- *{1,1} 2005.10.12 ln81 Oct 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 284902
+
+- *{1,1} 2005.10.16 ln81 Oct 16 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 283057
+
+N_PBS_BFD2 *{1,1} 2005.10.16 ln81 Oct 16 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 283057
+
+- *{1,1} 2005.10.09 ln81 Oct 9 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 282659
+
+N_PBS_BFD2 *{1,1} 2005.10.09 ln81 Oct 9 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 282658
+
+N_PBS_BFD2 *{1,1} 2005.10.24 ln177 Oct 24 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 282610
+
+- *{1,1} 2005.10.24 ln177 Oct 24 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 282608
+
+- *{1,1} 2005.11.28 ln124 Nov 28 *{1,1} ln124/ln124 pbs_mom: pbs_mom, wait_request failed 
+Support: 282514
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln124 Nov 28 *{1,1} ln124/ln124 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 282514
+
+- *{1,1} 2005.10.13 ln81 Oct 13 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 282348
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln81 Oct 13 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 282347
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln123 Nov 28 *{1,1} ln123/ln123 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 282301
+
+- *{1,1} 2005.11.28 ln123 Nov 28 *{1,1} ln123/ln123 pbs_mom: pbs_mom, wait_request failed 
+Support: 282301
+
+- *{1,1} 2005.11.27 ln123 Nov 27 *{1,1} ln123/ln123 pbs_mom: pbs_mom, wait_request failed 
+Support: 281969
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln123 Nov 27 *{1,1} ln123/ln123 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 28Sat May  7 22:16:25 2016: Total number of clusters: 274
+1969
+
+N_PBS_BFD2 *{1,1} 2005.09.01 ln234 Sep 1 *{1,1} ln234/ln234 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 281931
+
+- *{1,1} 2005.09.01 ln234 Sep 1 *{1,1} ln234/ln234 pbs_mom: pbs_mom, wait_request failed 
+Support: 281930
+
+- *{1,1} 2005.09.01 ln215 Sep 1 *{1,1} ln215/ln215 pbs_mom: pbs_mom, wait_request failed 
+Support: 281881
+
+N_PBS_BFD2 *{1,1} 2005.09.01 ln215 Sep 1 *{1,1} ln215/ln215 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 281881
+
+N_PBS_BFD2 *{1,1} 2005.10.25 ln177 Oct 25 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 281580
+
+- *{1,1} 2005.10.25 ln177 Oct 25 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 281577
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln124 Nov 27 *{1,1} ln124/ln124 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 281395
+
+- *{1,1} 2005.11.27 ln124 Nov 27 *{1,1} ln124/ln124 pbs_mom: pbs_mom, wait_request failed 
+Support: 281393
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln147 Nov 27 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 281101
+
+- *{1,1} 2005.11.27 ln147 Nov 27 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 281101
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln147 Nov 28 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 280744
+
+- *{1,1} 2005.11.28 ln147 Nov 28 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 280744
+
+- *{1,1} 2005.10.23 ln177 Oct 23 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 280691
+
+N_PBS_BFD2 *{1,1} 2005.10.23 ln177 Oct 23 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 280689
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln177 Oct 13 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 280670
+
+- *{1,1} 2005.10.13 ln177 Oct 13 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 280670
+
+- *{1,1} 2005.10.12 ln177 Oct 12 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 280045
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln177 Oct 12 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 280044
+
+- *{1,1} 2005.11.17 *{1,1} Nov 17 *{3,3} session closed for user root 
+Support: 272552
+
+- *{1,1} 2005.11.17 *{1,1} Nov 17 *{3,3} session opened for user root by (uid=0) 
+Support: 272552
+
+- *{1,1} 2005.11.17 *{1,1} Nov 17 *{3,3} Accepted publickey for root from 172.30.1.241 port *{1,1} ssh2 
+Support: 271091
+
+Command line: perl logcluster.pl --input=LBR --rsupport=0.1
+Rumtime: 7411.21
+CPU system: 15.89
+CPU user: 7396.33
+Memory Consumption: 2803832

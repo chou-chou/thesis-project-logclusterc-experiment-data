@@ -1,0 +1,49 @@
+Wed May  4 00:37:40 2016: Starting the clustering process...
+Wed May  4 00:37:43 2016: Total number of frequent words: 1051
+Wed May  4 00:37:47 2016: Total number of candidates: 151707
+Wed May  4 00:37:47 2016: Total number of frequent candidates: 13
+Wed May  4 00:37:48 2016: Total number of clusters: 13
+0: PTL_EVENT_SEND_END 
+Support: 292
+
+*{1,1} PTL_EVENT_ACK 
+Support: 292
+
+[Wed Jan 2 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 277
+
+[Fri Jan 4 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 276
+
+[Mon Mar 5 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 264
+
+[Fri Apr 6 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 264
+
+[Mon Oct 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 225
+
+[Fri Dec 7 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 224
+
+[Fri Nov 30 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 224
+
+[Tue Mar 6 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 220
+
+[Fri Oct 19 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 204
+
+[Fri Oct 26 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 203
+
+[Wed Jan 24 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support: 200
+
+Command line: perl logcluster.pl --input=Cray_A --support=200
+Rumtime: 7.96
+CPU system: 0.08
+CPU user: 7.88
+Memory Consumption: 540716

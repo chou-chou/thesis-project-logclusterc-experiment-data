@@ -1,0 +1,90 @@
+Sun May 15 05:14:46 2016: File TDB is added
+Sun May 15 05:14:46 2016: Starting...
+Sun May 15 05:14:46 2016: Creating vocabulary...
+Sun May 15 05:29:50 2016: 23,330,821 words were inserted into the vocabulary.
+Sun May 15 05:29:50 2016: Finding frequent words from vocabulary...
+Sun May 15 05:29:52 2016: 1,232 frequent words were found.
+Sun May 15 05:29:52 2016: 32% - 7,561,438 words in vocabulary occur 1 time.
+Sun May 15 05:29:52 2016: 47% - 11,110,168 words in vocabulary occur 2 times or less.
+Sun May 15 05:29:52 2016: 72% - 17,011,865 words in vocabulary occur 5 times or less.
+Sun May 15 05:29:52 2016: 86% - 20,268,254 words in vocabulary occur 10 times or less.
+Sun May 15 05:29:52 2016: 92% - 21,536,130 words in vocabulary occur 20 times or less.
+Sun May 15 05:29:52 2016: 99.99% - 23,329,589 words in vocabulary occur less than 211212(support) times.
+Sun May 15 05:29:52 2016: Finding cluster candidates...
+Sun May 15 05:40:57 2016: 1,126,218 cluster candidates were found.
+Sun May 15 05:40:57 2016: Finding clusters...
+Sun May 15 05:40:57 2016: 22 cluster were found.
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 2,506,663
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support : 1,192,430
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(1): XHH_mrwm_register_mr: *{0,1} rc=HH_EAGAIN 
+Support : 1,100,209
+
+R_MTT *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,2} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: *{0,1} alloc_reg_pages: Out of MTT entries 
+Support : 1,099,977
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: VIPKL(1): *{0,1} [MM_create_mr]:MM_mr_get_keys failed 
+Support : 1,099,878
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: *{0,1} reserve_mtt_segs: Cannot reserve 255 MTT segments *{1,1} dynamic MTT segments left) 
+Support : 828,087
+
+- *{1,1} 2006.05.24 #9# May 24 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support : 749,231
+
+- *{1,1} 2006.04.18 *{1,1} Apr 18 *{2,2} kernel: VIPKL(1): *{0,1} [MM_create_mr]:MM_mr_get_keys failed 
+Support : 492,271
+
+R_MTT *{1,1} 2006.04.18 *{1,1} Apr 18 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries 
+Support : 491,861
+
+- *{1,1} 2006.04.18 *{1,1} Apr 18 *{2,2} kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN 
+Support : 491,802
+
+- *{1,1} 2006.05.07 *{1,1} May 7 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 336,774
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[412]: MOSAL_virt_to_phys_ex: cannot retrieve pgd_p: prot_ctx=USER, *{1,1}
+Support : 320,601
+
+- *{1,1} 2006.05.05 *{1,1} May 5 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 309,087
+
+- *{1,1} 2006.04.04 *{1,1} Apr 4 *{2,2} kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command *{1,1}
+Support : 273,488
+
+- *{1,1} 2006.04.04 *{1,1} Apr 4 *{2,2} kernel: pan_ips: error -- cmd_destroy: destroying aborted (rc=0x1d78 (IPS: command timed out)) command *{2,2}
+Support : 273,481
+
+- *{1,1} 2006.04.04 *{1,1} Apr 4 *{2,2} kernel: pan_ips: error -- cmd_destroy: destroying timed out command *{1,1}
+Support : 273,421
+
+- *{1,1} 2006.04.04 *{1,1} Apr 4 *{2,2} kernel: pan_ips: error -- IPS command timeout command timed out *{3,3} grace_timeouts=0 *{2,2} (connection info not avail 0x23a5 (pan_sock: socket not connected)) *{1,1}
+Support : 267,784
+
+- *{1,1} 2006.06.27 *{1,1} Jun 27 *{2,2} kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state 
+Support : 242,490
+
+R_VAPI *{1,1} 2006.06.27 *{1,1} Jun 27 *{2,2} kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local CatastrophicSun May 15 05:40:57 2016: Total number of clusters: 22
+ Error)) 
+Support : 242,478
+
+- *{1,1} 2006.06.27 *{1,1} Jun 27 *{2,2} kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011) 
+Support : 242,475
+
+N_MAIL *{1,1} 2006.02.22 an538 Feb 22 *{1,1} an538/an538 *{1,1} warning: mail_queue_enter: create file *{1,1} Read-only file system 
+Support : 222,987
+
+- *{1,1} 2006.05.04 *{1,1} May 4 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 216,993
+
+
+Command line: ./LogClusterC --input=TDB --rsupport=0.1
+Rumtime: 1571.96
+CPU system: 16.19
+CPU user: 1546.08
+Memory Consumption: 4877144

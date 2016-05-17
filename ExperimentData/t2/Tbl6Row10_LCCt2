@@ -1,0 +1,257 @@
+Sat May  7 04:37:10 2016: File Cray_C is added
+Sat May  7 04:37:10 2016: Starting...
+Sat May  7 04:37:10 2016: Creating vocabulary...
+Sat May  7 04:37:14 2016: 9,766 words were inserted into the vocabulary.
+Sat May  7 04:37:14 2016: Finding frequent words from vocabulary...
+Sat May  7 04:37:14 2016: 70 frequent words were found.
+Sat May  7 04:37:14 2016: 27% - 2,696 words in vocabulary occur 1 time.
+Sat May  7 04:37:14 2016: 38% - 3,738 words in vocabulary occur 2 times or less.
+Sat May  7 04:37:14 2016: 57% - 5,592 words in vocabulary occur 5 times or less.
+Sat May  7 04:37:14 2016: 59% - 5,780 words in vocabulary occur 10 times or less.
+Sat May  7 04:37:14 2016: 60% - 5,877 words in vocabulary occur 20 times or less.
+Sat May  7 04:37:14 2016: 99.28% - 9,696 words in vocabulary occur less than 15852(support) times.
+Sat May  7 04:37:14 2016: Finding cluster candidates...
+Sat May  7 04:37:19 2016: 8,622 cluster candidates were found.
+Sat May  7 04:37:19 2016: Aggregate cluster candidates...
+Sat May  7 04:37:19 2016: 18,763 nodes in the prefix tree.
+Sat May  7 04:37:19 2016: Finding clusters...
+Sat May  7 04:37:19 2016: 77 cluster were found.
+Sat May  7 04:37:19 2016: Total number of clusters: 77
+
+[Wed Jun 11 *{2,361}
+Support : 173,588
+
+[Mon Jun 23 *{2,356}
+Support : 160,436
+
+[Mon Jun 16 *{2,353}
+Support : 137,379
+
+[Mon Jun 2 *{2,358}
+Support : 127,709
+
+[Sun Jun 22 *{2,354}
+Support : 114,733
+
+[Thu Jun 12 *{2,359}
+Support : 102,920
+
+[Thu Jun 5 *{2,364}
+Support : 97,104
+
+[Tue May 13 *{2,360}
+Support : 90,877
+
+[Tue Jul 1 *{2,360}
+Support : 89,001
+
+[Sat May 10 *{2,360}
+Support : 83,772
+
+[Tue Jun 10 *{2,362}
+Support : 82,035
+
+[Tue May 20 *{2,360}
+Support : 81,644
+
+[Fri May 16 *{2,360}
+Support : 76,498
+
+[Fri Jun 20 *{2,356}
+Support : 75,229
+
+[Tue Jun 24 *{2,360}
+Support : 71,406
+
+[Mon Jun 30 *{2,357}
+Support : 68,763
+
+[Mon Jun 9 *{2,355}
+Support : 68,087
+
+[Mon Jul 7 *{2,357}
+Support : 61,983
+
+[Fri Jun 13 *{2,359}
+Support : 61,621
+
+[Wed Jun 4 *{2,356}
+Support : 60,748
+
+[Sun Jun 8 *{2,360}
+Support : 55,234
+
+[Mon May 19 *{2,360}
+Support : 55,047
+
+[Thu Jun 19 *{2,356}
+Support : 54,682
+
+[Wed Jun 18 *{2,356}
+Support : 54,638
+
+[Sun May 25 *{2,357}
+Support : 54,467
+
+[Sat Jun 14 *{2,353}
+Support : 54,381
+
+[Tue Jun 3 *{2,356}
+Support : 53,146
+
+[Tue May 6 *{2,360}
+Support : 49,921
+
+[Wed Jun 25 *{2,360}
+Support : 48,188
+
+[Fri Jun 6 *{2,364}
+Support : 45,443
+
+[Mon May 5 *{2,360}
+Support : 42,986
+
+[Thu May 15 *{2,360}
+Support : 41,576
+
+[Wed Jul 2 *{2,360}
+Support : 41,290
+
+[Thu May 22 *{2,359}
+Support : 41,082
+
+[Wed Jun 11 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 36,283
+
+[Wed Jun 11 *{2,2} PTL_EVENT_ACK 
+Support : 36,278
+
+[Thu May 29 *{2,363}
+Support : 35,286
+
+[Thu Jul 3 *{2,360}
+Support : 34,511
+
+[Fri May 23 *{2,357}
+Support : 34,026
+
+[Mon Jun 23 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 33,470
+
+[Mon Jun 23 *{2,2} PTL_EVENT_ACK 
+Support : 33,445
+
+[Wed May 7 *{2,360}
+Support : 29,468
+
+[Mon Jun 16 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 28,694
+
+[Mon Jun 16 *{2,2} PTL_EVENT_ACK 
+Support : 28,691
+
+[Mon May 12 *{2,359}
+Support : 28,122
+
+[Sat May 17 *{2,360}
+Support : 27,929
+
+[Wed May 14 *{2,358}
+Support : 27,628
+
+[Fri Jun 27 *{2,358}
+Support : 27,567
+
+[Tue Jun 17 *{2,358}
+Support : 27,510
+
+[Wed May 21 *{2,358}
+Support : 27,488
+
+[Thu Jun 26 *{2,359}
+Support : 27,347
+
+[Mon Jun 2 *{2,2} PTL_EVENT_ACK 
+Support : 26,624
+
+[Mon Jun 2 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 26,624
+
+[Sun Jun 22 *{2,2} PTL_EVENT_ACK 
+Support : 23,960
+
+[Sun Jun 22 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 23,960
+
+[Thu Jun 12 *{2,2} PTL_EVENT_ACK 
+Support : 21,464
+
+[Thu Jun 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 21,464
+
+[Sun May 4 *{2,360}
+Support : 21,174
+
+[Sun May 11 *{2,359}
+Support : 21,117
+
+[Fri Jul 4 *{2,357}
+Support : 20,661
+
+[Sun Jul 6 *{2,357}
+Support : 20,661
+
+[Fri May 9 *{2,360}
+Support : 20,646
+
+[Sun Jun 15 *{2,353}
+Support : 20,433
+
+[Thu Jun 5 *{2,2} PTL_EVENT_ACK 
+Support : 20,240
+
+[Thu Jun 5 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 20,240
+
+[Tue May 13 *{2,2} PTL_EVENT_ACK 
+Support : 18,844
+
+[Tue May 13 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 18,844
+
+[Tue Jul 1 *{2,2} PTL_EVENT_ACK 
+Support : 18,582
+
+[Tue Jul 1 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 18,582
+
+[Sat May 10 *{2,2} PTL_EVENT_ACK 
+Support : 17,456
+
+[Sat May 10 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 17,456
+
+[Tue Jun 10 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 17,093
+
+[Tue Jun 10 *{2,2} PTL_EVENT_ACK 
+Support : 17,092
+
+[Tue May 20 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 17,024
+
+[Tue May 20 *{2,2} PTL_EVENT_ACK 
+Support : 17,024
+
+[Fri May 16 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 15,929
+
+[Fri May 16 *{2,2} PTL_EVENT_ACK 
+Support : 15,928
+
+
+Command line: ./LogClusterC --input=Cray_C --rsupport=0.5 --aggrsup
+Rumtime: 8.94
+CPU system: 0.04
+CPU user: 8.90
+Memory Consumption: 43348

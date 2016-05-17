@@ -1,0 +1,234 @@
+Fri May 13 16:45:19 2016: Starting the clustering process...
+Fri May 13 16:45:27 2016: Total 958075 lines read from input sources, using absolute support 4790 (relative support 0.5 percent)
+Fri May 13 16:45:27 2016: Total number of frequent words: 77
+Fri May 13 16:45:36 2016: Total number of candidates: 5700
+Fri May 13 16:45:36 2016: Total number of nodes in prefix tree: 17589
+Fri May 13 16:45:37 2016: Total number of frequent candidates: 74
+Fri May 13 16:45:37 2016: Total number of clusters: 74
+[Sat Sep 27 *{2,352}
+Support: 63180
+
+[Fri Sep 12 *{2,352}
+Support: 62849
+
+[Mon Aug 18 *{2,352}
+Support: 61243
+
+[Fri Aug 15 *{2,352}
+Support: 57749
+
+[Tue Sep 23 *{2,352}
+Support: 45694
+
+[Mon Oct 6 *{2,352}
+Support: 44562
+
+[Mon Sep 8 *{2,352}
+Support: 42603
+
+[Mon Sep 15 *{2,352}
+Support: 42120
+
+[Fri Oct 3 *{2,352}
+Support: 38339
+
+[Tue Aug 12 *{2,352}
+Support: 35165
+
+[Fri Sep 26 *{2,352}
+Support: 35133
+
+[Mon Aug 11 *{2,352}
+Support: 34662
+
+[Tue Oct 7 *{2,352}
+Support: 29869
+
+[Thu Sep 4 *{2,352}
+Support: 28126
+
+[Tue Sep 9 *{2,352}
+Support: 22849
+
+[Tue Sep 30 *{2,352}
+Support: 22849
+
+[Fri Sep 5 *{2,352}
+Support: 21142
+
+[Thu Sep 25 *{2,352}
+Support: 21060
+
+[Tue Aug 26 *{2,352}
+Support: 15894
+
+[Tue Sep 16 *{2,352}
+Support: 15829
+
+[Tue Aug 19 *{2,352}
+Support: 15829
+
+[Thu Sep 11 *{2,352}
+Support: 14151
+
+[Mon Sep 22 *{2,352}
+Support: 14040
+
+[Mon Sep 1 *{2,352}
+Support: 14040
+
+[Sun Sep 21 *{2,352}
+Support: 14040
+
+[Mon Aug 25 *{2,352}
+Support: 14040
+
+[Thu Oct 2 *{2,352}
+Support: 14040
+
+[Mon Sep 29 *{2,352}
+Support: 14040
+
+[Sat Sep 27 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 13140
+
+[Sat Sep 27 *{2,2} PTL_EVENT_ACK 
+Support: 13140
+
+[Fri Sep 12 *{2,2} PTL_EVENT_ACK 
+Support: 13076
+
+[Fri Sep 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 13076
+
+[Mon Aug 18 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 12799
+
+[Mon Aug 18 *{2,2} PTL_EVENT_ACK 
+Support: 12776
+
+[Fri Aug 15 *{2,2} PTL_EVENT_ACK 
+Support: 12156
+
+[Fri Aug 15 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 12156
+
+[Tue Sep 23 *{2,2} PTL_EVENT_ACK 
+Support: 9592
+
+[Tue Sep 23 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 9592
+
+[Mon Oct 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 9529
+
+[Mon Oct 6 *{2,2} PTL_EVENT_ACK 
+Support: 9204
+
+[Mon Sep 8 *{2,2} PTL_EVENT_ACK 
+Support: 8837
+
+[Mon Sep 8 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 8837
+
+[Sun Aug 17 *{2,352}
+Support: 8767
+
+[Mon Sep 15 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 8760
+
+[Mon Sep 15 *{2,2} PTL_EVENT_ACK 
+Support: 8760
+
+[Fri Oct 3 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 7824
+
+[Fri Oct 3 *{2,2} PTL_EVENT_ACK 
+Support: 7824
+
+[Tue Aug 12 *{2,2} PTL_EVENT_ACK 
+Support: 7308
+
+[Tue Aug 12 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 7308
+
+[Fri Sep 26 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 7300
+
+[Fri Sep 26 *{2,2} PTL_EVENT_ACK 
+Support: 7300
+
+[Mon Aug 11 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 7220
+
+[Mon Aug 11 *{2,2} PTL_EVENT_ACK 
+Support: 7220
+
+[Sun Oct 5 *{2,352}
+Support: 7158
+
+[Thu Aug 28 *{2,352}
+Support: 7020
+
+[Sat Oct 4 *{2,352}
+Support: 7020
+
+[Thu Sep 18 *{2,352}
+Support: 7020
+
+[Tue Sep 2 *{2,352}
+Support: 7020
+
+[Sun Sep 14 *{2,352}
+Support: 7020
+
+[Thu Aug 21 *{2,352}
+Support: 7020
+
+[Sun Sep 28 *{2,352}
+Support: 7020
+
+[Sun Aug 24 *{2,352}
+Support: 7020
+
+[Thu Aug 14 *{2,352}
+Support: 7020
+
+[Fri Aug 22 *{2,352}
+Support: 7020
+
+[Fri Sep 19 *{2,352}
+Support: 7020
+
+[Sun Aug 10 *{2,351}
+Support: 7001
+
+[Tue Oct 7 *{2,2} PTL_EVENT_ACK 
+Support: 6256
+
+[Tue Oct 7 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 6256
+
+[Thu Sep 4 *{2,2} PTL_EVENT_ACK 
+Support: 5844
+
+[Thu Sep 4 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 5844
+
+[Tue Sep 30 *{2,2} PTL_EVENT_ACK 
+Support: 4796
+
+[Tue Sep 9 *{2,2} PTL_EVENT_ACK 
+Support: 4796
+
+[Tue Sep 9 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4796
+
+[Tue Sep 30 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 4796
+
+Command line: perl logcluster.pl --input=Cray_B --rsupport=0.5 --aggrsup
+Rumtime: 17.88
+CPU system: 0.01
+CPU user: 17.88
+Memory Consumption: 47688
