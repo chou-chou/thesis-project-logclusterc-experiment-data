@@ -1,0 +1,389 @@
+Thu May 19 14:56:17 2016: Starting...
+Thu May 19 14:56:17 2016: Creating vocabulary...
+Thu May 19 15:11:03 2016: 13310394 words inserted into the vocabulary
+Thu May 19 15:11:03 2016: Finding frequent words from the vocabulary...
+Thu May 19 15:11:04 2016: 484 frequent words found
+Thu May 19 15:11:04 2016: 3599194 words in vocabulary occurring 1 time
+Thu May 19 15:11:04 2016: 7405042 words in vocabulary occurring 2 times or less
+Thu May 19 15:11:04 2016: 10258518 words in vocabulary occurring 5 times or less
+Thu May 19 15:11:04 2016: 11277216 words in vocabulary occurring 10 times or less
+Thu May 19 15:11:04 2016: 11793372 words in vocabulary occurring 20 times or less
+Thu May 19 15:11:04 2016: Finding cluster candidates...
+Thu May 19 15:27:46 2016: 325568 cluster candidates found
+Thu May 19 15:27:46 2016: Finding clusters from the set of candidates...
+Thu May 19 15:27:46 2016: 123 clusters found
+- * 2006.02.23 * Feb 23 * * kernel: 
+Support: 319272
+
+- * 2005.10.05 * Oct 5 * * * session closed for user root 
+Support: 280874
+
+- * 2005.10.05 * Oct 5 * * * session opened for user root by (uid=0) 
+Support: 280904
+
+R_EXT_FS_IO * 2006.03.05 sn373 Mar 5 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1212529
+
+R_EXT_FS_IO * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)) in ext3_reserve_inode_write: IO failure 
+Support: 2145643
+
+R_EXT_FS_IO * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1926133
+
+R_EXT_FS_IO * 2006.03.03 sn373 Mar 3 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1625559
+
+R_EXT_FS_IO * 2006.03.02 sn373 Mar 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1658375
+
+R_EXT_FS_IO * 2006.03.01 sn373 Mar 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1693666
+
+R_EXT_FS_IO * 2006.02.28 sn373 Feb 28 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 833637
+
+R_EXT_FS_IO * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1427513
+
+R_EXT_FS_IO * 2006.02.02 sn373 Feb 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1579973
+
+R_EXT_FS_IO * 2006.02.01 sn373 Feb 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 2136182
+
+R_EXT_FS_IO * 2006.01.31 sn373 Jan 31 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 991558
+
+R_EXT_FS_IO * 2005.06.28 sn441 Jun 28 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 357155
+
+R_EXT_FS_IO * 2005.06.27 sn441 Jun 27 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1445048
+
+R_EXT_FS_IO * 2005.06.26 sn441 Jun 26 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 907621
+
+R_EXT_FS_IO * 2005.06.25 sn441 Jun 25 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1436809
+
+R_EXT_FS_IO * 2005.06.24 sn441 Jun 24 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1641031
+
+R_EXT_FS_IO * 2005.06.23 sn441 Jun 23 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1442982
+
+R_EXT_FS_IO * 2005.06.22 sn441 Jun 22 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1445057
+
+R_EXT_FS_IO * 2005.06.21 sn441 Jun 21 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 905261
+
+R_EXT_FS_IO * 2005.05.27 sn227 May 27 * sn227/sn227 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 307667
+
+R_EXT_FS_IO * 2005.05.21 sn105 May 21 * sn105/sn105 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1204280
+
+R_EXT_FS_IO * 2005.04.27 sn408 Apr 27 * sn408/sn408 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 603849
+
+R_EXT_FS_IO * 2005.04.26 sn408 Apr 26 * sn408/sn408 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1353011
+
+R_EXT_FS_IO * 2005.04.19 sn225 Apr 19 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 772669
+
+R_EXT_FS_IO * 2005.04.18 sn225 Apr 18 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1360997
+
+R_EXT_FS_IO * 2005.04.17 sn225 Apr 17 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1934981
+
+R_EXT_FS_IO * 2005.04.16 sn225 Apr 16 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 331580
+
+R_EXT_CCISS * 2006.03.05 sn373 Mar 5 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 3704710
+
+R_EXT_CCISS * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 12118802
+
+R_EXT_CCISS * 2006.03.03 sn373 Mar 3 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4984212
+
+R_EXT_CCISS * 2006.03.02 sn373 Mar 2 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5026438
+
+R_EXT_CCISS * 2006.03.01 sn373 Mar 1 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5094771
+
+R_EXT_CCISS * 2006.02.28 sn373 Feb 28 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2509155
+
+- * 2006.02.28 sadmin1 Feb 28 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth1: unknown lease 172.31.79.111. 
+Support: 1283488
+
+- * 2006.02.28 sadmin1 Feb 28 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth0: unknown lease 172.31.79.111. 
+Support: 1283486
+
+- * 2006.02.27 sadmin1 Feb 27 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth1: unknown lease 172.31.79.111. 
+Support: 588422
+
+- * 2006.02.27 sadmin1 Feb 27 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth0: unknown lease 172.31.79.111. 
+Support: 588413
+
+R_EXT_CCISS * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4298403
+
+R_EXT_CCISS * 2006.02.07 sn373 Feb 7 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 643654
+
+R_EXT_CCISS * 2006.02.02 sn373 Feb 2 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4837701
+
+R_EXT_CCISS * 2006.02.01 sn373 Feb 1 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 6492455
+
+R_EXT_CCISS * 2006.01.31 sn373 Jan 31 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2982654
+
+- * 2006.01.24 sadmin1 Jan 24 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 315215
+
+- * 2006.01.24 sadmin1 Jan 24 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 315213
+
+- * 2005.10.20 sadmin1 Oct 20 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth1: unknown lease 172.31.79.111. 
+Support: 306357
+
+- * 2005.10.20 sadmin1 Oct 20 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.79.111 from 00:60:dd:7f:97:c7 via eth0: unknown lease 172.31.79.111. 
+Support: 306349
+
+- * 2005.06.30 sadmin1 Jun 30 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.32 from 00:60:dd:49:73:c7 via eth1: unknown lease 172.31.2.32. 
+Support: 273001
+
+- * 2005.06.30 sadmin1 Jun 30 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.32 from 00:60:dd:49:73:c7 via eth0: unknown lease 172.31.2.32. 
+Support: 273000
+
+- * 2005.06.30 sadmin1 Jun 30 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth1: unknown lease 172.31.2.28. 
+Support: 360478
+
+- * 2005.06.30 sadmin1 Jun 30 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.28 from 00:60:dd:49:89:3d via eth0: unknown lease 172.31.2.28. 
+Support: 360479
+
+- * 2005.06.29 sadmin1 Jun 29 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 455589
+
+- * 2005.06.29 sadmin1 Jun 29 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 455587
+
+R_EXT_CCISS * 2005.06.28 sn441 Jun 28 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 1070803
+
+- * 2005.06.28 sadmin1 Jun 28 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 451878
+
+- * 2005.06.28 sadmin1 Jun 28 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 451865
+
+R_EXT_CCISS * 2005.06.27 sn441 Jun 27 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4325868
+
+- * 2005.06.27 sadmin1 Jun 27 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 925686
+
+- * 2005.06.27 sadmin1 Jun 27 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 925701
+
+R_EXT_CCISS * 2005.06.26 sn441 Jun 26 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2719612
+
+- * 2005.06.26 sadmin1 Jun 26 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 861246
+
+- * 2005.06.26 sadmin1 Jun 26 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 861244
+
+R_EXT_CCISS * 2005.06.25 sn441 Jun 25 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4304437
+
+- * 2005.06.25 sadmin1 Jun 25 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 900351
+
+- * 2005.06.25 sadmin1 Jun 25 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 900359
+
+R_EXT_CCISS * 2005.06.24 sn441 Jun 24 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5106532
+
+- * 2005.06.24 sadmin1 Jun 24 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 902484
+
+- * 2005.06.24 sadmin1 Jun 24 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 902486
+
+R_EXT_CCISS * 2005.06.23 sn441 Jun 23 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4339914
+
+- * 2005.06.23 sadmin1 Jun 23 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 911398
+
+- * 2005.06.23 sadmin1 Jun 23 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 911399
+
+R_EXT_CCISS * 2005.06.22 sn441 Jun 22 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4346232
+
+- * 2005.06.22 sadmin1 Jun 22 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 954348
+
+- * 2005.06.22 sadmin1 Jun 22 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 954346
+
+R_EXT_CCISS * 2005.06.21 sn441 Jun 21 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2723924
+
+- * 2005.06.21 sadmin1 Jun 21 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 962107
+
+- * 2005.06.21 sadmin1 Jun 21 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 962110
+
+- * 2005.06.20 sadmin1 Jun 20 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth1: unknown lease 172.31.2.31. 
+Support: 400688
+
+- * 2005.06.20 sadmin1 Jun 20 * sadmin1/sadmin1 dhcpd: DHCPREQUEST for 172.31.2.31 from 00:60:dd:49:73:c8 via eth0: unknown lease 172.31.2.31. 
+Support: 400686
+
+R_EXT_CCISS * 2005.05.27 sn227 May 27 * sn227/sn227 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 928490
+
+R_EXT_CCISS * 2005.05.21 sn105 May 21 * sn105/sn105 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 3618644
+
+R_EXT_CCISS * 2005.04.27 sn408 Apr 27 * sn408/sn408 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 1808683
+
+R_EXT_CCISS * 2005.04.26 sn408 Apr 26 * sn408/sn408 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4076954
+
+R_EXT_CCISS * 2005.04.19 sn225 Apr 19 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2318516
+
+R_EXT_CCISS * 2005.04.18 sn225 Apr 18 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4088259
+
+R_EXT_CCISS * 2005.04.17 sn225 Apr 17 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5802302
+
+R_EXT_CCISS * 2005.04.16 sn225 Apr 16 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 995864
+
+R_EXT_INODE1 * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)): ext3_get_inode_loc: unable to read inode block - 
+Support: 1332389
+
+R_EXT_INODE1 * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 347680
+
+R_EXT_INODE1 * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 678561
+
+R_EXT_INODE1 * 2006.02.02 sn373 Feb 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 726035
+
+R_EXT_INODE1 * 2006.02.01 sn373 Feb 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 987636
+
+R_EXT_INODE1 * 2006.01.31 sn373 Jan 31 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 467976
+
+R_EXT_INODE1 * 2005.05.27 sn227 May 27 * sn227/sn227 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 303821
+
+R_EXT_INODE1 * 2005.05.21 sn105 May 21 * sn105/sn105 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 1203963
+
+R_EXT_INODE1 * 2005.04.27 sn408 Apr 27 * sn408/sn408 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 358952
+
+R_EXT_INODE1 * 2005.04.26 sn408 Apr 26 * sn408/sn408 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 811911
+
+R_EXT_INODE1 * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)): ext3_get_inode_loc: unable to read inode block - * block=1015811 
+Support: 428471
+
+R_EXT_INODE1 * 2006.03.05 sn373 Mar 5 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=1200585, block=2424834 
+Support: 398098
+
+R_EXT_INODE1 * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)): ext3_get_inode_loc: unable to read inode block - inode=1030475, block=2064395 
+Support: 384849
+
+R_EXT_INODE1 * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=1200585, block=2424834 
+Support: 528534
+
+R_EXT_INODE1 * 2006.03.03 sn373 Mar 3 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=1200585, block=2424834 
+Support: 533630
+
+R_EXT_INODE1 * 2006.03.02 sn373 Mar 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=1200585, block=2424834 
+Support: 532061
+
+R_EXT_INODE1 * 2006.03.01 sn373 Mar 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_Thu May 19 15:27:46 2016: Analysis complete
+inode_loc: unable to read inode block - inode=1200585, block=2424834 
+Support: 531751
+
+R_EXT_INODE1 * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=1119467, block=2260994 
+Support: 694846
+
+R_EXT_INODE1 * 2006.02.02 sn373 Feb 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=908556, block=1835010 
+Support: 725747
+
+R_EXT_INODE1 * 2006.02.01 sn373 Feb 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=908556, block=1835010 
+Support: 1005636
+
+R_EXT_INODE1 * 2006.01.31 sn373 Jan 31 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=908556, block=1835010 
+Support: 473518
+
+R_EXT_INODE1 * 2005.06.27 sn441 Jun 27 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 694211
+
+R_EXT_INODE1 * 2005.06.26 sn441 Jun 26 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 436441
+
+R_EXT_INODE1 * 2005.06.25 sn441 Jun 25 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 691083
+
+R_EXT_INODE1 * 2005.06.24 sn441 Jun 24 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 690828
+
+R_EXT_INODE1 * 2005.06.23 sn441 Jun 23 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 690888
+
+R_EXT_INODE1 * 2005.06.22 sn441 Jun 22 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 691988
+
+R_EXT_INODE1 * 2005.06.21 sn441 Jun 21 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=681419, block=1376258 
+Support: 432368
+
+R_EXT_INODE1 * 2005.04.26 sn408 Apr 26 * sn408/sn408 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=470506, block=950274 
+Support: 426990
+
+R_EXT_INODE1 * 2005.04.18 sn225 Apr 18 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=292042, block=589826 
+Support: 435872
+
+R_EXT_INODE1 * 2005.04.17 sn225 Apr 17 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=292042, block=589826 
+Support: 620336
+
+- * 2005.05.18 sadmin2 May 18 * src@sadmin2 nagios: Warning: Return code of 127 for check of service 'PING' on host * was out of bounds. Make sure the plugin you're trying to run actually exists. 
+Support: 309614
+
+- * 2005.05.17 sadmin2 May 17 * src@sadmin2 nagios: Warning: Return code of 127 for check of service 'PING' on host * was out of bounds. Make sure the plugin you're trying to run actually exists. 
+Support: 309430
+
+- * 2005.05.16 sadmin2 May 16 * src@sadmin2 nagios: Warning: Return code of 127 for check of service 'PING' on host * was out of bounds. Make sure the plugin you're trying to run actually exists. 
+Support: 309631
+
+Command line: ./SLCT -s 0.1% SPT
+Rumtime: 1888.92
+CPU system: 16.80
+CPU user: 1869.23
+Memory Consumption: 1056672
