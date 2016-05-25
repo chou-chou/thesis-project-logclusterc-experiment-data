@@ -1,0 +1,85 @@
+Fri May 20 03:03:11 2016: Starting the clustering process...
+Fri May 20 03:03:18 2016: Total 958075 lines read from input sources, using absolute support 4790 (relative support 0.5 percent)
+Fri May 20 03:03:18 2016: Total number of frequent words: 77
+Fri May 20 03:03:33 2016: Total number of frequent word dependencies: 3973
+Fri May 20 03:03:41 2016: Total number of candidates: 5700
+Fri May 20 03:03:41 2016: Total number of nodes in prefix tree: 17589
+Fri May 20 03:03:43 2016: Total number of frequent candidates: 74
+Fri May 20 03:03:43 2016: Total number of clusters: 24
+([Tue|[Thu|[Fri|[Mon|[Sun|[Sat) (Sep|Aug|Oct) (28|14|5|21|25|26|18|4|22|12|2) *{2,352}
+Support: 128417
+
+([Sun|[Fri|[Mon|[Tue|[Thu) Sep (21|11|25|19|2|15|14|28) *{2,352}
+Support: 119451
+
+[Fri Sep (5|26|12) *{2,352}
+Support: 119124
+
+[Tue Sep (16|9|23|30) *{2,352}
+Support: 107221
+
+[Mon Aug (11|18) *{2,352}
+Support: 95905
+
+[Mon Sep (1|8|22|29) *{2,352}
+Support: 84723
+
+([Tue|[Fri|[Mon) (Oct|Sep|Aug) (11|15|3|18|7|12|6) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 71852
+
+([Sat|[Mon|[Fri|[Thu|[Tue) Sep (4|23|26|30|12|8|9|27) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 67381
+
+[Sat Sep 27 *{2,352}
+Support: 63180
+
+[Fri Aug 15 *{2,352}
+Support: 57749
+
+([Sat|[Mon|[Fri|[Thu) Sep (4|26|12|27|15) *{2,2} PTL_EVENT_ACK 
+Support: 48120
+
+[Mon Oct 6 *{2,352}
+Support: 44562
+
+[Fri Oct 3 *{2,352}
+Support: 38339
+
+[Tue Oct 7 *{2,352}
+Support: 29869
+
+[Thu Sep 4 *{2,352}
+Support: 28126
+
+([Mon|[Fri|[Tue) Aug (12|11|15) *{2,2} PTL_EVENT_ACK 
+Support: 26684
+
+[Sun Aug (17|10|24) *{2,352}
+Support: 22788
+
+[Tue Sep (23|30|9) *{2,2} PTL_EVENT_ACK 
+Support: 19184
+
+[Tue Aug 19 *{2,352}
+Support: 15829
+
+[Mon Aug 18 *{2,2} PTL_EVENT_ACK 
+Support: 12776
+
+[Mon Oct 6 *{2,2} PTL_EVENT_ACK 
+Support: 9204
+
+[Mon Sep 8 *{2,2} PTL_EVENT_ACK 
+Support: 8837
+
+[Fri Oct 3 *{2,2} PTL_EVENT_ACK 
+Support: 7824
+
+[Tue Oct 7 *{2,2} PTL_EVENT_ACK 
+Support: 6256
+
+Command line: perl logcluster.pl --input=Cray_B --rsupport=0.5 --aggrsup --wweight=0.6
+Rumtime: 32.03
+CPU system: 0.02
+CPU user: 32.02
+Memory Consumption: 48024

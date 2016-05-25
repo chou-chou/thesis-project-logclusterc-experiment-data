@@ -1,0 +1,594 @@
+Fri May 20 06:52:10 2016: Starting the clustering process...
+Fri May 20 07:42:56 2016: Total 265569231 lines read from input sources, using absolute support 1327846 (relative support 0.5 percent)
+Fri May 20 07:43:06 2016: Total number of frequent words: 225
+Fri May 20 08:53:23 2016: Total number of candidates: 93010
+Fri May 20 08:53:25 2016: Total number of nodes in prefix tree: 342630
+Fri May 20 08:59:53 2016: Total number of frequent candidates: 194
+- *{4,4} 5 *{5,12}
+Support: 18705832
+
+N_PBS_BFD2 *{1,1} 2005.11.05 *{1,1} Nov 5 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 18621676
+
+N_PBS_BFD2 *{1,1} 2005.11.05 ln177 Nov 5 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 18616263
+
+- *{1,1} 2005.11.05 *{1,1} Nov 5 *{3,20}
+Support: 18183392
+
+- *{1,1} 2005.11.05 *{1,1} Nov 5 *{2,2} pbs_mom: *{3,5}
+Support: 18147899
+
+- *{4,4} 5 *{5,5} failed 
+Support: 18147885
+
+- *{2,2} ln177 *{1,1} 5 *{1,1} ln177/ln177 *{4,4}
+Support: 18142497
+
+- *{1,1} 2005.11.05 ln177 Nov 5 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 18142478
+
+- *{1,1} 2005.11.26 *{1,1} Nov 26 *{5,12}
+Support: 5103764
+
+- *{1,1} 2005.11.26 *{1,1} Nov 26 *{2,2} pbs_mom: *{3,3}
+Support: 5059495
+
+- *{1,1} 2005.11.26 *{1,1} Nov 26 *{2,2} pbs_mom: *{2,2} failed 
+Support: 5059492
+
+N_PBS_BFD2 *{1,1} 2005.11.26 *{1,1} Nov 26 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 5059490
+
+- *{1,1} 2005.11.28 *{1,1} Nov 28 *{3,30}
+Support: 5014155
+
+- *{1,1} 2005.10.13 *{1,1} Oct 13 *{3,20}
+Support: 4698418
+
+N_PBS_BFD2 *{1,1} 2005.10.13 *{1,1} Oct 13 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 4632830
+
+- *{1,1} 2005.10.13 *{1,1} Oct 13 *{2,2} pbs_mom: *{3,3}
+Support: 4632823
+
+- *{1,1} 2005.10.13 *{1,1} Oct 13 *{5,5} failed 
+Support: 4632822
+
+- *{1,1} 2005.11.27 *{1,1} Nov 27 *{5,12}
+Support: 4476927
+
+- *{2,2} ladmin1 *{1,1} 24 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 4375712
+
+- *{2,2} ladmin1 *{1,1} 26 *{1,1} ladmin1/ladmin1 *{1,13}
+Support: 4315664
+
+- *{2,2} ladmin1 *{1,1} 25 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 4241052
+
+N_PBS_BFD2 *{1,1} 2005.11.28 *{1,1} Nov 28 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 4168830
+
+- *{1,1} 2005.11.28 *{1,1} Nov 28 *{2,2} pbs_mom: *{3,3}
+Support: 4168812
+
+- *{4,4} 6 *{5,15}
+Support: 4141438
+
+- *{2,2} ladmin1 *{1,1} 21 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 3939094
+
+- *{4,4} 4 *{5,12}
+Support: 3922276
+
+- *{1,1} 2005.10.12 *{1,1} Oct 12 *{3,20}
+Support: 3917948
+
+- *{1,1} 2005.10.14 *{1,1} Oct 14 *{3,20}
+Support: 3902247
+
+- *{1,1} 2005.10.14 *{1,1} Oct 14 *{2,2} pbs_mom: *{3,3}
+Support: 3827113
+
+N_PBS_BFD2 *{1,1} 2005.10.14 *{1,1} Oct 14 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 3827110
+
+- *{4,4} 11 *{3,15}
+Support: 3780602
+
+- *{2,2} ladmin1 *{1,1} 22 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 3766838
+
+N_PBS_BFD2 *{1,1} 2005.10.12 *{1,1} Oct 12 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 3762741
+
+- *{1,1} 2005.10.12 *{1,1} Oct 12 *{2,2} pbs_mom: *{3,3}
+Support: 3762727
+
+- *{2,2} ladmin1 *{1,1} 23 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 3632367
+
+N_PBS_BFD2 *{1,1} 2005.11.06 *{1,1} Nov 6 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 3403927
+
+N_PBS_BFD2 *{1,1} 2005.11.06 ln177 Nov 6 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 3402953
+
+- *{1,1} 2005.11.04 *{1,1} Nov 4 *{3,20}
+Support: 3390163
+
+- *{1,1} 2005.11.04 *{1,1} Nov 4 *{2,2} pbs_mom: *{3,9}
+Support: 3323720
+
+N_PBS_BFD2 *{1,1} 2005.11.04 *{1,1} Nov 4 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 3318107
+
+- *{1,1} 2005.11.06 *{1,1} Nov 6 *{3,20}
+Support: 3247274
+
+- *{1,1} 2005.11.06 *{1,1} Nov 6 *{2,2} pbs_mom: *{3,3}
+Support: 3227112
+
+- *{1,1} 2005.11.06 *{1,1} Nov 6 *{5,5} failed 
+Support: 3227111
+
+- *{2,2} ln177 *{1,1} 6 *{1,1} ln177/ln177 *{4,4}
+Support: 3226160
+
+- *{1,1} 2005.11.06 ln177 Nov 6 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 3226140
+
+- *{4,4} 10 *{3,15}
+Support: 3133974
+
+- *{2,2} ln177 *{1,1} 4 *{1,1} ln177/ln177 *{4,4}
+Support: 2958863
+
+- *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 *{4,4}
+Support: 2958848
+
+- *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 2958846
+
+N_PBS_BFD2 *{1,1} 2005.11.04 ln177 Nov 4 *{1,1} ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2958845
+
+- *{4,4} 1 *{3,15}
+Support: 2851060
+
+- *{4,4} 11 *{2,2} pbs_mom: *{3,3}
+Support: 2673992
+
+- *{4,4} 2 *{5,12}
+Support: 2482875
+
+- *{1,1} 2005.11.25 *{1,1} Nov 25 *{3,20}
+Support: 2299147
+
+- *{1,1} 2006.02.28 *{1,1} Feb 28 *{3,15}
+Support: 2263033
+
+- *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 *{4,4}
+Support: 2160282
+
+N_PBS_BFD2 *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2160280
+
+- *{1,1} 2005.11.28 ln9 Nov 28 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 2160280
+
+- *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 *{4,4}
+Support: 2146392
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2146392
+
+- *{1,1} 2005.10.13 ln17 Oct 13 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 2146390
+
+- *{1,1} 2005.11.19 *{1,1} Nov 19 *{3,20}
+Support: 2114891
+
+- *{1,1} 2005.10.15 *{1,1} Oct 15 *{3,20}
+Support: 2098375
+
+- *{1,1} 2005.10.11 *{1,1} Oct 11 *{3,20}
+Support: 2055602
+
+- *{4,4} 10 *{2,2} pbs_mom: *{3,3}
+Support: 2040303
+
+- *{4,4} 10 *{5,5} failed 
+Support: 2040288
+
+- *{3,3} Jun 21 *{3,15}
+Support: 2014584
+
+N_PBS_BFD2 *{1,1} 2005.10.15 *{1,1} Oct 15 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 2009540
+
+- *{1,1} 2005.10.15 *{1,1} Oct 15 *{2,2} pbs_mom: *{3,3}
+Support: 2009529
+
+- *{3,3} May 25 *{3,15}
+Support: 2004945
+
+N_PBS_BFD2 *{1,1} 2005.10.11 *{1,1} Oct 11 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1987846
+
+- *{1,1} 2005.10.11 *{1,1} Oct 11 *{2,2} pbs_mom: *{3,3}
+Support: 1987839
+
+- *{1,1} 2005.11.20 *{1,1} Nov 20 *{5,12}
+Support: 1980197
+
+- *{3,3} Jun 22 *{5,12}
+Support: 1954832
+
+- *{2,2} ladmin1 May 25 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1949778
+
+- *{2,2} ladmin1 *{1,1} 27 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1948275
+
+- *{1,1} 2005.06.21 ladmin1 Jun 21 *{1,1} ladmin1/ladmin1 *{3,11}
+Support: 1946859
+
+- *{3,3} May 21 *{5,12}
+Support: 1946165
+
+- *{1,1} 2005.05.25 ladmin1 May 25 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1945240
+
+- *{2,2} ladmin1 Jun 21 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1942753
+
+- *{3,3} Jun 26 *{3,15}
+Support: 1942207
+
+- *{2,2} ladmin1 *{1,1} 28 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1933994
+
+- *{2,2} ladmin1 Jun 22 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1923896
+
+- *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 *{4,4}
+Support: 1923415
+
+N_PBS_BFD2 *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1923414
+
+- *{1,1} 2005.10.13 ln6 Oct 13 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1923413
+
+- *{1,1} 2005.06.22 ladmin1 Jun 22 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1919209
+
+- *{2,2} ladmin1 May 21 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1917051
+
+- *{3,3} May 24 *{3,15}
+Support: 1916241
+
+- *{1,1} 2005.05.21 ladmin1 May 21 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1913182
+
+- *{3,3} Jun 27 *{5,12}
+Support: 1898593
+
+- *{3,3} Jun 28 *{5,12}
+Support: 1881953
+
+- *{2,2} ladmin1 Jun 26 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1878394
+
+- *{1,1} 2005.06.26 ladmin1 Jun 26 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1874125
+
+- *{3,3} Jun 23 *{5,12}
+Support: 1872363
+
+- *{2,2} ladmin1 Jun 27 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1867233
+
+- *{1,1} 2005.06.27 ladmin1 Jun 27 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1862475
+
+- *{2,2} ladmin1 May 24 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1856248
+
+- *{2,2} ladmin1 Jun 28 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1853263
+
+- *{1,1} 2005.05.24 ladmin1 May 24 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1851208
+
+- *{1,1} 2005.06.28 ladmin1 Jun 28 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1848785
+
+- *{1,1} 2005.11.25 *{1,1} Nov 25 *{2,2} pbs_mom: *{3,9}
+Support: 1844357
+
+- *{2,2} ladmin1 Jun 23 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1844105
+
+N_PBS_BFD2 *{1,1} 2005.11.25 *{1,1} Nov 25 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1842295
+
+- *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 *{4,4}
+Support: 1842294
+
+- *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 1842292
+
+N_PBS_BFD2 *{1,1} 2005.11.25 ln147 Nov 25 *{1,1} ln147/ln147 pbs_mom: Bad file descriptor (9) inFri May 20 08:59:53 2016: Total number of clusters: 194
+ wait_request, select failed 
+Support: 1842290
+
+- *{3,3} Jun 24 *{5,12}
+Support: 1841714
+
+- *{1,1} 2005.06.23 ladmin1 Jun 23 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1839882
+
+- *{4,4} 7 *{5,12}
+Support: 1839477
+
+- *{3,3} Jun 25 *{5,12}
+Support: 1838350
+
+- *{2,2} ladmin1 Jun 24 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1820671
+
+- *{1,1} 2005.06.24 ladmin1 Jun 24 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1816827
+
+- *{3,3} May 22 *{5,13}
+Support: 1816578
+
+- *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 *{3,7}
+Support: 1813265
+
+- *{2,2} ladmin1 Jun 25 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1813036
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1811912
+
+- *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 1811910
+
+- *{1,1} 2005.11.21 *{1,1} Nov 21 *{3,20}
+Support: 1811861
+
+- *{4,4} 8 *{3,15}
+Support: 1809793
+
+- *{1,1} 2005.06.25 ladmin1 Jun 25 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1809224
+
+- *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 *{3,4}
+Support: 1802873
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1802871
+
+- *{1,1} 2005.11.27 ln9 Nov 27 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1802870
+
+- *{1,1} 2005.10.10 *{1,1} Oct 10 *{3,20}
+Support: 1802786
+
+- *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 *{3,4}
+Support: 1800577
+
+- *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1800574
+
+N_PBS_BFD2 *{1,1} 2005.11.27 ln181 Nov 27 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1800573
+
+- *{3,3} May 23 *{3,15}
+Support: 1783474
+
+- *{1,1} 2005.10.22 *{1,1} Oct 22 *{3,20}
+Support: 1781555
+
+- *{1,1} 2005.05.22 ladmin1 May 22 *{1,1} ladmin1/ladmin1 *{1,13}
+Support: 1779090
+
+- *{2,2} ladmin1 May 22 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1773148
+
+- *{1,1} 2005.10.20 *{1,1} Oct 20 *{3,20}
+Support: 1767702
+
+- *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 *{4,7}
+Support: 1764426
+
+- *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1763719
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln9 Nov 26 *{1,1} ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1763718
+
+- *{2,2} ladmin1 *{1,1} 20 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1755499
+
+- *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 *{4,4}
+Support: 1731970
+
+- *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1731968
+
+N_PBS_BFD2 *{1,1} 2005.11.26 ln181 Nov 26 *{1,1} ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1731967
+
+N_PBS_BFD2 *{1,1} 2005.10.22 *{1,1} Oct 22 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1728401
+
+- *{1,1} 2005.10.22 *{1,1} Oct 22 *{2,2} pbs_mom: *{3,3}
+Support: 1728397
+
+- *{1,1} 2005.10.22 *{1,1} Oct 22 *{3,5} failed *{0,2}
+Support: 1728396
+
+- *{2,2} ladmin1 May 23 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1715375
+
+- *{1,1} 2005.05.23 ladmin1 May 23 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1710557
+
+- *{1,1} 2005.11.29 *{1,1} Nov 29 *{3,20}
+Support: 1707205
+
+- *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 *{4,4}
+Support: 1706562
+
+N_PBS_BFD2 *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1706561
+
+- *{1,1} 2005.11.19 *{1,1} Nov 19 *{2,2} pbs_mom: *{3,3}
+Support: 1706561
+
+- *{1,1} 2005.11.19 ln205 Nov 19 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1706560
+
+- *{1,1} 2005.11.21 *{1,1} Nov 21 *{2,2} pbs_mom: *{3,5}
+Support: 1671670
+
+N_PBS_BFD2 *{1,1} 2005.11.21 *{1,1} Nov 21 *{2,2} pbs_mom: Bad file descriptor (9) in *{2,3}
+Support: 1671661
+
+- *{1,1} 2005.11.21 *{1,1} Nov 21 *{5,5} failed 
+Support: 1671658
+
+N_PBS_BFD2 *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1671658
+
+- *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 *{4,4}
+Support: 1671658
+
+- *{1,1} 2005.11.21 ln205 Nov 21 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1671656
+
+- *{4,4} 9 *{5,12}
+Support: 1642450
+
+- *{4,4} 3 *{5,12}
+Support: 1627736
+
+- *{4,4} 1 *{2,2} pbs_mom: *{3,3}
+Support: 1622873
+
+- *{1,1} 2005.10.10 *{1,1} Oct 10 *{2,2} pbs_mom: *{3,3}
+Support: 1600256
+
+N_PBS_BFD2 *{1,1} 2005.10.10 *{1,1} Oct 10 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1600256
+
+- *{1,1} 2005.10.10 *{1,1} Oct 10 *{5,5} failed 
+Support: 1600253
+
+- *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 *{3,4}
+Support: 1547012
+
+- *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1547009
+
+N_PBS_BFD2 *{1,1} 2005.11.20 *{1,1} Nov 20 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1547009
+
+N_PBS_BFD2 *{1,1} 2005.11.20 ln205 Nov 20 *{1,1} ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1547007
+
+- *{2,2} ladmin1 *{1,1} 30 *{1,1} ladmin1/ladmin1 *{3,11}
+Support: 1523107
+
+- *{1,1} 2005.11.29 *{1,1} Nov 29 *{2,2} pbs_mom: *{3,3}
+Support: 1503195
+
+- *{1,1} 2005.11.12 *{1,1} Nov 12 *{5,12}
+Support: 1501742
+
+- *{1,1} 2005.11.29 *{1,1} Nov 29 *{4,6} failed 
+Support: 1501583
+
+- *{1,1} 2005.11.29 *{1,1} Nov 29 *{2,2} pbs_mom: *{2,2} failed 
+Support: 1501532
+
+N_PBS_BFD2 *{1,1} 2005.11.29 *{1,1} Nov 29 *{2,2} pbs_mom: Bad file descriptor (9) in *{2,3}
+Support: 1501503
+
+- *{1,1} 2005.10.16 *{1,1} Oct 16 *{3,20}
+Support: 1486652
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 *{4,4}
+Support: 1471004
+
+N_PBS_BFD2 *{1,1} 2005.11.12 *{1,1} Nov 12 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1471004
+
+N_PBS_BFD2 *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1471002
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 1471002
+
+- *{1,1} 2005.10.21 *{1,1} Oct 21 *{3,20}
+Support: 1420825
+
+- *{1,1} 2005.10.16 *{1,1} Oct 16 *{2,2} pbs_mom: *{3,3}
+Support: 1414786
+
+N_PBS_BFD2 *{1,1} 2005.10.16 *{1,1} Oct 16 *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support: 1414782
+
+- *{2,2} ladmin1 *{1,1} 29 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1410686
+
+- *{2,2} ln6 *{1,1} 11 *{1,1} ln6/ln6 *{3,7}
+Support: 1403418
+
+- *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 *{4,4}
+Support: 1402829
+
+N_PBS_BFD2 *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1402828
+
+- *{1,1} 2005.10.11 ln6 Oct 11 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1402827
+
+- *{3,3} Jan 26 *{3,15}
+Support: 1394802
+
+- *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 *{4,7}
+Support: 1389129
+
+N_PBS_BFD2 *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1385881
+
+- *{1,1} 2005.10.12 ln6 Oct 12 *{1,1} ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1385867
+
+- *{1,1} 2005.10.31 *{1,1} Oct 31 *{3,20}
+Support: 1382143
+
+- *{2,2} ladmin1 *{1,1} 16 *{1,1} ladmin1/ladmin1 *{3,10}
+Support: 1357015
+
+- *{3,3} Jun 29 *{5,12}
+Support: 1339599
+
+- *{3,3} May 16 *{3,15}
+Support: 1334447
+
+- *{1,1} 2005.10.21 *{1,1} Oct 21 *{2,2} pbs_mom: *{3,9}
+Support: 1330762
+
+Command line: perl logcluster.pl --input=LBR --rsupport=0.5 --aggrsup
+Rumtime: 7663.26
+CPU system: 15.73
+CPU user: 7647.92
+Memory Consumption: 2803828

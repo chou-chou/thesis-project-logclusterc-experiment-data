@@ -1,0 +1,98 @@
+Mon May 23 19:01:21 2016: Starting...
+Mon May 23 19:01:21 2016: Creating vocabulary...
+Mon May 23 19:01:26 2016: 16741 words inserted into the vocabulary
+Mon May 23 19:01:26 2016: Finding frequent words from the vocabulary...
+Mon May 23 19:01:26 2016: 69 frequent words found
+Mon May 23 19:01:26 2016: 6701 words in vocabulary occurring 1 time
+Mon May 23 19:01:26 2016: 7574 words in vocabulary occurring 2 times or less
+Mon May 23 19:01:26 2016: 9853 words in vocabulary occurring 5 times or less
+Mon May 23 19:01:26 2016: 10399 words in vocabulary occurring 10 times or less
+Mon May 23 19:01:26 2016: 10818 words in vocabulary occurring 20 times or less
+Mon May 23 19:01:26 2016: Finding cluster candidates...
+Mon May 23 19:01:31 2016: 1011 cluster candidates found
+Mon May 23 19:01:31 2016: Finding clusters from the set of candidates...
+Mon May 23 19:01:31 2016: 26 clusters found
+Mon May 23 19:01:31 2016: Analysis complete
+[Tue Jul 1 * * PTL_EVENT_ACK 
+Support: 18582
+
+[Mon Jun 23 * * PTL_EVENT_ACK 
+Support: 33445
+
+[Sun Jun 22 * * PTL_EVENT_ACK 
+Support: 23960
+
+[Mon Jun 16 * * PTL_EVENT_ACK 
+Support: 28691
+
+[Thu Jun 12 * * PTL_EVENT_ACK 
+Support: 21464
+
+[Wed Jun 11 * * PTL_EVENT_ACK 
+Support: 36278
+
+[Tue Jun 10 * * PTL_EVENT_ACK 
+Support: 17092
+
+[Thu Jun 5 * * PTL_EVENT_ACK 
+Support: 20240
+
+[Mon Jun 2 * * PTL_EVENT_ACK 
+Support: 26624
+
+[Tue May 20 * * PTL_EVENT_ACK 
+Support: 17024
+
+[Fri May 16 * * PTL_EVENT_ACK 
+Support: 15928
+
+[Tue May 13 * * PTL_EVENT_ACK 
+Support: 18844
+
+[Sat May 10 * * PTL_EVENT_ACK 
+Support: 17456
+
+[Tue Jul 1 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 18582
+
+[Mon Jun 23 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 33470
+
+[Sun Jun 22 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 23960
+
+[Mon Jun 16 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 28694
+
+[Thu Jun 12 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 21464
+
+[Wed Jun 11 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 36283
+
+[Tue Jun 10 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 17093
+
+[Thu Jun 5 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 20240
+
+[Mon Jun 2 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 26624
+
+[Tue May 20 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 17024
+
+[Fri May 16 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 15929
+
+[Tue May 13 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 18844
+
+[Sat May 10 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 17456
+
+Command line: ./SLCT -s 0.5% Cray_C
+Rumtime: 9.60
+CPU system: 0.04
+CPU user: 9.56
+Memory Consumption: 7968

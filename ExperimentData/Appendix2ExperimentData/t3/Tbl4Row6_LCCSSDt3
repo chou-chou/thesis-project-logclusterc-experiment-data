@@ -1,0 +1,993 @@
+Tue May 24 06:11:32 2016: File Cray_B is added
+Tue May 24 06:11:32 2016: Starting...
+Tue May 24 06:11:32 2016: Creating vocabulary...
+Tue May 24 06:11:33 2016: 4,853 words were inserted into the vocabulary.
+Tue May 24 06:11:33 2016: Finding frequent words from vocabulary...
+Tue May 24 06:11:33 2016: 1,598 frequent words were found.
+Tue May 24 06:11:33 2016: 27% - 1,343 words in vocabulary occur 1 time.
+Tue May 24 06:11:33 2016: 33% - 1,626 words in vocabulary occur 2 times or less.
+Tue May 24 06:11:33 2016: 48% - 2,360 words in vocabulary occur 5 times or less.
+Tue May 24 06:11:33 2016: 49% - 2,408 words in vocabulary occur 10 times or less.
+Tue May 24 06:11:33 2016: 53% - 2,576 words in vocabulary occur 20 times or less.
+Tue May 24 06:11:33 2016: 67.07% - 3,255 words in vocabulary occur less than 200(support) times.
+Tue May 24 06:11:33 2016: Finding cluster candidates...
+Tue May 24 06:11:36 2016: 465,187 cluster candidates were found.
+Tue May 24 06:11:36 2016: Finding clusters...
+Tue May 24 06:11:36 2016: 323 cluster were found.
+
+[Fri Oct 3 18:58:46 2008]:0: PTL_EVENT_SEND_END 
+Support : 781
+
+[Fri Oct 3 21:17:09 2008]:0: PTL_EVENT_SEND_END 
+Support : 736
+
+[Fri Sep 5 16:20:56 2008]:0: PTL_EVENT_SEND_END 
+Support : 722
+
+[Thu Sep 4 00:13:09 2008]:0: PTL_EVENT_SEND_END 
+Support : 722
+
+[Fri Sep 12 16:13:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 721
+
+[Fri Sep 12 06:39:19 2008]:0: PTL_EVENT_SEND_END 
+Support : 721
+
+[Mon Sep 1 19:17:25 2008]:0: PTL_EVENT_SEND_END 
+Support : 720
+
+[Mon Aug 25 22:51:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 718
+
+[Mon Aug 11 06:25:52 2008]:0: PTL_EVENT_SEND_END 
+Support : 717
+
+[Mon Aug 11 11:04:49 2008]:0: PTL_EVENT_SEND_END 
+Support : 713
+
+[Mon Sep 8 05:24:21 2008]:0: PTL_EVENT_SEND_END 
+Support : 712
+
+[Thu Sep 4 00:34:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 712
+
+[Thu Aug 28 20:20:10 2008]:0: PTL_EVENT_SEND_END 
+Support : 712
+
+[Sun Aug 17 10:58:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 712
+
+[Tue Aug 12 11:10:57 2008]:0: PTL_EVENT_SEND_END 
+Support : 712
+
+[Tue Aug 12 10:27:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 712
+
+[Tue Sep 9 06:38:34 2008]:0: PTL_EVENT_SEND_END 
+Support : 711
+
+[Thu Sep 4 12:14:40 2008]:0: PTL_EVENT_SEND_END 
+Support : 711
+
+[Fri Aug 15 07:37:59 2008]:0: PTL_EVENT_SEND_END 
+Support : 711
+
+[Mon Sep 15 10:29:36 2008]:0: PTL_EVENT_SEND_END 
+Support : 710
+
+[Sun Aug 24 21:12:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 710
+
+[Mon Aug 11 05:37:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 710
+
+[Thu Sep 11 20:20:40 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Mon Sep 8 17:59:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Fri Sep 5 06:58:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Tue Aug 26 11:33:37 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Tue Aug 19 11:35:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Mon Aug 18 07:49:20 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Mon Aug 18 04:53:33 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Fri Aug 15 08:17:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 709
+
+[Sun Sep 14 20:13:13 2008]:0: PTL_EVENT_SEND_END 
+Support : 708
+
+[Fri Sep 12 08:40:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 708
+
+[Thu Sep 4 12:32:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 708
+
+[Mon Aug 18 21:45:14 2008]:0: PTL_EVENT_SEND_END 
+Support : 708
+
+[Tue Aug 12 06:42:17 2008]:0: PTL_EVENT_SEND_END 
+Support : 708
+
+[Sat Sep 27 06:27:20 2008]:0: PTL_EVENT_SEND_END 
+Support : 707
+
+[Tue Sep 23 08:16:59 2008]:0: PTL_EVENT_SEND_END 
+Support : 707
+
+[Tue Sep 9 06:19:39 2008]:0: PTL_EVENT_SEND_END 
+Support : 707
+
+[Mon Sep 8 21:30:46 2008]:0: PTL_EVENT_SEND_END 
+Support : 707
+
+[Mon Sep 8 20:01:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 707
+
+[Tue Aug 12 06:22:12 2008]:0: PTL_EVENT_SEND_END 
+Support : 707
+
+[Mon Sep 22 16:14:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Sun Sep 21 21:38:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Tue Sep 16 05:29:25 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Mon Sep 15 20:19:49 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Thu Sep 11 13:25:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Fri Sep 5 19:11:03 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Mon Aug 25 16:14:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 706
+
+[Sat Sep 27 17:10:03 2008]:0: PTL_EVENT_SEND_END 
+Support : 705
+
+[Sun Aug 10 18:17:25 2008]:0: PTL_EVENT_SEND_END 
+Support : 704
+
+[Tue Sep 23 21:51:36 2008]:0: PTL_EVENT_SEND_END 
+Support : 703
+
+[Tue Sep 23 07:15:09 2008]:0: PTL_EVENT_SEND_END 
+Support : 703
+
+[Mon Sep 8 20:29:10 2008]:0: PTL_EVENT_SEND_END 
+Support : 703
+
+[Mon Aug 18 06:02:44 2008]:0: PTL_EVENT_SEND_END 
+Support : 703
+
+[Thu Aug 14 20:16:32 2008]:0: PTL_EVENT_SEND_END 
+Support : 703
+
+[Sat Sep 27 07:10:43 2008]:0: PTL_EVENT_SEND_END 
+Support : 702
+
+[Fri Sep 19 10:08:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 702
+
+[Fri Sep 12 08:04:04 2008]:0: PTL_EVENT_SEND_END 
+Support : 702
+
+[Sun Oct 5 13:39:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 702
+
+[Fri Aug 15 09:25:41 2008]:0: PTL_EVENT_SEND_END 
+Support : 702
+
+[Thu Oct 2 12:17:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 701
+
+[Tue Sep 30 06:20:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 700
+
+[Mon Oct 6 06:58:23 2008]:0: PTL_EVENT_SEND_END 
+Support : 700
+
+[Tue Sep 23 07:53:25 2008]:0: PTL_EVENT_SEND_END 
+Support : 699
+
+[Mon Aug 18 16:14:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 699
+
+[Mon Aug 18 05:31:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 699
+
+[Fri Sep 12 05:47:10 2008]:0: PTL_EVENT_SEND_END 
+Support : 698
+
+[Fri Oct 3 23:08:49 2008]:0: PTL_EVENT_SEND_END 
+Support : 698
+
+[Mon Sep 15 08:37:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 697
+
+[Fri Sep 12 10:10:23 2008]:0: PTL_EVENT_SEND_END 
+Support : 697
+
+[Fri Aug 15 11:06:45 2008]:0: PTL_EVENT_SEND_END 
+Support : 697
+
+[Thu Sep 25 22:16:09 2008]:0: PTL_EVENT_SEND_END 
+Support : 696
+
+[Tue Oct 7 12:05:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 696
+
+[Mon Sep 29 16:16:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 696
+
+[Fri Aug 15 11:06:46 2008]:0: PTL_EVENT_SEND_END 
+Support : 695
+
+[Tue Aug 12 06:22:13 2008]:0: PTL_EVENT_SEND_END 
+Support : 685
+
+[Mon Sep 15 22:58:16 2008]:0: PTL_EVENT_SEND_END 
+Support : 684
+
+[Fri Sep 12 05:47:11 2008]:0: PTL_EVENT_SEND_END 
+Support : 683
+
+[Tue Sep 9 12:02:43 2008]:0: PTL_EVENT_SEND_END 
+Support : 683
+
+[Fri Aug 15 07:27:13 2008]:0: PTL_EVENT_SEND_END 
+Support : 682
+
+[Mon Aug 11 16:14:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 682
+
+[Fri Aug 15 06:14:32 2008]:0: PTL_EVENT_SEND_END 
+Support : 681
+
+[Tue Sep 2 07:37:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 679
+
+[Tue Aug 19 11:17:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 679
+
+[Tue Aug 12 07:25:14 2008]:0: PTL_EVENT_SEND_END 
+Support : 679
+
+[Mon Oct 6 06:27:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 678
+
+[Mon Aug 18 05:27:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 678
+
+[Fri Aug 15 10:44:33 2008]:0: PTL_EVENT_SEND_END 
+Support : 677
+
+[Fri Sep 26 07:50:14 2008]:0: PTL_EVENT_SEND_END 
+Support : 676
+
+[Fri Aug 22 16:14:40 2008]:0: PTL_EVENT_SEND_END 
+Support : 676
+
+[Mon Aug 18 05:56:07 2008]:0: PTL_EVENT_SEND_END 
+Support : 676
+
+[Mon Aug 11 05:57:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 676
+
+[Fri Sep 12 17:37:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 675
+
+[Mon Sep 1 21:49:34 2008]:0: PTL_EVENT_SEND_END 
+Support : 675
+
+[Mon Aug 18 07:57:40 2008]:0: PTL_EVENT_SEND_END 
+Support : 675
+
+[Fri Aug 15 09:09:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 675
+
+[Mon Sep 15 16:18:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 674
+
+[Mon Sep 8 19:42:11 2008]:0: PTL_EVENT_SEND_END 
+Support : 674
+
+[Tue Sep 30 11:39:56 2008]:0: PTL_EVENT_SEND_END 
+Support : 673
+
+[Mon Sep 22 16:38:31 2008]:0: PTL_EVENT_SEND_END 
+Support : 673
+
+[Thu Aug 21 20:47:46 2008]:0: PTL_EVENT_SEND_END 
+Support : 673
+
+[Sun Sep 21 19:26:07 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Tue Sep 16 11:15:32 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Mon Sep 1 19:17:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Sat Sep 27 18:03:53 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Fri Sep 26 06:44:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Sat Sep 27 18:20:45 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Fri Sep 26 10:15:53 2008]:0: PTL_EVENT_SEND_END 
+Support : 672
+
+[Sat Sep 27 15:26:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Fri Sep 26 07:05:58 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Fri Sep 12 16:13:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Fri Sep 12 09:03:41 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Fri Sep 12 06:39:18 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Sat Sep 27 17:43:43 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Mon Aug 11 06:25:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 671
+
+[Thu Sep 18 20:18:58 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Mon Sep 15 10:09:56 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Tue Sep 23 11:07:57 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Fri Sep 12 10:50:11 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Fri Sep 5 16:20:55 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Thu Sep 4 00:13:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Sat Sep 27 06:07:18 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Fri Sep 26 10:50:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 670
+
+[Fri Sep 19 10:08:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 669
+
+[Fri Oct 3 23:34:54 2008]:0: PTL_EVENT_SEND_END 
+Support : 669
+
+[Thu Sep 25 12:43:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 668
+
+[Fri Sep 12 08:04:03 2008]:0: PTL_EVENT_SEND_END 
+Support : 668
+
+[Tue Oct 7 11:06:45 2008]:0: PTL_EVENT_SEND_END 
+Support : 668
+
+[Mon Oct 6 07:06:57 2008]:0: PTL_EVENT_SEND_END 
+Support : 668
+
+[Mon Sep 29 16:33:31 2008]:0: PTL_EVENT_SEND_END 
+Support : 667
+
+[Thu Sep 25 13:00:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 667
+
+[Sat Sep 27 07:34:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 666
+
+[Thu Oct 2 21:35:46 2008]:0: PTL_EVENT_SEND_END 
+Support : 665
+
+[Mon Sep 29 16:16:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 665
+
+[Tue Sep 23 12:03:30 2008]:0: PTL_EVENT_SEND_END 
+Support : 665
+
+[Sat Oct 4 01:22:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 665
+
+[Mon Sep 29 16:33:32 2008]:0: PTL_EVENT_SEND_END 
+Support : 665
+
+[Sun Aug 10 18:17:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 665
+
+[Mon Aug 18 05:56:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 664
+
+[Sun Sep 28 18:16:55 2008]:0: PTL_EVENT_SEND_END 
+Support : 664
+
+[Fri Oct 3 23:08:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 664
+
+[Sat Sep 27 18:20:44 2008]:0: PTL_EVENT_SEND_END 
+Support : 663
+
+[Mon Oct 6 16:14:12 2008]:0: PTL_EVENT_SEND_END 
+Support : 663
+
+[Tue Oct 7 06:37:37 2008]:0: PTL_EVENT_SEND_END 
+Support : 662
+
+[Sat Sep 27 07:10:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 662
+
+[Tue Oct 7 12:05:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 661
+
+[Tue Oct 7 06:20:59 2008]:0: PTL_EVENT_SEND_END 
+Support : 661
+
+[Tue Sep 30 12:19:13 2008]:0: PTL_EVENT_SEND_END 
+Support : 661
+
+[Fri Sep 26 07:50:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 660
+
+[Mon Oct 6 06:35:25 2008]:0: PTL_EVENT_SEND_END 
+Support : 660
+
+[Thu Sep 25 22:16:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 659
+
+[Tue Sep 23 07:15:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 658
+
+[Fri Oct 3 20:45:37 2008]:0: PTL_EVENT_SEND_END 
+Support : 658
+
+[Mon Oct 6 06:27:14 2008]:0: PTL_EVENT_SEND_END 
+Support : 657
+
+[Fri Oct 3 21:17:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 656
+
+[Mon Sep 8 20:29:09 2008]:0: PTL_EVENT_SEND_END 
+Support : 656
+
+[Thu Sep 4 12:32:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 656
+
+[Thu Aug 14 20:16:31 2008]:0: PTL_EVENT_SEND_END 
+Support : 652
+
+[Tue Sep 9 12:02:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 650
+
+[Mon Sep 15 22:58:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 650
+
+[Tue Sep 9 06:19:38 2008]:0: PTL_EVENT_SEND_END 
+Support : 648
+
+[Tue Aug 26 11:33:36 2008]:0: PTL_EVENT_SEND_END 
+Support : 646
+
+[Tue Aug 26 06:16:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 643
+
+[Sat Sep 27 17:10:04 2008]:0: PTL_EVENT_SEND_END 
+Support : 627
+
+[Thu Sep 11 13:25:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 624
+
+[Mon Aug 25 22:51:00 2008]:0: PTL_EVENT_SEND_END 
+Support : 618
+
+[Mon Sep 15 10:29:35 2008]:0: PTL_EVENT_SEND_END 
+Support : 614
+
+[Sat Sep 27 06:27:21 2008]:0: PTL_EVENT_SEND_END 
+Support : 612
+
+[Mon Sep 22 16:14:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 612
+
+[Mon Sep 8 17:59:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 611
+
+[Fri Oct 3 18:58:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 611
+
+[Tue Oct 7 06:20:58 2008]:0: PTL_EVENT_SEND_END 
+Support : 610
+
+[Tue Aug 12 10:27:52 2008]:0: PTL_EVENT_SEND_END 
+Support : 605
+
+[Mon Aug 11 05:37:16 2008]:0: PTL_EVENT_SEND_END 
+Support : 604
+
+[Mon Sep 15 10:09:55 2008]:0: PTL_EVENT_SEND_END 
+Support : 603
+
+[Fri Sep 26 06:44:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 600
+
+[Fri Aug 15 06:14:33 2008]:0: PTL_EVENT_SEND_END 
+Support : 599
+
+[Tue Aug 12 07:25:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 599
+
+[Mon Sep 8 19:42:10 2008]:0: PTL_EVENT_SEND_END 
+Support : 597
+
+[Tue Sep 30 12:19:14 2008]:0: PTL_EVENT_SEND_END 
+Support : 596
+
+[Tue Oct 7 11:06:44 2008]:0: PTL_EVENT_SEND_END 
+Support : 594
+
+[Tue Sep 23 11:07:56 2008]:0: PTL_EVENT_SEND_END 
+Support : 590
+
+[Fri Aug 15 07:27:12 2008]:0: PTL_EVENT_SEND_END 
+Support : 590
+
+[Tue Sep 30 11:39:55 2008]:0: PTL_EVENT_SEND_END 
+Support : 587
+
+[Mon Aug 18 04:53:32 2008]:0: PTL_EVENT_SEND_END 
+Support : 556
+
+[Fri Sep 12 10:50:12 2008]:0: PTL_EVENT_SEND_END 
+Support : 554
+
+[Thu Sep 4 00:34:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 552
+
+[Sun Aug 24 21:12:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 552
+
+[Tue Aug 12 06:42:18 2008]:0: PTL_EVENT_SEND_END 
+Support : 550
+
+[Thu Oct 2 21:35:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 548
+
+[Sat Sep 27 07:34:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 548
+
+[Thu Sep 25 13:00:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 547
+
+[Mon Oct 6 07:06:58 2008]:0: PTL_EVENT_SEND_END 
+Support : 545
+
+[Mon Sep 1 21:49:35 2008]:0: PTL_EVENT_SEND_END 
+Support : 545
+
+[Mon Aug 18 07:49:19 2008]:0: PTL_EVENT_SEND_END 
+Support : 545
+
+[Sun Sep 14 20:13:12 2008]:0: PTL_EVENT_SEND_END 
+Support : 544
+
+[Fri Aug 15 10:44:34 2008]:0: PTL_EVENT_SEND_END 
+Support : 541
+
+[Mon Sep 8 05:24:20 2008]:0: PTL_EVENT_SEND_END 
+Support : 536
+
+[Mon Aug 18 05:27:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 535
+
+[Fri Aug 22 16:14:39 2008]:0: PTL_EVENT_SEND_END 
+Support : 534
+
+[Mon Oct 6 16:14:11 2008]:0: PTL_EVENT_SEND_END 
+Support : 534
+
+[Fri Aug 15 09:09:49 2008]:0: PTL_EVENT_SEND_END 
+Support : 531
+
+[Tue Oct 7 06:37:36 2008]:0: PTL_EVENT_SEND_END 
+Support : 531
+
+[Tue Sep 16 11:15:31 2008]:0: PTL_EVENT_SEND_END 
+Support : 530
+
+[Mon Aug 11 16:14:04 2008]:0: PTL_EVENT_SEND_END 
+Support : 530
+
+[Tue Sep 30 06:20:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 499
+
+[Tue Sep 9 06:38:35 2008]:0: PTL_EVENT_SEND_END 
+Support : 499
+
+[Fri Sep 12 08:40:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 498
+
+[Mon Sep 15 08:37:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 496
+
+[Thu Aug 28 20:20:11 2008]:0: PTL_EVENT_SEND_END 
+Support : 496
+
+[Sun Aug 17 10:58:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 492
+
+[Tue Sep 23 07:53:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 492
+
+[Fri Aug 15 07:38:00 2008]:0: PTL_EVENT_SEND_END 
+Support : 491
+
+[Tue Aug 26 06:16:41 2008]:0: PTL_EVENT_SEND_END 
+Support : 490
+
+[Mon Sep 15 16:18:07 2008]:0: PTL_EVENT_SEND_END 
+Support : 485
+
+[Fri Sep 26 10:50:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 485
+
+[Sat Oct 4 01:22:25 2008]:0: PTL_EVENT_SEND_END 
+Support : 483
+
+[Tue Aug 19 11:35:04 2008]:0: PTL_EVENT_SEND_END 
+Support : 483
+
+[Sun Sep 28 18:16:54 2008]:0: PTL_EVENT_SEND_END 
+Support : 483
+
+[Fri Sep 26 07:05:57 2008]:0: PTL_EVENT_SEND_END 
+Support : 482
+
+[Fri Sep 26 10:15:54 2008]:0: PTL_EVENT_SEND_END 
+Support : 482
+
+[Tue Sep 23 12:03:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 481
+
+[Sun Sep 21 19:26:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 481
+
+[Sat Sep 27 17:43:44 2008]:0: PTL_EVENT_SEND_END 
+Support : 480
+
+[Fri Sep 12 09:03:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 479
+
+[Mon Aug 18 07:57:39 2008]:0: PTL_EVENT_SEND_END 
+Support : 478
+
+[Tue Sep 2 07:37:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 475
+
+[Mon Aug 11 05:57:49 2008]:0: PTL_EVENT_SEND_END 
+Support : 475
+
+[Mon Aug 18 06:02:45 2008]:0: PTL_EVENT_SEND_END 
+Support : 438
+
+[Mon Sep 15 20:19:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 438
+
+[Thu Sep 4 12:14:39 2008]:0: PTL_EVENT_SEND_END 
+Support : 435
+
+[Fri Aug 15 09:25:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 435
+
+[Tue Sep 16 05:29:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 434
+
+[Tue Sep 23 08:16:58 2008]:0: PTL_EVENT_SEND_END 
+Support : 434
+
+[Thu Aug 21 20:47:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 433
+
+[Fri Aug 15 08:17:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 433
+
+[Sun Sep 21 21:38:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 431
+
+[Sun Oct 5 13:39:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 427
+
+[Sat Sep 27 18:03:54 2008]:0: PTL_EVENT_SEND_END 
+Support : 427
+
+[Mon Sep 8 20:01:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 424
+
+[Thu Sep 25 12:43:52 2008]:0: PTL_EVENT_SEND_END 
+Support : 423
+
+[Thu Sep 11 20:20:39 2008]:0: PTL_EVENT_SEND_END 
+Support : 422
+
+[Fri Oct 3 23:34:55 2008]:0: PTL_EVENT_SEND_END 
+Support : 420
+
+[Fri Sep 12 17:37:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 418
+
+[Mon Oct 6 06:35:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 411
+
+[Sat Sep 27 15:26:14 2008]:0: PTL_EVENT_SEND_END 
+Support : 411
+
+[Sat Sep 27 06:07:17 2008]:0: PTL_EVENT_SEND_END 
+Support : 410
+
+[Mon Aug 18 05:31:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 394
+
+[Fri Sep 5 06:58:51 2008]:0: PTL_EVENT_SEND_END 
+Support : 382
+
+[Tue Sep 23 21:51:37 2008]:0: PTL_EVENT_SEND_END 
+Support : 381
+
+[Thu Oct 2 12:17:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 380
+
+[Tue Aug 12 11:10:58 2008]:0: PTL_EVENT_SEND_END 
+Support : 378
+
+[Fri Sep 12 10:10:22 2008]:0: PTL_EVENT_SEND_END 
+Support : 377
+
+[Fri Oct 3 20:45:36 2008]:0: PTL_EVENT_SEND_END 
+Support : 376
+
+[Mon Oct 6 06:58:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 376
+
+[Mon Oct 6 06:42:05 2008]:0: PTL_EVENT_SEND_END 
+Support : 374
+
+[Mon Aug 11 11:04:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 372
+
+[Fri Sep 5 19:11:04 2008]:0: PTL_EVENT_SEND_END 
+Support : 370
+
+[Mon Sep 8 21:30:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 369
+
+[Mon Aug 18 21:45:15 2008]:0: PTL_EVENT_SEND_END 
+Support : 368
+
+[Mon Aug 18 16:14:01 2008]:0: PTL_EVENT_SEND_END 
+Support : 368
+
+[Thu Sep 18 20:18:57 2008]:0: PTL_EVENT_SEND_END 
+Support : 365
+
+[Mon Aug 25 16:14:00 2008]:0: PTL_EVENT_SEND_END 
+Support : 364
+
+[Mon Sep 22 16:38:32 2008]:0: PTL_EVENT_SEND_END 
+Support : 363
+
+[Fri Oct 3 20:45:38 2008]:0: PTL_EVENT_SEND_END 
+Support : 358
+
+[Tue Aug 19 11:17:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 358
+
+[Thu Sep 18 20:18:59 2008]:0: PTL_EVENT_SEND_END 
+Support : 357
+
+[Mon Sep 22 16:38:30 2008]:0: PTL_EVENT_SEND_END 
+Support : 356
+
+[Tue Aug 19 11:17:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 355
+
+[Mon Oct 6 06:39:44 2008]:0: PTL_EVENT_SEND_END 
+Support : 326
+
+[Mon Aug 18 16:14:03 2008]:0: PTL_EVENT_SEND_END 
+Support : 325
+
+[Mon Aug 25 16:14:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 322
+
+[Mon Oct 6 06:35:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 321
+
+[Fri Sep 12 10:10:24 2008]:0: PTL_EVENT_SEND_END 
+Support : 318
+
+[Mon Sep 8 21:30:45 2008]:0: PTL_EVENT_SEND_END 
+Support : 316
+
+[Mon Oct 6 06:58:22 2008]:0: PTL_EVENT_SEND_END 
+Support : 316
+
+[Mon Aug 18 21:45:13 2008]:0: PTL_EVENT_SEND_END 
+Support : 316
+
+[Fri Sep 5 19:11:02 2008]:0: PTL_EVENT_SEND_END 
+Support : 316
+
+[Sat Sep 27 06:07:19 2008]:0: PTL_EVENT_SEND_END 
+Support : 312
+
+[Thu Oct 2 12:17:04 2008]:0: PTL_EVENT_SEND_END 
+Support : 311
+
+[Sat Sep 27 15:26:16 2008]:0: PTL_EVENT_SEND_END 
+Support : 310
+
+[Tue Sep 23 21:51:35 2008]:0: PTL_EVENT_SEND_END 
+Support : 308
+
+[Mon Aug 11 11:04:48 2008]:0: PTL_EVENT_SEND_END 
+Support : 307
+
+[Fri Oct 3 23:34:53 2008]:0: PTL_EVENT_SEND_END 
+Support : 303
+
+[Tue Aug 12 11:10:56 2008]:0: PTL_EVENT_SEND_END 
+Support : 302
+
+[Thu Sep 25 12:43:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 301
+
+[Fri Sep 5 06:58:49 2008]:0: PTL_EVENT_SEND_END 
+Support : 301
+
+[Fri Sep 12 17:37:03 2008]:0: PTL_EVENT_SEND_END 
+Support : 299
+
+[Sat Sep 27 18:03:52 2008]:0: PTL_EVENT_SEND_END 
+Support : 293
+
+[Thu Aug 21 20:47:45 2008]:0: PTL_EVENT_SEND_END 
+Support : 286
+
+[Sun Oct 5 13:39:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 263
+
+[Thu Sep 11 20:20:41 2008]:0: PTL_EVENT_SEND_END 
+Support : 261
+
+[Mon Sep 8 20:01:28 2008]:0: PTL_EVENT_SEND_END 
+Support : 261
+
+[Tue Aug 26 06:16:43 2008]:0: PTL_EVENT_SEND_END 
+Support : 259
+
+[Mon Oct 6 06:39:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 258
+
+[Sun Sep 21 21:38:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 255
+
+[Fri Aug 15 09:25:40 2008]:0: PTL_EVENT_SEND_END 
+Support : 255
+
+[Tue Sep 16 05:29:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 252
+
+[Tue Sep 23 08:17:00 2008]:0: PTL_EVENT_SEND_END 
+Support : 251
+
+[Mon Aug 18 06:02:43 2008]:0: PTL_EVENT_SEND_END 
+Support : 251
+
+[Mon Oct 6 06:42:08 2008]:0: PTL_EVENT_SEND_END 
+Support : 250
+
+[Fri Aug 15 08:17:07 2008]:0: PTL_EVENT_SEND_END 
+Support : 250
+
+[Mon Sep 15 20:19:50 2008]:0: PTL_EVENT_SEND_END 
+Support : 248
+
+[Thu Sep 4 12:14:41 2008]:0: PTL_EVENT_SEND_END 
+Support : 246
+
+[Tue Sep 23 12:03:31 2008]:0: PTL_EVENT_SEND_END 
+Support : 246
+
+[Sun Sep 28 18:16:56 2008]:0: PTL_EVENT_SEND_END 
+Support : 245
+
+[Sat Oct 4 01:22:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 244
+
+[Fri Sep 12 09:03:40 2008]:0: PTL_EVENT_SEND_END 
+Support : 242
+
+[Sat Sep 27 17:43:42 2008]:0: PTL_EVENT_SEND_END 
+Support : 241
+
+[Sun Sep 21 19:26:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 239
+
+[Fri Sep 26 07:05:59 2008]:0: PTL_EVENT_SEND_END 
+Support : 239
+
+[Mon Aug 18 07:57:41 2008]:0: PTL_EVENT_SEND_END 
+Support : 239
+
+[Tue Sep 2 07:37:03 2008]:0: PTL_EVENT_SEND_END 
+Support : 238
+
+[Fri Sep 26 10:15:52 2008]:0: PTL_EVENT_SEND_END 
+Support : 238
+
+[Mon Aug 11 05:57:47 2008]:0: PTL_EVENT_SEND_END 
+Support : 237
+
+[Fri Sep 26 10:50:29 2008]:0: PTL_EVENT_SEND_END 
+Support : 233
+
+[Mon Sep 15 16:18:05 2008]:0: Tue May 24 06:11:36 2016: Total number of clusters: 323
+PTL_EVENT_SEND_END 
+Support : 233
+
+[Mon Aug 18 05:31:27 2008]:0: PTL_EVENT_SEND_END 
+Support : 230
+
+[Mon Oct 6 06:42:07 2008]:0: PTL_EVENT_SEND_END 
+Support : 210
+
+[Fri Oct 3 18:58:46 2008]:addr =0x90800, buf=0x680fd0, len = 0x6c 
+Support : 210
+
+[Fri Oct 3 18:58:46 2008]:addr =0xfa00000, buf=0x2ba43c6af010, len = 0x2a401c 
+Support : 209
+
+[Tue Sep 23 07:53:26 2008]:0: PTL_EVENT_SEND_END 
+Support : 201
+
+[Tue Aug 19 11:35:06 2008]:0: PTL_EVENT_SEND_END 
+Support : 200
+
+
+Command line: ./LogClusterC --input=Cray_B --support=200
+Rumtime: 4.08
+CPU system: 0.36
+CPU user: 3.72
+Memory Consumption: 2006104

@@ -1,0 +1,42 @@
+Mon May 23 22:23:46 2016: File TDB is added
+Mon May 23 22:23:46 2016: Starting...
+Mon May 23 22:23:46 2016: Creating vocabulary...
+Mon May 23 22:39:26 2016: 23,330,821 words were inserted into the vocabulary.
+Mon May 23 22:39:26 2016: Finding frequent words from vocabulary...
+Mon May 23 22:39:29 2016: 404 frequent words were found.
+Mon May 23 22:39:29 2016: 32% - 7,561,438 words in vocabulary occur 1 time.
+Mon May 23 22:39:29 2016: 47% - 11,110,168 words in vocabulary occur 2 times or less.
+Mon May 23 22:39:29 2016: 72% - 17,011,865 words in vocabulary occur 5 times or less.
+Mon May 23 22:39:29 2016: 86% - 20,268,254 words in vocabulary occur 10 times or less.
+Mon May 23 22:39:29 2016: 92% - 21,536,130 words in vocabulary occur 20 times or less.
+Mon May 23 22:39:29 2016: 100.00% - 23,330,417 words in vocabulary occur less than 1056060(support) times.
+Mon May 23 22:39:29 2016: Finding cluster candidates...
+Mon May 23 22:50:01 2016: 197,847 cluster candidates were found.
+Mon May 23 22:50:01 2016: Finding clusters...
+Mon May 23 22:50:01 2016: 6 cluster were found.
+Mon May 23 22:50:01 2016: Total number of clusters: 6
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 2,520,874
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support : 1,192,523
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(1): XHH_mrwm_register_mr: *{0,1} rc=HH_EAGAIN 
+Support : 1,102,764
+
+R_MTT *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,2} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: *{0,1} alloc_reg_pages: Out of MTT entries 
+Support : 1,102,489
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: VIPKL(1): *{0,1} [MM_create_mr]:MM_mr_get_keys failed 
+Support : 1,102,417
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: *{0,1} reserve_mtt_segs: Cannot reserve 255 MTT segments *{1,1} dynamic MTT segments left) 
+Support : 1,102,272
+
+
+Command line: ./LogClusterC --input=TDB --rsupport=0.5
+Rumtime: 1575.03
+CPU system: 14.45
+CPU user: 1561.47
+Memory Consumption: 1926336

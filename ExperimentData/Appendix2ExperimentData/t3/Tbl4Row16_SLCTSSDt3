@@ -1,0 +1,47 @@
+Tue May 24 10:01:36 2016: Starting...
+Tue May 24 10:01:36 2016: Creating vocabulary...
+Tue May 24 10:16:53 2016: 23769344 words inserted into the vocabulary
+Tue May 24 10:16:53 2016: Finding frequent words from the vocabulary...
+Tue May 24 10:16:56 2016: 453 frequent words found
+Tue May 24 10:16:56 2016: 7886058 words in vocabulary occurring 1 time
+Tue May 24 10:16:56 2016: 11389328 words in vocabulary occurring 2 times or less
+Tue May 24 10:16:56 2016: 17391236 words in vocabulary occurring 5 times or less
+Tue May 24 10:16:56 2016: 20647946 words in vocabulary occurring 10 times or less
+Tue May 24 10:16:56 2016: 21940490 words in vocabulary occurring 20 times or less
+Tue May 24 10:16:56 2016: Finding cluster candidates...
+Tue May 24 10:28:32 2016: 85862 cluster candidates found
+Tue May 24 10:28:32 2016: Finding clusters from the set of candidates...
+Tue May 24 10:28:32 2016: 9 clusters found
+Tue May 24 10:28:32 2016: Analysis complete
+- * 2006.04.06 * Apr 6 * * kernel: 
+Support: 1512951
+
+- * 2006.03.30 * Mar 30 * * kernel: 
+Support: 1561464
+
+- * 2006.01.12 * Jan 12 * * kernel: 
+Support: 1200899
+
+- * 2006.04.19 * Apr 19 * * kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed 
+Support: 1102402
+
+- * 2006.04.19 * Apr 19 * * kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN 
+Support: 1102763
+
+- * 2006.05.08 * May 8 * * kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, 
+Support: 2520874
+
+R_MTT * 2006.04.19 * Apr 19 * * kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries 
+Support: 1102199
+
+- * 2006.05.25 #9# May 25 * #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support: 1192523
+
+- * 2006.04.19 * Apr 19 * * kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments * dynamic MTT segments left) 
+Support: 1102267
+
+Command line: ./SLCT -s 0.5% TDB
+Rumtime: 1616.95
+CPU system: 14.96
+CPU user: 1602.88
+Memory Consumption: 1977740

@@ -1,0 +1,137 @@
+Tue May 24 02:14:48 2016: Starting...
+Tue May 24 02:14:48 2016: Creating vocabulary...
+Tue May 24 02:29:31 2016: 13310394 words inserted into the vocabulary
+Tue May 24 02:29:31 2016: Finding frequent words from the vocabulary...
+Tue May 24 02:29:32 2016: 205 frequent words found
+Tue May 24 02:29:32 2016: 3599194 words in vocabulary occurring 1 time
+Tue May 24 02:29:32 2016: 7405042 words in vocabulary occurring 2 times or less
+Tue May 24 02:29:32 2016: 10258518 words in vocabulary occurring 5 times or less
+Tue May 24 02:29:32 2016: 11277216 words in vocabulary occurring 10 times or less
+Tue May 24 02:29:32 2016: 11793372 words in vocabulary occurring 20 times or less
+Tue May 24 02:29:32 2016: Finding cluster candidates...
+Tue May 24 02:46:05 2016: 50506 cluster candidates found
+Tue May 24 02:46:05 2016: Finding clusters from the set of candidates...
+Tue May 24 02:46:05 2016: 39 clusters found
+R_EXT_FS_IO * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)) in ext3_reserve_inode_write: IO failure 
+Support: 2145644
+
+R_EXT_FS_IO * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1926680
+
+R_EXT_FS_IO * 2006.03.03 sn373 Mar 3 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1625567
+
+R_EXT_FS_IO * 2006.03.02 sn373 Mar 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1658670
+
+R_EXT_FS_IO * 2006.03.01 sn373 Mar 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1693714
+
+R_EXT_FS_IO * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1428047
+
+R_EXT_FS_IO * 2006.02.02 sn373 Feb 2 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1579994
+
+R_EXT_FS_IO * 2006.02.01 sn373 Feb 1 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 2136225
+
+R_EXT_FS_IO * 2005.06.27 sn441 Jun 27 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1445317
+
+R_EXT_FS_IO * 2005.06.25 sn441 Jun 25 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1436856
+
+R_EXT_FS_IO * 2005.06.24 sn441 Jun 24 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1641109
+
+R_EXT_FS_IO * 2005.06.23 sn441 Jun 23 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1443523
+
+R_EXT_FS_IO * 2005.06.22 sn441 Jun 22 * sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1445103
+
+R_EXT_FS_IO * 2005.04.17 sn225 Apr 17 * sn225/sn225 kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 1935689
+
+R_EXT_CCISS * 2006.03.05 sn373 Mar 5 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 3705356
+
+R_EXT_CCISS * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 12120527
+
+R_EXT_CCISS * 2006.03.03 sn373 Mar 3 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4984248
+
+R_EXT_CCISS * 2006.03.02 sn373 Mar 2 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5027325
+
+R_EXT_CCISS * 2006.03.01 sn373 Mar 1 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5097317
+
+R_EXT_CCISS * 2006.02.28 sn373 Feb 28 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2510762
+
+R_EXT_CCISS * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4300218
+
+R_EXT_CCISS * 2006.02.02 sn373 Feb 2 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4837775
+
+R_EXT_CCISS * 2006.02.01 sn373 Feb 1 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 6495072
+
+R_EXT_CCISS * 2006.01.31 sn373 Jan 31 * sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2984197
+
+R_EXT_CCISS * 2005.06.27 sn441 Jun 27 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4329911
+
+R_EXT_CCISS * 2005.06.26 sn441 Jun 26 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2723060
+
+R_EXT_CCISS * 2005.06.25 sn441 Jun 25 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4307432
+
+R_EXT_CCISS * 2005.06.24 sn441 Jun 24 * sn441/sn441 kTue May 24 02:46:05 2016: Analysis complete
+ernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5109517
+
+R_EXT_CCISS * 2005.06.23 sn441 Jun 23 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4344166
+
+R_EXT_CCISS * 2005.06.22 sn441 Jun 22 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4349036
+
+R_EXT_CCISS * 2005.06.21 sn441 Jun 21 * sn441/sn441 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2725657
+
+R_EXT_CCISS * 2005.05.21 sn105 May 21 * sn105/sn105 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 3621329
+
+R_EXT_CCISS * 2005.04.27 sn408 Apr 27 * sn408/sn408 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 1811169
+
+R_EXT_CCISS * 2005.04.26 sn408 Apr 26 * sn408/sn408 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4079416
+
+R_EXT_CCISS * 2005.04.19 sn225 Apr 19 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 2318730
+
+R_EXT_CCISS * 2005.04.18 sn225 Apr 18 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4089818
+
+R_EXT_CCISS * 2005.04.17 sn225 Apr 17 * sn225/sn225 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 5807395
+
+R_EXT_INODE1 * 2006.03.04 sn373 Mar 4 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,2)): ext3_get_inode_loc: unable to read inode block - 
+Support: 2145710
+
+R_EXT_INODE1 * 2006.02.24 sn373 Feb 24 * sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - 
+Support: 1417818
+
+Command line: ./SLCT -s 0.5% SPT
+Rumtime: 1877.92
+CPU system: 16.84
+CPU user: 1862.19
+Memory Consumption: 1054952

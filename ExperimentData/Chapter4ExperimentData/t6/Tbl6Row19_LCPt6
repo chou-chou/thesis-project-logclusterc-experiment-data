@@ -1,0 +1,30 @@
+Fri May 20 09:27:32 2016: Starting the clustering process...
+Fri May 20 10:18:14 2016: Total 265569231 lines read from input sources, using absolute support 1327846 (relative support 0.5 percent)
+Fri May 20 10:18:26 2016: Total number of frequent words: 225
+Fri May 20 12:27:42 2016: Total number of frequent word dependencies: 30925
+Fri May 20 13:37:32 2016: Total number of candidates: 93010
+Fri May 20 13:37:33 2016: Total number of frequent candidates: 36
+Fri May 20 13:37:33 2016: Total number of clusters: 6
+N_PBS_BFD2 *{1,1} (2005.11.27|2005.11.28|2005.11.26|2005.11.05|2005.11.04|2005.11.20|2005.11.19|2005.11.25|2005.11.06|2005.11.21) (ln147|ln205|ln177|ln9|ln181) Nov (21|5|4|6|25|19|26|20|27|28) *{1,1} (ln205/ln205|ln181/ln181|ln177/ln177|ln9/ln9|ln147/ln147) pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 41004986
+
+- *{1,1} (2005.11.05|2005.11.06) ln177 Nov (6|5) *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 21368618
+
+- *{1,1} (2005.11.04|2005.11.26|2005.11.21|2005.11.20|2005.11.19|2005.11.25|2005.11.27|2005.11.28) (ln9|ln181|ln205|ln147|ln177) Nov (28|26|20|27|19|25|4|21) *{1,1} (ln147/ln147|ln9/ln9|ln177/ln177|ln205/ln205|ln181/ln181) pbs_mom: pbs_mom, wait_request failed 
+Support: 18985774
+
+N_PBS_BFD2 *{1,1} (2005.10.12|2005.10.13|2005.11.12|2005.10.11) (ln17|ln6|ln81) (Oct|Nov) (13|11|12) *{1,1} (ln6/ln6|ln81/ln81|ln17/ln17) pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 10141429
+
+- *{1,1} (2005.10.13|2005.10.12|2005.10.11) (ln17|ln6) Oct (11|13|12) *{1,1} (ln17/ln17|ln6/ln6) pbs_mom: pbs_mom, wait_request failed 
+Support: 8670407
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 1471002
+
+Command line: perl logcluster.pl --input=LBR --rsupport=0.5 --wweight=0.6
+Rumtime: 15000.91
+CPU system: 22.65
+CPU user: 14984.10
+Memory Consumption: 2802708

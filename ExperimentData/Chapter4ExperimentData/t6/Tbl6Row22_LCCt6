@@ -1,0 +1,224 @@
+Sat May 21 05:49:03 2016: File TDB is added
+Sat May 21 05:49:03 2016: Starting...
+Sat May 21 05:49:03 2016: Creating vocabulary...
+Sat May 21 06:04:04 2016: 23,330,821 words were inserted into the vocabulary.
+Sat May 21 06:04:04 2016: Finding frequent words from vocabulary...
+Sat May 21 06:04:06 2016: 404 frequent words were found.
+Sat May 21 06:04:06 2016: 32% - 7,561,438 words in vocabulary occur 1 time.
+Sat May 21 06:04:06 2016: 47% - 11,110,168 words in vocabulary occur 2 times or less.
+Sat May 21 06:04:06 2016: 72% - 17,011,865 words in vocabulary occur 5 times or less.
+Sat May 21 06:04:06 2016: 86% - 20,268,254 words in vocabulary occur 10 times or less.
+Sat May 21 06:04:06 2016: 92% - 21,536,130 words in vocabulary occur 20 times or less.
+Sat May 21 06:04:06 2016: 100.00% - 23,330,417 words in vocabulary occur less than 1056060(support) times.
+Sat May 21 06:04:06 2016: Finding cluster candidates...
+Sat May 21 06:14:39 2016: 197,847 cluster candidates were found.
+Sat May 21 06:14:39 2016: Aggregate cluster candidates...
+Sat May 21 06:14:50 2016: 835,356 nodes in the prefix tree.
+Sat May 21 06:14:50 2016: Finding clusters...
+Sat May 21 06:14:50 2016: 66 cluster were found.
+
+- *{1,1} 2006.04.06 *{1,1} Apr 6 *{3,17}
+Support : 4,533,725
+
+- *{1,1} 2006.03.30 *{1,1} Mar 30 *{3,25}
+Support : 4,516,872
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{3,18}
+Support : 4,133,776
+
+- *{1,1} 2006.01.11 *{1,1} Jan 11 *{3,17}
+Support : 3,533,034
+
+- *{1,1} 2006.02.23 *{1,1} Feb 23 *{3,17}
+Support : 3,517,841
+
+- *{1,1} 2006.01.12 *{1,1} Jan 12 *{3,17}
+Support : 3,274,038
+
+- *{1,1} 2005.12.26 *{1,1} Dec 26 *{3,17}
+Support : 2,976,875
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: *{0,10}
+Support : 2,959,225
+
+*{2,2} 2006.05.08 *{1,1} May 8 *{2,2} kernel: *{6,8}
+Support : 2,867,377
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): *{1,1} MOSAL_virt_to_phys_ex: cannot retrieve *{1,1} prot_ctx=USER, *{1,1}
+Support : 2,843,136
+
+- *{1,1} 2006.05.07 *{1,1} May 7 *{3,17}
+Support : 2,793,516
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{3,17}
+Support : 2,678,029
+
+- *{1,1} 2006.01.04 *{1,1} Jan 4 *{3,17}
+Support : 2,535,360
+
+- *{1,1} 2005.12.26 *{1,1} Dec 26 *{2,2} kernel: *{0,10}
+Support : 2,526,728
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support : 2,520,874
+
+- *{1,1} 2006.03.29 *{1,1} Mar 29 *{3,17}
+Support : 2,509,456
+
+- *{1,1} 2006.03.30 *{1,1} Mar 30 *{2,2} kernel: *{0,15}
+Support : 2,382,747
+
+- *{1,1} 2006.05.25 *{1,1} May 25 *{2,20}
+Support : 2,367,608
+
+- *{1,1} 2006.04.24 *{1,1} Apr 24 *{3,17}
+Support : 2,328,519
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: *{0,10}
+Support : 2,304,759
+
+- *{1,1} 2006.04.30 *{1,1} Apr 30 *{3,17}
+Support : 2,274,735
+
+- *{1,1} 2006.04.01 *{1,1} Apr 1 *{3,17}
+Support : 2,202,553
+
+- *{1,1} 2006.05.15 *{1,1} May 15 *{3,17}
+Support : 2,168,133
+
+- *{1,1} 2006.01.03 *{1,1} Jan 3 *{3,17}
+Support : 2,144,445
+
+- *{1,1} 2006.05.01 *{1,1} May 1 *{3,17}
+Support : 2,001,037
+
+- *{1,1} 2006.04.04 *{1,1} Apr 4 *{3,17}
+Support : 1,874,816
+
+- *{1,1} 2006.04.07 *{1,1} Apr 7 *{3,17}
+Support : 1,848,278
+
+- *{1,1} 2006.02.27 *{1,1} Feb 27 *{3,17}
+Support : 1,739,504
+
+- *{1,1} 2005.12.26 *{1,1} Dec 26 *{2,2} kernel: MOSAL(1): *{1,1} = *{1,3}
+Support : 1,711,593
+
+- *{1,1} 2006.04.29 *{1,1} Apr 29 *{3,17}
+Support : 1,682,641
+
+- *{1,1} 2006.03.31 *{1,1} Mar 31 *{3,25}
+Support : 1,647,016
+
+- *{1,1} 2006.03.29 *{1,1} Mar 29 *{2,2} kernel: *{0,15}
+Support : 1,623,098
+
+- *{1,1} 2006.04.18 *{1,1} Apr 18 *{3,17}
+Support : 1,573,569
+
+- *{1,1} 2006.04.06 *{1,1} Apr 6 *{2,2} kernel: *{0,10}
+Support : 1,536,006
+
+- *{1,1} 2006.04.25 *{1,1} Apr 25 *{3,17}
+Support : 1,465,715
+
+- *{1,1} 2006.01.10 *{1,1} Jan 10 *{3,17}
+Support : 1,455,531
+
+- *{1,1} 2006.04.03 *{1,1} Apr 3 *{3,17}
+Support : 1,424,884
+
+- *{1,1} 2006.01.11 *{1,1} Jan 11 *{2,2} kernel: *{0,10}
+Support : 1,411,951
+
+- *{1,1} 2005.11.22 *{1,1} Nov 22 *{3,17}
+Support : 1,408,331
+
+- *{1,1} 2006.05.24 *{1,1} May 24 *{3,17}
+Support : 1,395,168
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# *{1,47}
+Support : 1,394,536
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost *{1,1} timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support : 1,394,504
+
+- *{1,1} 2006.04.21 *{1,1} Apr 21 *{3,49}
+Support : 1,387,949
+
+- *{1,1} 2006.01.16 *{1,1} Jan 16 *{3,17}
+Support : 1,368,236
+
+- *{1,1} 2006.06.08 *{1,1} Jun 8 *{3,17}
+Support : 1,367,883
+
+- *{1,1} 2006.06.12 *{1,1} Jun 12 *{3,17}
+Support : 1,344,231
+
+- *{1,1} 2006.01.12 *{1,1} Jan 12 *{2,2} kernel: *{0,10}
+Support : 1,313,620
+
+- *{1,1} 2006.04.17 *{1,1} Apr 17 *{3,21}
+Support : 1,307,792
+
+- *{1,1} 2006.05.14 *{1,1} May 14 *{3,17}
+Support : 1,294,945
+
+- *{1,1} 2005.11.10 *{1,1} Nov 10 *{3,17}
+Support : 1,275,693
+
+- *{1,1} 2006.06.18 *{1,1} Jun 18 *{3,17}
+Support : 1,243,364
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support : 1,192,523
+
+- *{1,1} 2006.01.05 *{1,1} Jan 5 *{3,17}
+Support : 1,190,215
+
+- *{1,1} 2006.02.23 tbird-sm1 Feb 23 *{1,1} tbird-sm1/tbird-sm1 *{2,9}
+Support : 1,175,839
+
+- *{1,1} 2006.03.09 *{1,1} Mar 9 *{2,17}
+SuppoSat May 21 06:14:50 2016: Total number of clusters: 66
+rt : 1,129,972
+
+- *{1,1} 2006.05.05 *{1,1} May 5 *{3,31}
+Support : 1,110,914
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: VIPKL(1): *{1,6}
+Support : 1,106,632
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{3,6} failed 
+Support : 1,102,870
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(1): XHH_mrwm_register_mr: *{0,1} rc=HH_EAGAIN 
+Support : 1,102,764
+
+R_MTT *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,2} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: *{0,1} alloc_reg_pages: Out of MTT entries 
+Support : 1,102,493
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: VIPKL(1): *{0,1} [MM_create_mr]:MM_mr_get_keys failed 
+Support : 1,102,417
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: *{0,1} reserve_mtt_segs: Cannot reserve 255 MTT segments *{1,1} dynamic MTT segments left) 
+Support : 1,102,272
+
+- *{1,1} 2006.04.18 *{1,1} Apr 18 *{2,2} kernel: *{0,10}
+Support : 1,084,612
+
+- *{1,1} 2005.12.26 *{1,1} Dec 26 *{2,2} kernel: *{1,4} = *{1,2}
+Support : 1,069,727
+
+- *{1,1} 2006.06.19 *{1,1} Jun 19 *{3,72}
+Support : 1,066,799
+
+- *{1,1} 2006.05.06 *{1,1} May 6 *{3,17}
+Support : 1,063,335
+
+
+Command line: ./LogClusterC --input=TDB --rsupport=0.5 --aggrsup
+Rumtime: 1547.56
+CPU system: 14.76
+CPU user: 1529.09
+Memory Consumption: 1928336
