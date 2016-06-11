@@ -1,0 +1,109 @@
+Fri Jun 10 13:37:39 2016: Starting the clustering process...
+Fri Jun 10 14:42:29 2016: Total 272298969 lines read from input sources, using absolute support 1361494 (relative support 0.5 percent)
+Fri Jun 10 14:42:39 2016: Total number of frequent words: 198
+Fri Jun 10 17:37:03 2016: Total number of frequent word dependencies: 25282
+Fri Jun 10 19:06:43 2016: Total number of candidates: 110722
+Fri Jun 10 19:06:46 2016: Total number of nodes in prefix tree: 377179
+Fri Jun 10 19:14:12 2016: Total number of frequent candidates: 157
+Fri Jun 10 19:14:12 2016: Total number of clusters: 32
+R_EXT_CCISS *{1,1} (2005.06.22|2006.02.24|2005.04.17|2005.06.27|2005.05.21|2005.04.27|2005.06.26|2006.02.28|2005.04.19|2005.06.24|2005.04.18|2005.06.21|2006.01.31|2005.06.25|2005.04.26|2005.06.23) (sn408|sn225|sn441|sn105|sn373) (May|Apr|Jun|Jan|Feb) (24|26|18|19|23|21|28|25|17|22|31|27) *{1,1} (sn441/sn441|sn105/sn105|sn225/sn225|sn373/sn373|sn408/sn408) kernel: cciss: cmd *{0,1} 0000010000a60000 *{0,1} has CHECK *{0,1} CONDITION, sense key = 0x3 
+Support: 59411817
+
+R_EXT_CCISS *{1,1} (2005.06.22|2006.02.28|2005.04.17|2006.02.24|2005.04.19|2005.06.27|2005.05.21|2005.04.27|2005.06.24|2005.04.18|2005.06.26|2005.06.25|2005.04.26|2005.06.23) (sn373|sn225|sn408|sn441|sn105) (Feb|May|Apr|Jun) (28|17|25|22|27|23|21|19|24|26|18) *{1,1} (sn105/sn105|sn441/sn441|sn225/sn225|sn373/sn373|sn408/sn408) kernel: cciss: cmd *{1,1} has CHECK CONDITION, sense key = 0x3 
+Support: 54511304
+
+R_EXT_CCISS *{1,1} (2006.03.02|2006.01.31|2006.03.05|2006.03.03|2006.02.01|2006.03.04|2006.03.01|2006.02.02) sn373 (Feb|Jan|Mar) (2|5|1|3|4|31) *{1,1} sn373/sn373 kernel: cciss: cmd *{1,1} has CHECK CONDITION, sense key = 0x3 
+Support: 46152602
+
+R_EXT_CCISS *{1,1} (2006.03.01|2006.02.02|2006.02.01|2006.03.05|2006.03.04|2006.03.02|2006.03.03) sn373 (Feb|Mar) (4|3|2|1|5) *{1,1} sn373/sn373 kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 42267620
+
+R_EXT_FS_IO *{1,1} (2005.06.22|2005.04.17|2005.06.27|2005.04.18|2005.04.26|2005.06.25|2005.06.24|2005.06.23) (sn225|sn408|sn441) (Apr|Jun) (27|22|25|17|23|26|18|24) *{1,1} (sn408/sn408|sn225/sn225|sn441/sn441) kernel: EXT3-fs error (device *{0,1} (cciss0(104,3))|in) (in|ext3_reserve_inode_write:) *{0,1} IO failure 
+Support: 23012633
+
+R_EXT_FS_IO *{1,1} (2006.03.02|2006.03.03|2006.02.01|2006.03.04|2006.02.24|2006.02.02|2006.03.01) sn373 (Feb|Mar) (4|3|2|1|24) *{1,1} sn373/sn373 kernel: EXT3-fs error (device *{0,1} (cciss0(104,3))|cciss0(104,2))|in) (ext3_reserve_inode_write:|in) *{0,1} IO failure 
+Support: 22580431
+
+R_EXT_INODE1 *{1,1} (2005.06.27|2005.04.17|2006.02.01|2005.06.22|2005.06.23|2005.06.25|2005.04.26|2005.04.18|2005.06.24) (sn373|sn408|sn225|sn441) (Feb|Jun|Apr) (1|24|26|18|23|17|25|27|22) *{1,1} (sn408/sn408|sn441/sn441|sn225/sn225|sn373/sn373) kernel: EXT3-fs error (device *{1,1} ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 14383023
+
+- *{3,3} (Jun|Feb) (24|26|21|30|28|27) *{3,47}
+Support: 13910041
+
+- *{1,1} (2005.06.24|2005.06.21|2005.06.22|2005.06.25|2005.06.26|2005.06.27|2005.06.23) *{1,1} Jun (25|27|22|24|21|26|23) *{3,15}
+Support: 13707935
+
+R_EXT_FS_IO *{1,1} (2006.03.02|2006.03.03|2006.03.04|2006.02.01|2006.03.01|2006.02.02) sn373 (Mar|Feb) (3|4|2|1) *{1,1} sn373/sn373 kernel: EXT3-fs error (device (cciss0(104,3))|cciss0(104,2))) in ext3_reserve_inode_write: IO failure 
+Support: 12766494
+
+R_EXT_FS_IO *{1,1} (2005.06.23|2005.06.25|2005.04.26|2005.04.18|2005.06.24|2005.06.27|2005.04.17|2005.06.22) (sn441|sn225|sn408) (Jun|Apr) (23|17|25|27|22|24|26|18) *{1,1} (sn408/sn408|sn225/sn225|sn441/sn441) kernel: EXT3-fs error (device *{1,1} in *{1,1} IO failure 
+Support: 12308507
+
+R_EXT_FS_IO *{1,1} (2005.06.24|2005.06.25|2005.06.22|2005.06.27|2005.06.23|2005.04.17|2006.02.24) (sn373|sn441|sn225) (Apr|Jun|Feb) (25|17|27|22|24|23) *{1,1} (sn441/sn441|sn225/sn225|sn373/sn373) kernel: EXT3-fs error (device cciss0(104,3)) in ext3_reserve_inode_write: IO failure 
+Support: 10775644
+
+*{2,2} (2006.02.24|2006.03.01|2006.03.04|2006.03.02|2006.03.03) sn373 (Feb|Mar) (1|24|2|4|3) *{1,1} sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): *{9,9}
+Support: 8357784
+
+R_EXT_INODE1 *{1,1} (2005.06.27|2005.06.23|2005.06.24|2005.06.22|2005.06.25) sn441 Jun (22|27|25|23|24) *{1,1} sn441/sn441 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 7429248
+
+R_EXT_INODE1 *{1,1} (2006.03.01|2005.04.17|2006.03.02|2006.03.03) (sn373|sn225) (Apr|Mar) (17|3|1|2) *{1,1} (sn373/sn373|sn225/sn225) kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 6923100
+
+R_EXT_FS_IO *{1,1} (2006.03.01|2006.03.04) sn373 Mar (1|4) *{1,1} sn373/sn373 kernel: EXT3-fs error (device *{1,1} in *{1,1} IO failure 
+Support: 6150639
+
+R_EXT_INODE1 *{1,1} (2006.03.01|2006.03.04) sn373 Mar (1|4) *{1,1} sn373/sn373 kernel: EXT3-fs error (device *{1,1} ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 5780973
+
+- *{3,3} Jun (22|29|23) *{3,14}
+Support: 5628493
+
+*{2,2} 2005.06.24 *{1,1} Jun 24 *{2,2} kernel: *{10,10}
+Support: 5273984
+
+R_EXT_INODE1 *{1,1} (2006.02.01|2006.02.02|2006.02.24) sn373 Feb (1|24|2) *{1,1} sn373/sn373 kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 5159970
+
+R_EXT_CCISS *{1,1} 2006.03.03 *{1,1} Mar 3 *{2,2} kernel: cciss: cmd *{1,1} has CHECK CONDITION, sense key = 0x3 
+Support: 5028775
+
+R_EXT_CCISS *{1,1} 2006.03.03 *{1,1} Mar 3 *{2,2} kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense key = 0x3 
+Support: 4984253
+
+R_EXT_INODE1 *{1,1} 2006.03.04 sn373 Mar 4 *{1,1} sn373/sn373 kernel: EXT3-fs error (device (cciss0(104,2)):|cciss0(104,3)):) ext3_get_inode_loc: unable to read inode block - *{2,2}
+Support: 4074979
+
+*{2,2} (2006.03.01|2006.02.01) sn373 (Mar|Feb) 1 *{1,1} sn373/sn373 kernel: EXT3-fs error (device *{10,10}
+Support: 3898602
+
+- *{1,1} (2005.06.29|2005.06.30) *{1,1} Jun (29|30) *{3,15}
+Support: 3141998
+
+*{2,2} (2005.06.23|2005.06.22) sn441 Jun (23|22) *{1,1} sn441/sn441 kernel: EXT3-fs error (device *{10,10}
+Support: 2916214
+
+- *{1,1} 2006.02.28 *{1,1} Feb 28 *{3,18}
+Support: 2628978
+
+*{2,2} 2005.04.19 *{1,1} Apr 19 *{2,2} kernel: *{10,10}
+Support: 2345493
+
+*{2,2} 2005.04.17 sn225 Apr 17 *{1,1} sn225/sn225 kernel: EXT3-fs error (device *{10,10}
+Support: 1943855
+
+*{2,2} 2005.04.27 *{1,1} Apr 27 *{2,2} kernel: *{10,10}
+Support: 1832992
+
+- *{1,1} 2006.02.27 *{1,1} Feb 27 *{3,15}
+Support: 1468311
+
+*{2,2} 2005.04.26 sn408 Apr 26 *{1,1} sn408/sn408 kernel: EXT3-fs error (device *{10,10}
+Support: 1363947
+
+Command line: perl logcluster.pl --input=SPT --rsupport=0.5 --aggrsup --wweight=0.6
+Rumtime: 20193.27
+CPU system: 30.83
+CPU user: 20172.86
+Memory Consumption: 2537132

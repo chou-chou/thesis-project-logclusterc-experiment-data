@@ -1,0 +1,20 @@
+Fri May 27 22:05:28 2016: Starting...
+Fri May 27 22:05:28 2016: Creating vocabulary...
+Fri May 27 22:05:29 2016: 19144 words inserted into the vocabulary
+Fri May 27 22:05:29 2016: Finding frequent words from the vocabulary...
+Fri May 27 22:05:29 2016: 150 frequent words found
+Fri May 27 22:05:29 2016: 9996 words in vocabulary occurring 1 time
+Fri May 27 22:05:29 2016: 10575 words in vocabulary occurring 2 times or less
+Fri May 27 22:05:29 2016: 12574 words in vocabulary occurring 5 times or less
+Fri May 27 22:05:29 2016: 15055 words in vocabulary occurring 10 times or less
+Fri May 27 22:05:29 2016: 15889 words in vocabulary occurring 20 times or less
+Fri May 27 22:05:29 2016: Finding cluster candidates...
+Fri May 27 22:05:29 2016: 53615 cluster candidates found
+Fri May 27 22:05:29 2016: Finding clusters from the set of candidates...
+Fri May 27 22:05:29 2016: 0 clusters found
+Fri May 27 22:05:29 2016: Analysis complete
+Command line: ./SLCT -s 0.5% Cray_A
+Rumtime: 1.22
+CPU system: 0.01
+CPU user: 1.21
+Memory Consumption: 24736

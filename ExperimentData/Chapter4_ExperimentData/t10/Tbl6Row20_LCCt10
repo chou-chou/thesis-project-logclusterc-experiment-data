@@ -1,0 +1,125 @@
+Wed Jun  8 13:14:09 2016: File LBR is added
+Wed Jun  8 13:14:09 2016: Starting...
+Wed Jun  8 13:14:09 2016: Creating vocabulary...
+Wed Jun  8 13:26:54 2016: 14,971,358 words were inserted into the vocabulary.
+Wed Jun  8 13:26:54 2016: Finding frequent words from vocabulary...
+Wed Jun  8 13:26:55 2016: 225 frequent words were found.
+Wed Jun  8 13:26:55 2016: 13% - 1,957,438 words in vocabulary occur 1 time.
+Wed Jun  8 13:26:55 2016: 41% - 6,259,843 words in vocabulary occur 2 times or less.
+Wed Jun  8 13:26:55 2016: 56% - 8,501,570 words in vocabulary occur 5 times or less.
+Wed Jun  8 13:26:55 2016: 66% - 10,009,945 words in vocabulary occur 10 times or less.
+Wed Jun  8 13:26:55 2016: 77% - 11,576,734 words in vocabulary occur 20 times or less.
+Wed Jun  8 13:26:55 2016: 100.00% - 14,971,133 words in vocabulary occur less than 1327846(support) times.
+Wed Jun  8 13:26:55 2016: Finding cluster candidates...
+Wed Jun  8 13:41:50 2016: 93,010 cluster candidates were found.
+Wed Jun  8 13:41:50 2016: Aggregate cluster candidates...
+Wed Jun  8 13:41:54 2016: 374,124 nodes in the prefix tree.
+Wed Jun  8 13:41:54 2016: Finding clusters...
+Wed Jun  8 13:41:54 2016: 194 cluster were found.
+Wed Jun  8 13:41:54 2016: Joining clusters...
+Wed Jun  8 13:41:54 2016: 194 clusters contain frequent words under word weightthreshold.
+Wed Jun  8 13:41:54 2016: Those clusters were joined into 32 clusters.
+
+- *{4,4} (1|2|3|4|5|6|7|8|9|10|11) *{3,15}
+Support : 45,937,513
+
+N_PBS_BFD2 *{1,1} (2005.11.04|2005.11.05|2005.11.06|2005.11.12|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.28|2005.11.29) *{1,1} Nov (4|5|6|12|20|21|25|26|28|29) *{2,2} pbs_mom: Bad file descriptor (9) in *{2,3}
+Support : 42,605,502
+
+N_PBS_BFD2 *{1,1} (2005.11.04|2005.11.05|2005.11.06|2005.11.19|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.27|2005.11.28) (ln177|ln205|ln147|ln181|ln9) Nov (4|5|6|19|20|21|25|26|27|28) *{1,1} (ln177/ln177|ln205/ln205|ln147/ln147|ln181/ln181|ln9/ln9) pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support : 41,004,986
+
+- *{1,1} (2005.11.04|2005.11.05|2005.11.06|2005.11.19|2005.11.21|2005.11.25|2005.11.26|2005.11.28|2005.11.29) *{1,1} Nov (4|5|6|19|21|25|26|28|29) *{2,2} pbs_mom: *{3,9}
+Support : 40,652,821
+
+- *{2,2} ladmin1 *{1,1} (16|20|21|22|23|24|25|26|27|28|29|30) *{1,1} ladmin1/ladmin1 *{1,13}
+Support : 34,199,303
+
+- *{1,1} (2005.11.04|2005.11.06|2005.11.12|2005.11.19|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.27|2005.11.28|2005.11.29) *{1,1} Nov (4|6|12|19|20|21|25|26|27|28|29) *{3,30}
+Support : 32,647,326
+
+- *{3,3} (Jan|May|Jun) (16|21|22|23|24|25|26|27|28|29) *{3,15}
+Support : 28,780,847
+
+- *{1,1} (2005.10.10|2005.10.11|2005.10.12|2005.10.13|2005.10.14|2005.10.15|2005.10.16|2005.10.20|2005.10.21|2005.10.22|2005.10.31) *{1,1} Oct (10|11|12|13|14|15|16|20|21|22|31) *{3,20}
+Support : 26,314,253
+
+- *{2,2} ln177 *{1,1} (4|5|6) *{1,1} ln177/ln177 *{4,4}
+Support : 24,327,520
+
+- *{2,2} ladmin1 (May|Jun) (21|22|23|24|25|26|27|28) *{1,1} ladmin1/ladmin1 *{3,10}
+Support : 24,154,951
+
+- *{1,1} (2005.05.21|2005.05.22|2005.05.23|2005.05.24|2005.05.25|2005.06.21|2005.06.22|2005.06.23|2005.06.24|2005.06.25|2005.06.26|2005.06.27|2005.06.28) ladmin1 (May|Jun) (21|22|23|24|25|26|27|28) *{1,1} ladmin1/ladmin1 *{1,13}
+Support : 24,116,663
+
+- *{1,1} (2005.11.05|2005.11.06) ln177 Nov (5|6) *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support : 21,368,618
+
+N_PBS_BFD2 *{1,1} (2005.10.10|2005.10.11|2005.10.12|2005.10.13|2005.10.14|2005.10.15|2005.10.16|2005.10.22) *{1,1} Oct (10|11|12|13|14|15|16|22) *{2,2} pbs_mom: Bad file descriptor (9) in *{3,3}
+Support : 20,963,506
+
+- *{4,4} (5|10) *{5,5} failed 
+Support : 20,188,173
+
+- *{1,1} (2005.10.10|2005.10.11|2005.10.12|2005.10.13|2005.10.14|2005.10.15|2005.10.16) *{1,1} Oct (10|11|12|13|14|15|16) *{2,2} pbs_mom: *{3,3}
+Support : 19,235,073
+
+- *{1,1} (2005.11.04|2005.11.19|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.27|2005.11.28) (ln177|ln205|ln147|ln181|ln9) Nov (4|19|20|21|25|26|27|28) *{1,1} (ln177/ln177|ln205/ln205|ln147/ln147|ln181/ln181|ln9/ln9) pbs_mom: pbs_mom, wait_request failed 
+Support : 18,985,774
+
+- *{1,1} 2005.11.05 *{1,1} Nov 5 *{3,20}
+Support : 18,183,392
+
+- *{1,1} (2005.11.19|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.27|2005.11.28) (ln205|ln147|ln181|ln9) Nov (19|20|21|25|26|27|28) *{1,1} (ln205/ln205|ln147/ln147|ln181/ln181|ln9/ln9) *{3,7}
+Support : 16,027,654
+
+N_PBS_BFD2 *{1,1} (2005.10.11|2005.10.12|2005.10.13|2005.11.12) (ln17|ln6|ln81) (Oct|Nov) (11|13|12) *{1,1} (ln17/ln17|ln6/ln6|ln81/ln81) pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support : 10,141,429
+
+- *{1,1} (2005.10.11|2005.10.12|2005.10.13) (ln17|ln6) Oct (11|12|13) *{1,1} (ln17/ln17|ln6/ln6) pbs_mom: pbs_mom, wait_request failed 
+Support : 8,670,407
+
+- *{1,1} (2005.10.11|2005.10.12|2005.10.13) (ln6|ln17) Oct (11|12|13) *{1,1} (ln6/ln6|ln17/ln17) *{4,7}
+Support : 6,861,765
+
+- *{1,1} (2005.11.26|2005.11.29) *{1,1} Nov (26|29) *{2,2} pbs_mom: *{2,2} failed 
+Support : 6,561,024
+
+- *{1,1} (2005.11.06|2005.11.21|2005.11.29) *{1,1} Nov (6|21|29) *{4,6} failed 
+Support : 6,400,352
+
+- *{4,4} (1|10|11) *{2,2} pbs_mom: *{3,3}
+Support : 6,337,168
+
+- *{1,1} (2005.10.10|2005.10.13) *{1,1} Oct (10|13) *{5,5} failed 
+Support : 6,233,075
+
+- *{1,2} (2006.02.28|ln6) *{1,1} (Feb|11) *{0,1} (28|ln6/ln6) *{3,15}
+Support : 3,666,451
+
+- *{1,1} (2005.10.21|2005.10.22) *{1,1} Oct (21|22) *{2,2} pbs_mom: *{3,9}
+Support : 3,059,159
+
+- *{1,1} 2005.11.0Wed Jun  8 13:41:54 2016: Total number of clusters: 32
+4 ln177 Nov 4 *{1,1} ln177/ln177 *{4,4}
+Support : 2,958,848
+
+- *{1,1} 2005.10.12 ln17 Oct 12 *{1,1} ln17/ln17 *{3,7}
+Support : 1,813,265
+
+- *{1,1} 2005.10.22 *{1,1} Oct 22 *{3,5} failed *{0,2}
+Support : 1,728,396
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 *{4,4}
+Support : 1,471,004
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support : 1,471,002
+
+
+Command line: ./LogClusterC --input=LBR --rsupport=0.5 --aggrsup --wweight=0.6
+Rumtime: 1665.07
+CPU system: 13.23
+CPU user: 1638.52
+Memory Consumption: 1178392

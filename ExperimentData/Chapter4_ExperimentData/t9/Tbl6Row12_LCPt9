@@ -1,0 +1,70 @@
+Sat Jun  4 22:37:42 2016: Starting the clustering process...
+Sat Jun  4 22:38:08 2016: Total 3170514 lines read from input sources, using absolute support 15852 (relative support 0.5 percent)
+Sat Jun  4 22:38:08 2016: Total number of frequent words: 70
+Sat Jun  4 22:38:54 2016: Total number of frequent word dependencies: 3892
+Sat Jun  4 22:39:22 2016: Total number of candidates: 8622
+Sat Jun  4 22:39:22 2016: Total number of nodes in prefix tree: 26077
+Sat Jun  4 22:39:25 2016: Total number of frequent candidates: 77
+Sat Jun  4 22:39:25 2016: Total number of clusters: 19
+([Thu|[Tue|[Fri|[Sat|[Sun|[Wed) Jun (17|10|14|15|20|19|6|3|13|4|25) *{2,364}
+Support: 583416
+
+[Mon Jun (9|30|2|23|16) *{2,358}
+Support: 562374
+
+([Wed|[Sun|[Fri|[Thu|[Mon) (Jul|May) (5|14|23|12|2|16|9|11|4|3|7|6|19|22) *{2,360}
+Support: 514917
+
+([Sat|[Tue|[Thu|[Wed|[Sun) May (6|17|10|21|25|15|20) *{2,360}
+Support: 366797
+
+[Wed Jun (18|11) *{2,361}
+Support: 228226
+
+[Thu Jun (26|5|12) *{2,364}
+Support: 227371
+
+([Sun|[Wed|[Mon|[Thu|[Tue) Jun (11|2|12|5|23|16|10|22) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 207828
+
+([Thu|[Mon|[Tue|[Sun|[Wed) Jun (11|5|23|12|2|10|16|22) *{2,2} PTL_EVENT_ACK 
+Support: 207794
+
+[Sun Jun (8|22) *{2,360}
+Support: 169967
+
+[Tue May 13 *{2,360}
+Support: 90877
+
+[Tue Jul 1 *{2,360}
+Support: 89001
+
+([Fri|[Sat|[Tue) (May|Jul) (13|10|16|1|20) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 87835
+
+[Tue Jun 24 *{2,360}
+Support: 71406
+
+[Mon Jul 7 *{2,357}
+Support: 61983
+
+([Fri|[Tue) May (16|13|20) *{2,2} PTL_EVENT_ACK 
+Support: 51796
+
+[Thu May 29 *{2,363}
+Support: 35286
+
+[Fri Jun 27 *{2,358}
+Support: 27567
+
+[Tue Jul 1 *{2,2} PTL_EVENT_ACK 
+Support: 18582
+
+[Sat May 10 *{2,2} PTL_EVENT_ACK 
+Support: 17456
+
+Command line: perl logcluster.pl --input=Cray_C --rsupport=0.5 --aggrsup --wweight=0.6
+Rumtime: 102.75
+CPU system: 0.08
+CPU user: 102.72
+Memory Consumption: 67980

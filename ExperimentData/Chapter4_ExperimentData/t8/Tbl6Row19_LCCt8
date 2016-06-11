@@ -1,0 +1,45 @@
+Tue May 31 22:36:29 2016: File LBR is added
+Tue May 31 22:36:29 2016: Starting...
+Tue May 31 22:36:29 2016: Creating vocabulary...
+Tue May 31 22:49:53 2016: 14,971,358 words were inserted into the vocabulary.
+Tue May 31 22:49:53 2016: Finding frequent words from vocabulary...
+Tue May 31 22:49:54 2016: 225 frequent words were found.
+Tue May 31 22:49:54 2016: 13% - 1,957,438 words in vocabulary occur 1 time.
+Tue May 31 22:49:54 2016: 41% - 6,259,843 words in vocabulary occur 2 times or less.
+Tue May 31 22:49:54 2016: 56% - 8,501,570 words in vocabulary occur 5 times or less.
+Tue May 31 22:49:54 2016: 66% - 10,009,945 words in vocabulary occur 10 times or less.
+Tue May 31 22:49:54 2016: 77% - 11,576,734 words in vocabulary occur 20 times or less.
+Tue May 31 22:49:54 2016: 100.00% - 14,971,133 words in vocabulary occur less than 1327846(support) times.
+Tue May 31 22:49:54 2016: Finding cluster candidates...
+Tue May 31 23:06:54 2016: 93,010 cluster candidates were found.
+Tue May 31 23:06:54 2016: Finding clusters...
+Tue May 31 23:06:54 2016: 36 cluster were found.
+Tue May 31 23:06:54 2016: Joining clusters...
+Tue May 31 23:06:55 2016: 36 clusters contain frequent words under word weightthreshold.
+Tue May 31 23:06:55 2016: Those clusters were joined into 6 clusters.
+Tue May 31 23:06:55 2016: Total number of clusters: 6
+
+N_PBS_BFD2 *{1,1} (2005.11.04|2005.11.05|2005.11.06|2005.11.19|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.27|2005.11.28) (ln177|ln205|ln147|ln181|ln9) Nov (4|5|6|19|20|21|25|26|27|28) *{1,1} (ln177/ln177|ln205/ln205|ln147/ln147|ln181/ln181|ln9/ln9) pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support : 41,004,986
+
+- *{1,1} (2005.11.05|2005.11.06) ln177 Nov (5|6) *{1,1} ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support : 21,368,618
+
+- *{1,1} (2005.11.04|2005.11.19|2005.11.20|2005.11.21|2005.11.25|2005.11.26|2005.11.27|2005.11.28) (ln177|ln205|ln147|ln181|ln9) Nov (4|19|20|21|25|26|27|28) *{1,1} (ln177/ln177|ln205/ln205|ln147/ln147|ln181/ln181|ln9/ln9) pbs_mom: pbs_mom, wait_request failed 
+Support : 18,985,774
+
+N_PBS_BFD2 *{1,1} (2005.10.11|2005.10.12|2005.10.13|2005.11.12) (ln17|ln6|ln81) (Oct|Nov) (11|13|12) *{1,1} (ln17/ln17|ln6/ln6|ln81/ln81) pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support : 10,141,429
+
+- *{1,1} (2005.10.11|2005.10.12|2005.10.13) (ln17|ln6) Oct (11|12|13) *{1,1} (ln17/ln17|ln6/ln6) pbs_mom: pbs_mom, wait_request failed 
+Support : 8,670,407
+
+- *{1,1} 2005.11.12 ln81 Nov 12 *{1,1} ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support : 1,471,002
+
+
+Command line: ./LogClusterC --input=LBR --rsupport=0.5 --wweight=0.6
+Rumtime: 1825.23
+CPU system: 14.64
+CPU user: 1803.62
+Memory Consumption: 1176436

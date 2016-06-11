@@ -1,0 +1,57 @@
+Tue May 31 15:35:56 2016: File Cray_B is added
+Tue May 31 15:35:56 2016: Starting...
+Tue May 31 15:35:56 2016: Creating vocabulary...
+Tue May 31 15:35:57 2016: 4,853 words were inserted into the vocabulary.
+Tue May 31 15:35:57 2016: Finding frequent words from vocabulary...
+Tue May 31 15:35:57 2016: 77 frequent words were found.
+Tue May 31 15:35:57 2016: 27% - 1,343 words in vocabulary occur 1 time.
+Tue May 31 15:35:57 2016: 33% - 1,626 words in vocabulary occur 2 times or less.
+Tue May 31 15:35:57 2016: 48% - 2,360 words in vocabulary occur 5 times or less.
+Tue May 31 15:35:57 2016: 49% - 2,408 words in vocabulary occur 10 times or less.
+Tue May 31 15:35:57 2016: 53% - 2,576 words in vocabulary occur 20 times or less.
+Tue May 31 15:35:57 2016: 98.41% - 4,776 words in vocabulary occur less than 4790(support) times.
+Tue May 31 15:35:57 2016: Finding cluster candidates...
+Tue May 31 15:35:59 2016: 5,700 cluster candidates were found.
+Tue May 31 15:35:59 2016: Finding clusters...
+Tue May 31 15:35:59 2016: 32 cluster were found.
+Tue May 31 15:35:59 2016: Joining clusters...
+Tue May 31 15:35:59 2016: 32 clusters contain frequent words under word weightthreshold.
+Tue May 31 15:35:59 2016: Those clusters were joined into 10 clusters.
+Tue May 31 15:35:59 2016: Total number of clusters: 10
+
+([Fri|[Mon|[Tue) (Aug|Sep|Oct) (11|12|18|15|3|6|7) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 69,420
+
+([Thu|[Mon|[Fri|[Sat|[Tue) Sep (4|8|9|12|23|26|27|30) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 67,381
+
+([Thu|[Mon|[Fri|[Sat) Sep (4|12|15|26|27) *{2,2} PTL_EVENT_ACK 
+Support : 48,120
+
+([Mon|[Tue|[Fri) Aug (11|12|15) *{2,2} PTL_EVENT_ACK 
+Support : 25,993
+
+[Tue Sep (9|23|30) *{2,2} PTL_EVENT_ACK 
+Support : 19,184
+
+[Mon Aug 18 *{2,2} PTL_EVENT_ACK 
+Support : 11,709
+
+[Mon Oct 6 *{2,2} PTL_EVENT_ACK 
+Support : 9,204
+
+[Mon Sep 8 *{2,2} PTL_EVENT_ACK 
+Support : 8,837
+
+[Fri Oct 3 *{2,2} PTL_EVENT_ACK 
+Support : 7,824
+
+[Tue Oct 7 *{2,2} PTL_EVENT_ACK 
+Support : 5,588
+
+
+Command line: ./LogClusterC --input=Cray_B --rsupport=0.5 --wweight=0.6
+Rumtime: 2.98
+CPU system: 0.02
+CPU user: 2.96
+Memory Consumption: 29912

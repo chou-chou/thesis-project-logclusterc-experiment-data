@@ -1,0 +1,30 @@
+Sat May 28 09:58:57 2016: Starting the clustering process...
+Sat May 28 09:59:24 2016: Total 3170514 lines read from input sources, using absolute support 15852 (relative support 0.5 percent)
+Sat May 28 09:59:24 2016: Total number of frequent words: 70
+Sat May 28 10:00:14 2016: Total number of frequent word dependencies: 3892
+Sat May 28 10:00:44 2016: Total number of candidates: 8622
+Sat May 28 10:00:44 2016: Total number of frequent candidates: 26
+Sat May 28 10:00:44 2016: Total number of clusters: 6
+([Sun|[Tue|[Wed|[Mon|[Thu) Jun (5|22|10|23|2|12|11|16) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 207828
+
+([Mon|[Wed|[Tue|[Sun|[Thu) Jun (16|11|23|2|22|10|5|12) *{2,2} PTL_EVENT_ACK 
+Support: 207794
+
+([Fri|[Sat|[Tue) (May|Jul) (16|1|13|10|20) *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support: 87835
+
+([Tue|[Fri) May (16|13|20) *{2,2} PTL_EVENT_ACK 
+Support: 51796
+
+[Tue Jul 1 *{2,2} PTL_EVENT_ACK 
+Support: 18582
+
+[Sat May 10 *{2,2} PTL_EVENT_ACK 
+Support: 17456
+
+Command line: perl logcluster.pl --input=Cray_C --rsupport=0.5 --wweight=0.6
+Rumtime: 106.99
+CPU system: 0.07
+CPU user: 106.98
+Memory Consumption: 37680

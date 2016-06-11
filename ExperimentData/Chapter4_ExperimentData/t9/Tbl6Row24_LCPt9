@@ -1,0 +1,82 @@
+Mon Jun  6 07:57:41 2016: Starting the clustering process...
+Mon Jun  6 08:44:51 2016: Total 211212192 lines read from input sources, using absolute support 1056060 (relative support 0.5 percent)
+Mon Jun  6 08:45:16 2016: Total number of frequent words: 404
+Mon Jun  6 10:19:10 2016: Total number of frequent word dependencies: 76912
+Mon Jun  6 11:12:13 2016: Total number of candidates: 197847
+Mon Jun  6 11:12:18 2016: Total number of nodes in prefix tree: 771884
+Mon Jun  6 11:30:47 2016: Total number of frequent candidates: 66
+Mon Jun  6 11:30:47 2016: Total number of clusters: 23
+- *{1,1} (2006.04.18|2006.04.30|2006.04.01|2006.04.25|2006.04.17|2006.04.04|2006.04.21|2006.04.07|2006.04.06|2006.04.19|2006.04.03|2006.04.29|2006.04.24) *{1,1} Apr (3|19|7|6|1|21|29|18|30|4|25|17|24) *{3,49}
+Support: 26583205
+
+- *{1,1} (2006.05.24|2006.06.08|2006.01.05|2006.02.27|2005.11.22|2006.06.19|2006.05.06|2006.01.10|2006.01.03|2006.06.18|2005.11.10|2006.05.01|2006.06.12|2006.05.05) *{1,1} (Jun|Feb|May|Jan|Nov) (5|24|10|18|22|8|6|27|12|1|3|19) *{3,72}
+Support: 19806450
+
+- *{1,1} (2006.05.14|2006.05.08|2006.05.07|2006.05.25|2006.05.15) *{1,1} May (25|15|8|7|14) *{2,18}
+Support: 12757978
+
+- *{1,1} (2006.04.19|2006.05.08|2006.03.30|2006.03.29|2006.01.12|2006.01.11) *{1,1} (Apr|Mar|Jan|May) (11|19|30|29|8|12) *{2,6} (kernel:|failed) *{0,15}
+Support: 10793511
+
+- *{1,1} (2006.01.16|2006.01.11|2006.01.04|2006.01.12) *{1,1} Jan (11|16|4|12) *{3,17}
+Support: 10710668
+
+- *{1,1} (2006.03.09|2006.03.30|2006.03.29|2006.03.31) *{1,1} Mar (9|31|29|30) *{2,25}
+Support: 9803316
+
+- *{1,1} (2005.12.26|2006.04.18) *{1,1} (Dec|Apr) (26|18) *{2,2} kernel: *{0,10}
+Support: 3611340
+
+- *{1,1} 2006.02.23 *{1,1} Feb 23 *{3,17}
+Support: 3517841
+
+- *{1,1} 2005.12.26 *{1,1} Dec 26 *{3,17}
+Support: 2976875
+
+*{2,2} 2006.05.08 *{1,1} May 8 *{2,2} kernel: *{6,8}
+Support: 2867377
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): *{1,1} MOSAL_virt_to_phys_ex: cannot retrieve *{1,1} prot_ctx=USER, *{1,1}
+Support: 2843136
+
+- *{1,1} 2006.05.08 *{1,1} May 8 *{2,2} kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, *{1,1}
+Support: 2520874
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: *{0,10}
+Support: 2304759
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: (VIPKL(1):|THH(1):) *{0,1} (XHH_mrwm_register_mr:|[MM_create_mr]:MM_mr_get_keys) *{0,1} (rc=HH_EAGAIN|failed) 
+Support: 2205181
+
+- *{1,1} (2006.04.19|2005.12.26) *{1,1} (Apr|Dec) (19|26) *{2,2} kernel: *{0,4} (=|VIPKL(1):) *{1,6}
+Support: 2176360
+
+- *{1,1} 2005.12.26 *{1,1} Dec 26 *{2,2} kernel: MOSAL(1): *{1,1} = *{1,3}
+Support: 1711593
+
+- *{1,1} 2006.04.06 *{1,1} Apr 6 *{2,2} kernel: *{0,10}
+Support: 1536006
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# *{1,47}
+Support: 1394536
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost *{1,1} timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support: 1394504
+
+- *{1,1} 2006.05.25 #9# May 25 *{1,1} #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0) 
+Support: 1192523
+
+- *{1,1} 2006.02.23 tbird-sm1 Feb 23 *{1,1} tbird-sm1/tbird-sm1 *{2,9}
+Support: 1175839
+
+R_MTT *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,2} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: *{0,1} alloc_reg_pages: Out of MTT entries 
+Support: 1102496
+
+- *{1,1} 2006.04.19 *{1,1} Apr 19 *{2,2} kernel: THH(4): *{0,1} mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: *{0,1} reserve_mtt_segs: Cannot reserve 255 MTT segments *{1,1} dynamic MTT segments left) 
+Support: 1102272
+
+Command line: perl logcluster.pl --input=TDB --rsupport=0.5 --aggrsup --wweight=0.6
+Rumtime: 12787.57
+CPU system: 29.90
+CPU user: 12762.45
+Memory Consumption: 4583752

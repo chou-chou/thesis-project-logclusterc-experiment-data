@@ -1,0 +1,50 @@
+Thu May 26 21:14:54 2016: Starting...
+Thu May 26 21:14:54 2016: Creating vocabulary...
+Thu May 26 21:14:56 2016: 6849 words inserted into the vocabulary
+Thu May 26 21:14:56 2016: Finding frequent words from the vocabulary...
+Thu May 26 21:14:56 2016: 447 frequent words found
+Thu May 26 21:14:56 2016: 2471 words in vocabulary occurring 1 time
+Thu May 26 21:14:56 2016: 2884 words in vocabulary occurring 2 times or less
+Thu May 26 21:14:56 2016: 3869 words in vocabulary occurring 5 times or less
+Thu May 26 21:14:56 2016: 3957 words in vocabulary occurring 10 times or less
+Thu May 26 21:14:56 2016: 4155 words in vocabulary occurring 20 times or less
+Thu May 26 21:14:56 2016: Finding cluster candidates...
+Thu May 26 21:14:57 2016: 15667 cluster candidates found
+Thu May 26 21:14:57 2016: Finding clusters from the set of candidates...
+Thu May 26 21:14:57 2016: 10 clusters found
+Thu May 26 21:14:57 2016: Analysis complete
+[Tue Oct 7 * * PTL_EVENT_ACK 
+Support: 1043
+
+[Mon Oct 6 * * PTL_EVENT_ACK 
+Support: 1367
+
+[Sat Sep 27 * * PTL_EVENT_ACK 
+Support: 1008
+
+[Tue Sep 23 * * PTL_EVENT_ACK 
+Support: 1604
+
+[Fri Aug 15 * * PTL_EVENT_ACK 
+Support: 1802
+
+[Tue Oct 7 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 1043
+
+[Mon Oct 6 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 1582
+
+[Sat Sep 27 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 1008
+
+[Tue Sep 23 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 1604
+
+[Fri Aug 15 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 1802
+
+Command line: ./SLCT -s 0.1% Cray_B
+Rumtime: 2.99
+CPU system: 0.02
+CPU user: 2.96
+Memory Consumption: 12000

@@ -1,0 +1,194 @@
+Tue May 31 15:50:45 2016: Starting...
+Tue May 31 15:50:45 2016: Creating vocabulary...
+Tue May 31 15:51:15 2016: 5758648 words inserted into the vocabulary
+Tue May 31 15:51:15 2016: Finding frequent words from the vocabulary...
+Tue May 31 15:51:15 2016: 245 frequent words found
+Tue May 31 15:51:15 2016: 5208133 words in vocabulary occurring 1 time
+Tue May 31 15:51:15 2016: 5265757 words in vocabulary occurring 2 times or less
+Tue May 31 15:51:15 2016: 5352481 words in vocabulary occurring 5 times or less
+Tue May 31 15:51:15 2016: 5502861 words in vocabulary occurring 10 times or less
+Tue May 31 15:51:15 2016: 5553645 words in vocabulary occurring 20 times or less
+Tue May 31 15:51:15 2016: Finding cluster candidates...
+Tue May 31 15:51:31 2016: 1890 cluster candidates found
+Tue May 31 15:51:31 2016: Finding clusters from the set of candidates...
+Tue May 31 15:51:31 2016: 58 clusters found
+- * 2005.06.14 * * * RAS KERNEL FATAL 
+Support: 79898
+
+- * * * * * RAS KERNEL INFO generating 
+Support: 78021
+
+- * 2005.07.28 * * * RAS KERNEL INFO generating 
+Support: 115730
+
+- * 2005.07.26 * * * RAS KERNEL INFO generating 
+Support: 54478
+
+- * 2005.07.24 * * * RAS KERNEL INFO generating 
+Support: 37534
+
+- * 2005.07.23 * * * RAS KERNEL INFO generating 
+Support: 80124
+
+- * 2005.07.18 * * * RAS KERNEL INFO generating 
+Support: 28062
+
+- * 2005.07.17 * * * RAS KERNEL INFO generating 
+Support: 65530
+
+- * 2005.07.15 * * * RAS KERNEL INFO generating 
+Support: 78719
+
+- * 2005.07.13 * * * RAS KERNEL INFO generating 
+Support: 174346
+
+- * 2005.07.12 * * * RAS KERNEL INFO generating 
+Support: 25621
+
+- * 2005.07.10 * * * RAS KERNEL INFO generating 
+Support: 32764
+
+- * 2005.07.09 * * * RAS KERNEL INFO generating 
+Support: 370170
+
+- * 2005.07.07 * * * RAS KERNEL INFO generating 
+Support: 47225
+
+- * 2005.07.04 * * * RAS KERNEL INFO generating 
+Support: 60582
+
+- * 2005.07.03 * * * RAS KERNEL INFO generating 
+Support: 53001
+
+- * 2005.07.01 * * * RAS KERNEL INFO generating 
+Support: 45979
+
+- * 2005.06.30 * * * RAS KERNEL INFO generating 
+Support: 70254
+
+- * 2005.06.29 * * * RAS KERNEL INFO generating 
+Support: 25132
+
+- * 2005.06.25 * * * RAS KERNEL INFO generating 
+Support: 69636
+
+- * 2005.06.14 * * * RAS KERNEL FATAL floating 
+Support: 24579
+
+- * 2005.06.07 * * * RAS KERNEL INFO generating 
+Support: 26015
+
+- * 2005.06.05 * * * RAS KERNEL INFO generating 
+Support: 96902
+
+- * 2005.11.09 * * * RAS KERNEL INFO iar * dear 
+Support: 36864
+
+- * 2005.11.08 * * * RAS KERNEL INFO iar * dear 
+Support: 31584
+
+- * 2005.11.04 * * * RAS KERNEL INFO iar * dear 
+Support: 119296
+
+- * 2005.11.03 * * * RAS KERNEL INFO iar * dear 
+Support: 102896
+
+- * 2005.08.28 * * * RAS KERNEL INFO iar * dear 
+Support: 38306
+
+- * 2005.08.26 * * * RAS KERNEL INFO iar * dear 
+Support: 66776
+
+- * 2005.06.14 * * * RAS KERNEL FATAL program interrupt: 
+Support: 34816
+
+- * * * * * RAS KERNEL INFO * double-hummer alignment exceptions 
+Support: 41259
+
+- * 2005.11.03 * * * RAS KERNEL INFO iar 00106210 dear 
+Support: 26764
+
+- * 2005.08.28 * * * RAS KERNEL INFO * double-hummer alignment exceptions 
+Support: 49152
+
+- * 2005.06.29 * * * RAS KERNEL INFO * double-hummer alignment exceptions 
+Support: 25797
+
+- * 2005.06.25 * * * RAS KERNEL INFO * double-hummer alignment exceptions 
+Support: 25084
+
+- * 2005.06.14 * * * RAS KERNEL FATAL instruction address: 0x00004ed8 
+Support: 30719
+
+KERNSTOR * 2005.06.14 * * * RAS KERNEL FATAL data storage interrupt 
+Support: 47102
+
+- * * * * * RAS KERNEL INFO CE sym * at * mask 
+Support: 70935
+
+- * 2005.11.03 * * * RAS KERNEL INFO * floating point alignment exceptions 
+Support: 57446
+
+- * 2005.07.23 * * * RAS KERNEL INFO * floating point alignment exceptions 
+Support: 32768
+
+- * 2005.07.01 * * * RAS KERNEL INFO 1146800 double-hummer alignment exceptions 
+Support: 74085
+
+- * * * * * RAS KERNEL INFO CE sym * at * mask 0x02 
+Support: 24576
+
+- * * * * * RAS KERNEL INFO ciod: Received signal 15, code=0, errno=0, 
+Support: 33938
+
+- * 2005.07.23 * * * RAS KERNEL INFO 5 floating point alignment exceptions 
+Support: 52991
+
+- * 2005.07.23 * * * RAS KERNEL INFO 15 floating point alignment exceptions 
+Support: 32768
+
+- * 2005.07.20 * * * RAS KERNEL INFO 8 floating point alignment exceptions 
+Support: 65514
+
+KERNMNTF * * * * * RAS KERNEL FATAL Lustre mount FAILED : * : point /p/gb1 
+Support: 26426
+
+- * * * * * RAS KERNEL INFO ciod: generated 128 core files for program 
+Support: 26428
+
+- * * * * * RAS KERNEL INFO ciod: generated 64 core files for program 
+Support: 25871
+
+KERNDTLB * 2005.06.11 R30-M0-N9-C:J16-U01 * R30-M0-N9-C:J16-U01 RAS KERNEL FATAL data TLB error interrupt 
+Support: 152182
+
+- * * * * * RAS KERNEL INFO total of * ddr error(s) detected and corrected 
+Support: 32558
+
+- * * * * * RAS APP FATAL ciod: LOGIN * failed: No such file or directory 
+Support: 30335
+
+- * * * * * RAS APP FATAL ciod: Error loading * invalid or missing program image, Permission denied 
+Support: 36776
+
+APPSEV * * * * * RAS APP FATAL ciod: Error reading message prefix on CioStream sockTue May 31 15:51:31 2016: Analysis complete
+et to * Link has been severed 
+Support: 24158
+
+- * * * * * RAS APP FATAL ciod: Error loading * invalid or missing program image, No such file or directory 
+Support: 24944
+
+- * 2005.09.20 NULL * NULL RAS MMCS ERROR idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*) 
+Support: 64848
+
+- * 2005.12.01 * * * RAS KERNEL INFO * total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt. 
+Support: 133615
+
+- * 2005.12.01 * * * RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr. 
+Support: 133530
+
+Command line: ./SLCT -s 0.5% BGL
+Rumtime: 46.16
+CPU system: 0.34
+CPU user: 45.83
+Memory Consumption: 527940

@@ -1,0 +1,11 @@
+Sat May 28 09:51:39 2016: Starting the clustering process...
+Sat May 28 09:51:42 2016: Total 379457 lines read from input sources, using absolute support 1897 (relative support 0.5 percent)
+Sat May 28 09:51:42 2016: Total number of frequent words: 116
+Sat May 28 09:51:45 2016: Total number of candidates: 63876
+Sat May 28 09:51:46 2016: Total number of frequent candidates: 0
+Sat May 28 09:51:46 2016: Total number of clusters: 0
+Command line: perl logcluster.pl --input=Cray_A --rsupport=0.5
+Rumtime: 7.37
+CPU system: 0.07
+CPU user: 6.96
+Memory Consumption: 223636

@@ -1,0 +1,54 @@
+Sat May 28 09:55:25 2016: File Cray_B is added
+Sat May 28 09:55:25 2016: Starting...
+Sat May 28 09:55:25 2016: Creating vocabulary...
+Sat May 28 09:55:26 2016: 4,853 words were inserted into the vocabulary.
+Sat May 28 09:55:26 2016: Finding frequent words from vocabulary...
+Sat May 28 09:55:26 2016: 776 frequent words were found.
+Sat May 28 09:55:26 2016: 27% - 1,343 words in vocabulary occur 1 time.
+Sat May 28 09:55:26 2016: 33% - 1,626 words in vocabulary occur 2 times or less.
+Sat May 28 09:55:26 2016: 48% - 2,360 words in vocabulary occur 5 times or less.
+Sat May 28 09:55:26 2016: 49% - 2,408 words in vocabulary occur 10 times or less.
+Sat May 28 09:55:26 2016: 53% - 2,576 words in vocabulary occur 20 times or less.
+Sat May 28 09:55:26 2016: 84.01% - 4,077 words in vocabulary occur less than 958(support) times.
+Sat May 28 09:55:26 2016: Finding cluster candidates...
+Sat May 28 09:55:28 2016: 382,322 cluster candidates were found.
+Sat May 28 09:55:28 2016: Finding clusters...
+Sat May 28 09:55:28 2016: 10 cluster were found.
+Sat May 28 09:55:28 2016: Total number of clusters: 10
+
+[Fri Aug 15 *{2,2} PTL_EVENT_ACK 
+Support : 1,802
+
+[Fri Aug 15 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 1,802
+
+[Tue Sep 23 *{2,2} PTL_EVENT_ACK 
+Support : 1,604
+
+[Tue Sep 23 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 1,604
+
+[Mon Oct 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 1,582
+
+[Mon Oct 6 *{2,2} PTL_EVENT_ACK 
+Support : 1,367
+
+[Tue Oct 7 *{2,2} PTL_EVENT_ACK 
+Support : 1,043
+
+[Tue Oct 7 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 1,043
+
+[Sat Sep 27 *{2,2} PTL_EVENT_ACK 
+Support : 1,008
+
+[Sat Sep 27 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 1,008
+
+
+Command line: ./LogClusterC --input=Cray_B --rsupport=0.1
+Rumtime: 3.53
+CPU system: 0.31
+CPU user: 3.22
+Memory Consumption: 1653440

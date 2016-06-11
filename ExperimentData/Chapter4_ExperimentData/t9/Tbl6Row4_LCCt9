@@ -1,0 +1,32 @@
+Sat Jun  4 22:29:31 2016: File Cray_A is added
+Sat Jun  4 22:29:31 2016: Starting...
+Sat Jun  4 22:29:31 2016: Creating vocabulary...
+Sat Jun  4 22:29:32 2016: 13,737 words were inserted into the vocabulary.
+Sat Jun  4 22:29:32 2016: Finding frequent words from vocabulary...
+Sat Jun  4 22:29:32 2016: 116 frequent words were found.
+Sat Jun  4 22:29:32 2016: 37% - 5,151 words in vocabulary occur 1 time.
+Sat Jun  4 22:29:32 2016: 40% - 5,620 words in vocabulary occur 2 times or less.
+Sat Jun  4 22:29:32 2016: 54% - 7,546 words in vocabulary occur 5 times or less.
+Sat Jun  4 22:29:32 2016: 72% - 9,969 words in vocabulary occur 10 times or less.
+Sat Jun  4 22:29:32 2016: 78% - 10,764 words in vocabulary occur 20 times or less.
+Sat Jun  4 22:29:32 2016: 99.16% - 13,621 words in vocabulary occur less than 1897(support) times.
+Sat Jun  4 22:29:32 2016: Finding cluster candidates...
+Sat Jun  4 22:29:33 2016: 63,876 cluster candidates were found.
+Sat Jun  4 22:29:33 2016: Aggregate cluster candidates...
+Sat Jun  4 22:29:33 2016: 138,981 nodes in the prefix tree.
+Sat Jun  4 22:29:33 2016: Finding clusters...
+Sat Jun  4 22:29:33 2016: 2 cluster were found.
+Sat Jun  4 22:29:33 2016: Joining clusters...
+Sat Jun  4 22:29:33 2016: 2 clusters contain frequent words under word weightthreshold.
+Sat Jun  4 22:29:33 2016: Those clusters were joined into 1 clusters.
+Sat Jun  4 22:29:33 2016: Total number of clusters: 1
+
+([Wed|[Fri) Jan (2|4) *{2,5}
+Support : 4,493
+
+
+Command line: ./LogClusterC --input=Cray_A --rsupport=0.5 --aggrsup --wweight=0.6
+Rumtime: 1.52
+CPU system: 0.05
+CPU user: 1.47
+Memory Consumption: 285132

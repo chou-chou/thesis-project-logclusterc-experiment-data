@@ -1,0 +1,63 @@
+Sat May 28 09:53:19 2016: File Cray_A is added
+Sat May 28 09:53:19 2016: Starting...
+Sat May 28 09:53:19 2016: Creating vocabulary...
+Sat May 28 09:53:20 2016: 13,737 words were inserted into the vocabulary.
+Sat May 28 09:53:20 2016: Finding frequent words from vocabulary...
+Sat May 28 09:53:20 2016: 1,051 frequent words were found.
+Sat May 28 09:53:20 2016: 37% - 5,151 words in vocabulary occur 1 time.
+Sat May 28 09:53:20 2016: 40% - 5,620 words in vocabulary occur 2 times or less.
+Sat May 28 09:53:20 2016: 54% - 7,546 words in vocabulary occur 5 times or less.
+Sat May 28 09:53:20 2016: 72% - 9,969 words in vocabulary occur 10 times or less.
+Sat May 28 09:53:20 2016: 78% - 10,764 words in vocabulary occur 20 times or less.
+Sat May 28 09:53:20 2016: 92.35% - 12,686 words in vocabulary occur less than 200(support) times.
+Sat May 28 09:53:20 2016: Finding cluster candidates...
+Sat May 28 09:53:20 2016: 151,707 cluster candidates were found.
+Sat May 28 09:53:20 2016: Finding clusters...
+Sat May 28 09:53:20 2016: 13 cluster were found.
+Sat May 28 09:53:20 2016: Total number of clusters: 13
+
+*{1,1} PTL_EVENT_ACK 
+Support : 292
+
+0: PTL_EVENT_SEND_END 
+Support : 292
+
+[Wed Jan 2 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 277
+
+[Fri Jan 4 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 276
+
+[Fri Apr 6 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 264
+
+[Mon Mar 5 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 264
+
+[Mon Oct 6 *{1,1} 2008]:0: PTL_EVENT_SEND_END 
+Support : 225
+
+[Fri Nov 30 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 224
+
+[Fri Dec 7 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 224
+
+[Tue Mar 6 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 220
+
+[Fri Oct 19 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 204
+
+[Fri Oct 26 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 203
+
+[Wed Jan 24 *{1,1} 2007]:0: PTL_EVENT_SEND_END 
+Support : 200
+
+
+Command line: ./LogClusterC --input=Cray_A --support=200
+Rumtime: 1.48
+CPU system: 0.16
+CPU user: 1.32
+Memory Consumption: 655384

@@ -1,0 +1,68 @@
+Tue May 31 15:35:11 2016: Starting...
+Tue May 31 15:35:11 2016: Creating vocabulary...
+Tue May 31 15:35:12 2016: 19144 words inserted into the vocabulary
+Tue May 31 15:35:12 2016: Finding frequent words from the vocabulary...
+Tue May 31 15:35:12 2016: 1146 frequent words found
+Tue May 31 15:35:12 2016: 9996 words in vocabulary occurring 1 time
+Tue May 31 15:35:12 2016: 10575 words in vocabulary occurring 2 times or less
+Tue May 31 15:35:12 2016: 12574 words in vocabulary occurring 5 times or less
+Tue May 31 15:35:12 2016: 15055 words in vocabulary occurring 10 times or less
+Tue May 31 15:35:12 2016: 15889 words in vocabulary occurring 20 times or less
+Tue May 31 15:35:12 2016: Finding cluster candidates...
+Tue May 31 15:35:13 2016: 150299 cluster candidates found
+Tue May 31 15:35:13 2016: Finding clusters from the set of candidates...
+Tue May 31 15:35:13 2016: 16 clusters found
+Tue May 31 15:35:13 2016: Analysis complete
+* PTL_EVENT_ACK 
+Support: 292
+
+0: PTL_EVENT_SEND_END 
+Support: 292
+
+[Mon Oct 6 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 225
+
+[Fri Jan 4 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 276
+
+[Wed Jan 2 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 277
+
+[Fri Dec 7 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 224
+
+[Fri Nov 30 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 224
+
+[Fri Oct 26 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 203
+
+[Fri Oct 19 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 204
+
+[Fri Apr 6 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 264
+
+[Tue Mar 6 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 220
+
+[Mon Mar 5 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 264
+
+[Wed Jan 24 * 2007]:0: PTL_EVENT_SEND_END 
+Support: 200
+
+Boot Node Daemon starting at * * * * 2008. 
+Support: 358
+
+Boot Node Daemon starting at * * * * 2007. 
+Support: 451
+
+got ACK from nid * with ptr 
+Support: 292
+
+Command line: ./SLCT -s 200 Cray_A
+Rumtime: 1.34
+CPU system: 0.01
+CPU user: 1.32
+Memory Consumption: 65644

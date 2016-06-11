@@ -1,0 +1,128 @@
+Fri May 27 22:35:50 2016: Starting...
+Fri May 27 22:35:50 2016: Creating vocabulary...
+Fri May 27 22:48:09 2016: 15411637 words inserted into the vocabulary
+Fri May 27 22:48:09 2016: Finding frequent words from the vocabulary...
+Fri May 27 22:48:10 2016: 238 frequent words found
+Fri May 27 22:48:10 2016: 2354906 words in vocabulary occurring 1 time
+Fri May 27 22:48:10 2016: 6664373 words in vocabulary occurring 2 times or less
+Fri May 27 22:48:10 2016: 8978286 words in vocabulary occurring 5 times or less
+Fri May 27 22:48:10 2016: 10440839 words in vocabulary occurring 10 times or less
+Fri May 27 22:48:10 2016: 12030491 words in vocabulary occurring 20 times or less
+Fri May 27 22:48:10 2016: Finding cluster candidates...
+Fri May 27 23:01:26 2016: 54573 cluster candidates found
+Fri May 27 23:01:26 2016: Finding clusters from the set of candidates...
+Fri May 27 23:01:26 2016: 36 clusters found
+- * 2005.11.28 ln9 Nov 28 * ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 2160280
+
+- * 2005.11.27 ln9 Nov 27 * ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1802870
+
+- * 2005.11.27 ln181 Nov 27 * ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1800574
+
+- * 2005.11.26 ln181 Nov 26 * ln181/ln181 pbs_mom: pbs_mom, wait_request failed 
+Support: 1731968
+
+- * 2005.11.26 ln9 Nov 26 * ln9/ln9 pbs_mom: pbs_mom, wait_request failed 
+Support: 1763719
+
+- * 2005.11.25 ln147 Nov 25 * ln147/ln147 pbs_mom: pbs_mom, wait_request failed 
+Support: 1842292
+
+- * 2005.11.21 ln205 Nov 21 * ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1671656
+
+- * 2005.11.20 ln205 Nov 20 * ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1547009
+
+- * 2005.11.19 ln205 Nov 19 * ln205/ln205 pbs_mom: pbs_mom, wait_request failed 
+Support: 1706560
+
+- * 2005.11.12 ln81 Nov 12 * ln81/ln81 pbs_mom: pbs_mom, wait_request failed 
+Support: 1471002
+
+- * 2005.11.06 ln177 Nov 6 * ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 3226140
+
+- * 2005.11.05 ln177 Nov 5 * ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 18142478
+
+- * 2005.11.04 ln177 Nov 4 * ln177/ln177 pbs_mom: pbs_mom, wait_request failed 
+Support: 2958846
+
+- * 2005.10.13 ln6 Oct 13 * ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1923413
+
+- * 2005.10.13 ln17 Oct 13 * ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 2146390
+
+- * 2005.10.12 ln17 Oct 12 * ln17/ln17 pbs_mom: pbs_mom, wait_request failed 
+Support: 1811910
+
+- * 2005.10.12 ln6 Oct 12 * ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1385867
+
+- * 2005.10.11 ln6 Oct 11 * ln6/ln6 pbs_mom: pbs_mom, wait_request failed 
+Support: 1402827
+
+N_PBS_BFD2 * 2005.11.28 ln9 Nov 28 * ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2160280
+
+N_PBS_BFD2 * 2005.11.27 ln9 Nov 27 * ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1802871
+
+N_PBS_BFD2 * 2005.11.27 ln181 Nov 27 * ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1800573
+
+N_PBS_BFD2 * 2005.11.26 ln181 Nov 26 * ln181/ln181 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1731967
+
+N_PBS_BFD2 * 2005.11.26 ln9 Nov 26 * ln9/ln9 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1763718
+
+N_PBS_BFD2 * 2005.11.25 ln147 Nov 25 * ln147/ln147 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1842290
+
+N_PBS_BFD2 * 2005.11.21 ln205 Nov 21 * ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1671658
+
+N_PBS_BFD2 * 2005.11.20 ln205 Nov 20 * ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1547007
+
+N_PBS_BFD2 * 2005.11.19 ln205 Nov 19 * ln205/ln205 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1706561
+
+N_PBS_BFD2 * 2005.11.12 ln81 Nov 12 * ln81/ln81 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1471002
+
+N_PBS_BFD2 * 2005.11.06 ln177 Nov 6 * ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 3402953
+
+N_PBS_BFD2 * 2005.11.05 ln177 Nov 5 * ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 18616263
+
+N_PBS_BFD2 * 2005.11.04 ln177 Nov 4 * ln177/ln177 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2958845
+
+N_PBS_BFD2 * 2005.10.13 ln6 Oct 13 * ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1923414
+
+N_PBS_BFD2 * 2005.10.13 ln17 Oct 13 * ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 2146392
+
+N_PBS_BFD2 * 2005.10.12 ln17 Oct 12 * ln17/ln17 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1811912
+
+N_PBS_BFD2 * 2005.10.12 ln6 Oct 12 * ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 1385881
+
+N_PBS_BFD2 * 2005.10.11 ln6 Oct 11 * ln6/ln6 pbs_mom: Bad file descriptor (9) in wait_request, select failed 
+Support: 14028Fri May 27 23:01:26 2016: Analysis complete
+28
+
+Command line: ./SLCT -s 0.5% LBR
+Rumtime: 1536.45
+CPU system: 13.09
+CPU user: 1523.76
+Memory Consumption: 1214084

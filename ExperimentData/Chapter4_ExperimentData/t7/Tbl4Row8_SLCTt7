@@ -1,0 +1,152 @@
+Sat May 28 10:04:00 2016: Starting...
+Sat May 28 10:04:00 2016: Creating vocabulary...
+Sat May 28 10:04:04 2016: 16741 words inserted into the vocabulary
+Sat May 28 10:04:04 2016: Finding frequent words from the vocabulary...
+Sat May 28 10:04:04 2016: 909 frequent words found
+Sat May 28 10:04:04 2016: 6701 words in vocabulary occurring 1 time
+Sat May 28 10:04:04 2016: 7574 words in vocabulary occurring 2 times or less
+Sat May 28 10:04:04 2016: 9853 words in vocabulary occurring 5 times or less
+Sat May 28 10:04:04 2016: 10399 words in vocabulary occurring 10 times or less
+Sat May 28 10:04:04 2016: 10818 words in vocabulary occurring 20 times or less
+Sat May 28 10:04:04 2016: Finding cluster candidates...
+Sat May 28 10:04:10 2016: 836461 cluster candidates found
+Sat May 28 10:04:10 2016: Finding clusters from the set of candidates...
+Sat May 28 10:04:10 2016: 44 clusters found
+Sat May 28 10:04:10 2016: Analysis complete
+[Mon Jul 7 * * PTL_EVENT_ACK 
+Support: 3433
+
+[Tue Jul 1 * * PTL_EVENT_ACK 
+Support: 3489
+
+[Mon Jun 30 * * PTL_EVENT_ACK 
+Support: 4689
+
+[Tue Jun 24 * * PTL_EVENT_ACK 
+Support: 4079
+
+[Mon Jun 23 * * PTL_EVENT_ACK 
+Support: 11404
+
+[Sun Jun 22 * * PTL_EVENT_ACK 
+Support: 6959
+
+[Thu Jun 19 * * PTL_EVENT_ACK 
+Support: 3199
+
+[Wed Jun 18 * * PTL_EVENT_ACK 
+Support: 4700
+
+[Mon Jun 16 * * PTL_EVENT_ACK 
+Support: 7831
+
+[Thu Jun 12 * * PTL_EVENT_ACK 
+Support: 6479
+
+[Wed Jun 11 * * PTL_EVENT_ACK 
+Support: 8555
+
+[Tue Jun 10 * * PTL_EVENT_ACK 
+Support: 4560
+
+[Mon Jun 9 * * PTL_EVENT_ACK 
+Support: 4279
+
+[Sun Jun 8 * * PTL_EVENT_ACK 
+Support: 4469
+
+[Fri Jun 6 * * PTL_EVENT_ACK 
+Support: 3516
+
+[Thu Jun 5 * * PTL_EVENT_ACK 
+Support: 5718
+
+[Mon Jun 2 * * PTL_EVENT_ACK 
+Support: 6752
+
+[Tue May 20 * * PTL_EVENT_ACK 
+Support: 3711
+
+[Fri May 16 * * PTL_EVENT_ACK 
+Support: 4520
+
+[Tue May 13 * * PTL_EVENT_ACK 
+Support: 7337
+
+[Sat May 10 * * PTL_EVENT_ACK 
+Support: 4457
+
+[Tue May 6 * * PTL_EVENT_ACK 
+Support: 3254
+
+[Mon Jul 7 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 3430
+
+[Tue Jul 1 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 3489
+
+[Mon Jun 30 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4687
+
+[Tue Jun 24 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4080
+
+[Mon Jun 23 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 11421
+
+[Sun Jun 22 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 6958
+
+[Thu Jun 19 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 3203
+
+[Wed Jun 18 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4698
+
+[Mon Jun 16 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 7826
+
+[Thu Jun 12 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 6477
+
+[Wed Jun 11 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 8556
+
+[Tue Jun 10 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4561
+
+[Mon Jun 9 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4272
+
+[Sun Jun 8 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4470
+
+[Fri Jun 6 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 3517
+
+[Thu Jun 5 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 5708
+
+[Mon Jun 2 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 6757
+
+[Tue May 20 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 3715
+
+[Fri May 16 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4522
+
+[Tue May 13 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 7337
+
+[Sat May 10 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 4457
+
+[Tue May 6 * 2008]:0: PTL_EVENT_SEND_END 
+Support: 3255
+
+Command line: ./SLCT -s 0.1% Cray_C
+Rumtime: 10.82
+CPU system: 0.11
+CPU user: 10.71
+Memory Consumption: 371584
