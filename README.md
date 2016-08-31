@@ -4,7 +4,7 @@ This repository supports the R3 principle (Repeatability, Reproducibility, and R
 
 To reproduce the experiments in the thesis, the experiment folder should contain ExperimentScript.sh, logcluster.pl (https://github.com/ristov/logcluster/archive/0.03.tar.gz), logcluster008.pl (https://github.com/ristov/logcluster/archive/0.08.tar.gz), LogClusterC (https://github.com/zhugehq/thesis-project-logclusterc/archive/0.03.tar.gz, need compiling), SLCT (http://ristov.github.io/slct/slct-0.05.tar.gz , version 0.05, need compiling), and the seven log files (public available from https://www.usenix.org/cfdr-data , detailed descriptions on page 44 of the thesis).
 
-*The experiments in Appendix2 was proved pointless. The hard drive used in Chapter4 is already fast enough, and the I/O speed was not the bottleneck(proved with unix command "hdparm -t /dev/sda"). Therefore, the corresponding folder is marked as outdated.*
+*The experiments in Appendix2 was proved pointless. The hard drive used in Chapter4 is already fast enough, and the I/O speed was not the bottleneck (proved with unix command "hdparm -t /dev/sda"). Therefore, the corresponding folders are marked as outdated.*
 
 The ExperimentScript is executed with the format shown below. 
 
