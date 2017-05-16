@@ -12,4 +12,4 @@ The ExperimentScript is executed with the format shown below.
 
 The ExperimentScript will cost approximately 75 hours on the computer used in the thesis (Ubuntu Server 14.04. Intel i7-4720 HQ 2.6 GHz CPU, Kingston 16 GB DDR3 1600 MHz RAM, Western Digital 1 TB 5400 rpm hard disk.).
 
-The project is stored in another GitHub repository: https://github.com/zhugehq/thesis-project-logclusterc .
+The project is stored in another GitHub repository: https://github.com/zhugegy/LogClusterC .
